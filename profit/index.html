@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>igogo 通路×品牌 毛利 Dashboard</title>
+<style>
+:root{
+  --surface-1:#fcfcfb; --page:#f9f9f7;
+  --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,.10);
+  --s1:#2a78d6; --s2:#1baf7a; --s1-soft:#9ec5f4;
+  --neg:#d03b3b; --good:#006300;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --surface-1:#1a1a19; --page:#0d0d0d;
+    --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+    --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
+    --s1:#3987e5; --s2:#199e70; --s1-soft:#1c5cab;
+    --neg:#e66767; --good:#0ca30c;
+  }
+}
+*{box-sizing:border-box;margin:0}
+body{background:var(--page);color:var(--ink);
+  font-family:system-ui,-apple-system,"Segoe UI","Microsoft JhengHei",sans-serif;
+  font-size:14px;line-height:1.45;padding:20px 16px 48px}
+.wrap{max-width:1180px;margin:0 auto}
+header h1{font-size:20px;font-weight:700}
+header .sub{color:var(--ink-2);font-size:12.5px;margin-top:2px}
+.filters{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 14px;align-items:center}
+.filters label{font-size:12px;color:var(--ink-2)}
+.filters select{font:inherit;font-size:13px;color:var(--ink);background:var(--surface-1);
+  border:1px solid var(--border);border-radius:8px;padding:6px 10px;min-width:130px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-bottom:14px}
+.kpi{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
+.kpi .t{font-size:12px;color:var(--ink-2)}
+.kpi .v{font-size:24px;font-weight:700;margin-top:2px}
+.kpi .d{font-size:12px;color:var(--muted);margin-top:2px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:860px){.grid2{grid-template-columns:1fr}}
+.card{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
+  padding:14px 16px;margin-bottom:12px}
+.card h2{font-size:14px;font-weight:700}
+.card .note{font-size:12px;color:var(--muted);margin-top:1px}
+.legend{display:flex;gap:14px;font-size:12px;color:var(--ink-2);margin-top:6px}
+.legend .sw{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+svg text{font-family:inherit}
+.hrow{cursor:pointer}
+.hrow:hover .hbarbg{fill:var(--grid)}
+#tip{position:fixed;pointer-events:none;background:var(--surface-1);border:1px solid var(--border);
+  border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.18);padding:8px 11px;font-size:12.5px;
+  color:var(--ink);display:none;z-index:10;max-width:260px}
+#tip .h{font-weight:700;margin-bottom:3px}
+#tip .r{display:flex;justify-content:space-between;gap:14px;color:var(--ink-2)}
+#tip .r b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;color:var(--ink-2);font-weight:600;border-bottom:1px solid var(--axis);padding:6px 8px;white-space:nowrap}
+td{border-bottom:1px solid var(--grid);padding:6px 8px;font-variant-numeric:tabular-nums}
+td.n,th.n{text-align:right}
+tr:hover td{background:var(--page)}
+.negv{color:var(--neg)}
+footer{color:var(--muted);font-size:12px;margin-top:18px;line-height:1.7}
+a{color:var(--s1)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>igogo 通路 × 品牌 毛利 Dashboard</h1>
+    <div class="sub" id="subline">載入中…</div>
+  </header>
+
+  <div class="filters">
+    <label>期間
+      <select id="fPeriod">
+        <option value="complete" selected>費用完整期</option>
+        <option value="m3">近 3 個月</option>
+        <option value="m6">近 6 個月</option>
+        <option value="all">全部（含費用未定稿月）</option>
+      </select>
+    </label>
+    <label>平台 <select id="fPlat"><option value="all">全部平台</option></select></label>
+    <label>品牌 <select id="fBrand"><option value="all">全部品牌</option></select></label>
+  </div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="card">
+    <h2>月度趨勢</h2>
+    <div class="note" id="trendNote"></div>
+    <div class="legend">
+      <span><span class="sw" style="background:var(--s1)"></span>營收</span>
+      <span><span class="sw" style="background:var(--s2)"></span>貢獻利益</span>
+    </div>
+    <div id="trend"></div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <h2>通路貢獻 TOP 12</h2>
+      <div class="note">點擊列＝篩選該平台</div>
+      <div id="chBars"></div>
+    </div>
+    <div class="card">
+      <h2>品牌貢獻 TOP 12</h2>
+      <div class="note">點擊列＝篩選該品牌</div>
+      <div id="brBars"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2 id="tblTitle">明細表</h2>
+    <div style="overflow-x:auto;margin-top:8px"><div id="tbl"></div></div>
+  </div>
+
+  <footer id="foot"></footer>
+</div>
+<div id="tip"></div>
+
+<script>
+const $=id=>document.getElementById(id);
+const fmt=v=>Math.round(v).toLocaleString("en-US");
+const fmtW=v=>{const a=Math.abs(v);
+  if(a>=1e8) return (v/1e8).toFixed(2)+"億";
+  if(a>=1e4) return Math.round(v/1e4).toLocaleString()+"萬";
+  return fmt(v);};
+const pct=(a,b)=>b?((a/b*100).toFixed(1)+"%"):"–";
+let DATA=null, CH=[], BR=[], NAME={}, MONTHS=[];
+
+fetch("data/profit.json").then(r=>r.json()).then(d=>{
+  DATA=d;
+  CH=d.channel_rows.map(r=>({ym:r[0],code:r[1],plat:r[2],team:r[3],rev:r[4],cogs:r[5],fee:r[6]+r[7]}));
+  BR=d.brand_rows.map(r=>({ym:r[0],code:r[1],brand:r[2],rev:r[3],cogs:r[4],fee:r[5]}));
+  CH.forEach(r=>{if(r.code&&!NAME[r.code])NAME[r.code]=r.plat;});
+  MONTHS=[...new Set(CH.map(r=>r.ym))].sort();
+  $("subline").textContent=`資料期間 ${MONTHS[0]} ~ ${MONTHS[MONTHS.length-1]}｜費用完整至 ${d.fees_through}｜更新 ${d.updated}`;
+  $("foot").innerHTML=`口徑：貢獻利益 = 營收(含稅) − 商品成本 − 平台內扣/外付費用。品牌費用按各平台當月品牌營收占比分攤。`+
+    `退貨已含於營收淨額；共同費用（總部薪資租金/全公司廣告）未分攤。`+
+    `成本以目前進價推算。費用完整登記至 ${d.fees_through}，之後月份僅供參考。`;
+  // 平台選單（依貢獻排序）
+  const agg={};CH.forEach(r=>{const a=agg[r.code]??=[0,r.plat];a[0]+=r.rev-r.cogs-r.fee;});
+  Object.entries(agg).sort((x,y)=>y[1][0]-x[1][0]).forEach(([c,[_,p]])=>{
+    $("fPlat").insertAdjacentHTML("beforeend",`<option value="${c}">${p}</option>`);});
+  const bag={};BR.forEach(r=>{bag[r.brand]=(bag[r.brand]||0)+r.rev-r.cogs-r.fee;});
+  Object.entries(bag).sort((x,y)=>y[1]-x[1]).forEach(([b])=>{
+    $("fBrand").insertAdjacentHTML("beforeend",`<option value="${b}">${b}</option>`);});
+  ["fPeriod","fPlat","fBrand"].forEach(id=>$(id).addEventListener("change",render));
+  render();
+});
+
+function periodMonths(){
+  const p=$("fPeriod").value;
+  const comp=MONTHS.filter(m=>m<=DATA.fees_through);
+  if(p==="all")return MONTHS;
+  if(p==="complete")return comp;
+  const n=p==="m3"?3:6;
+  return comp.slice(-n);
+}
+function curRows(){
+  const ms=new Set(periodMonths()), plat=$("fPlat").value, brand=$("fBrand").value;
+  if(brand!=="all"){
+    return BR.filter(r=>ms.has(r.ym)&&r.brand===brand&&(plat==="all"||r.code===plat));
+  }
+  if(plat!=="all") return CH.filter(r=>ms.has(r.ym)&&r.code===plat);
+  return CH.filter(r=>ms.has(r.ym));
+}
+function brandRows(){
+  const ms=new Set(periodMonths()), plat=$("fPlat").value, brand=$("fBrand").value;
+  return BR.filter(r=>ms.has(r.ym)&&(plat==="all"||r.code===plat)&&(brand==="all"||r.brand===brand));
+}
+function sum(rows){const t={rev:0,cogs:0,fee:0};
+  rows.forEach(r=>{t.rev+=r.rev;t.cogs+=r.cogs;t.fee+=r.fee;});
+  t.gp=t.rev-t.cogs;t.ctb=t.gp-t.fee;return t;}
+
+function render(){
+  const rows=curRows(), t=sum(rows), ms=periodMonths();
+  $("kpis").innerHTML=[
+    ["營收",fmtW(t.rev),`${ms.length} 個月`],
+    ["毛利",fmtW(t.gp),`毛利率 ${pct(t.gp,t.rev)}`],
+    ["通路費用",fmtW(t.fee),`占營收 ${pct(t.fee,t.rev)}`],
+    ["貢獻利益",fmtW(t.ctb),`貢獻率 ${pct(t.ctb,t.rev)}`],
+  ].map(([a,b,c])=>`<div class="kpi"><div class="t">${a}</div><div class="v">${b}</div><div class="d">${c}</div></div>`).join("");
+  renderTrend(rows,ms);
+  renderChannelBars();
+  renderBrandBars();
+  renderTable();
+}
+
+/* ---- 月度趨勢：營收長條 + 貢獻利益折線 ---- */
+function renderTrend(rows,ms){
+  const by={};ms.forEach(m=>by[m]={rev:0,cogs:0,fee:0});
+  rows.forEach(r=>{const a=by[r.ym];if(a){a.rev+=r.rev;a.cogs+=r.cogs;a.fee+=r.fee;}});
+  const pts=ms.map(m=>({m,rev:by[m].rev,ctb:by[m].rev-by[m].cogs-by[m].fee,
+    incomplete:m>DATA.fees_through}));
+  const W=1080,H=260,L=56,R=14,T=14,B=34,iw=W-L-R,ih=H-T-B;
+  const vmax=Math.max(1,...pts.map(p=>Math.max(p.rev,p.ctb)));
+  const vmin=Math.min(0,...pts.map(p=>p.ctb));
+  const y=v=>T+ih-(v-vmin)/(vmax-vmin)*ih;
+  const bw=Math.min(34,iw/pts.length*.55), step=iw/Math.max(1,pts.length);
+  let g="";
+  const ticks=4;
+  for(let i=0;i<=ticks;i++){const v=vmin+(vmax-vmin)*i/ticks;
+    g+=`<line x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--grid)" stroke-width="1"/>`+
+       `<text x="${L-8}" y="${y(v)+4}" text-anchor="end" font-size="11" fill="var(--muted)">${fmtW(v)}</text>`;}
+  let bars="",line="",dots="",hits="",labels="";
+  pts.forEach((p,i)=>{
+    const cx=L+step*(i+.5);
+    const by0=y(Math.max(0,0)),byv=y(p.rev);
+    bars+=`<rect x="${cx-bw/2}" y="${Math.min(byv,by0)}" width="${bw}" height="${Math.max(2,Math.abs(by0-byv))}" rx="4"
+      fill="var(--s1)" ${p.incomplete?'opacity=".45"':''}/>`;
+    line+=(i?"L":"M")+cx+" "+y(p.ctb);
+    dots+=`<circle cx="${cx}" cy="${y(p.ctb)}" r="4" fill="var(--s2)" stroke="var(--surface-1)" stroke-width="2"/>`;
+    const lab=p.m.slice(2).replace("-","/")+(p.incomplete?"*":"");
+    labels+=`<text x="${cx}" y="${H-12}" text-anchor="middle" font-size="11" fill="var(--muted)">${lab}</text>`;
+    hits+=`<rect x="${cx-step/2}" y="${T}" width="${step}" height="${ih}" fill="transparent"
+      data-tip="${p.m}${p.incomplete?"（費用未定稿）":""}|營收|${fmt(p.rev)}|貢獻利益|${fmt(p.ctb)}|貢獻率|${pct(p.ctb,p.rev)}"/>`;
+  });
+  $("trend").innerHTML=`<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block;margin-top:6px">
+    ${g}<line x1="${L}" x2="${W-R}" y1="${y(0)}" y2="${y(0)}" stroke="var(--axis)" stroke-width="1"/>
+    ${bars}<path d="${line}" fill="none" stroke="var(--s2)" stroke-width="2"/>${dots}${labels}${hits}</svg>`;
+  $("trendNote").textContent = pts.some(p=>p.incomplete)?"* 標記月份的費用尚未登記完，貢獻利益偏高":"";
+  bindTips($("trend"));
+}
+
+/* ---- 橫條圖（單一序列） ---- */
+function hbars(el,items,onClick){
+  const W=520,rowH=30,L=118,R=64,T=4;
+  const H=T+items.length*rowH+4;
+  const vmax=Math.max(1,...items.map(i=>Math.max(i.v,0)));
+  const vmin=Math.min(0,...items.map(i=>i.v));
+  const x=v=>L+(v-vmin)/(vmax-vmin)*(W-L-R);
+  let s="";
+  items.forEach((it,i)=>{
+    const yy=T+i*rowH, bx0=x(Math.min(0,it.v)),bx1=x(Math.max(0,it.v));
+    const neg=it.v<0;
+    s+=`<g class="hrow" data-key="${it.key}" data-tip="${it.name}|營收|${fmt(it.rev)}|貢獻利益|${fmt(it.v)}|貢獻率|${pct(it.v,it.rev)}">
+      <rect class="hbarbg" x="0" y="${yy}" width="${W}" height="${rowH-2}" fill="transparent" rx="6"/>
+      <text x="${L-8}" y="${yy+rowH/2+3}" text-anchor="end" font-size="12" fill="var(--ink-2)">${it.name.length>9?it.name.slice(0,9)+"…":it.name}</text>
+      <rect x="${bx0}" y="${yy+rowH/2-7}" width="${Math.max(2,bx1-bx0)}" height="12" rx="4" fill="${neg?"var(--neg)":"var(--s1)"}"/>
+      <text x="${bx1+6}" y="${yy+rowH/2+3}" font-size="11.5" fill="${neg?"var(--neg)":"var(--ink-2)"}" font-variant-numeric="tabular-nums">${fmtW(it.v)}</text>
+    </g>`;
+  });
+  el.innerHTML=`<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block;margin-top:8px">
+    <line x1="${x(0)}" x2="${x(0)}" y1="${T}" y2="${H-4}" stroke="var(--axis)" stroke-width="1"/>${s}</svg>`;
+  el.querySelectorAll(".hrow").forEach(n=>n.addEventListener("click",()=>onClick(n.dataset.key)));
+  bindTips(el);
+}
+function renderChannelBars(){
+  const ms=new Set(periodMonths()), brand=$("fBrand").value;
+  const rows=brand!=="all"?BR.filter(r=>ms.has(r.ym)&&r.brand===brand):CH.filter(r=>ms.has(r.ym));
+  const agg={};rows.forEach(r=>{const a=agg[r.code]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
+  const items=Object.entries(agg).map(([c,a])=>({key:c,name:NAME[c]||c,rev:a.rev,v:a.v}))
+    .sort((x,y)=>y.v-x.v).slice(0,12);
+  hbars($("chBars"),items,k=>{$("fPlat").value=($("fPlat").value===k?"all":k);render();});
+}
+function renderBrandBars(){
+  const rows=brandRowsNoBrandFilter();
+  const agg={};rows.forEach(r=>{const a=agg[r.brand]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
+  const items=Object.entries(agg).map(([b,a])=>({key:b,name:b,rev:a.rev,v:a.v}))
+    .sort((x,y)=>y.v-x.v).slice(0,12);
+  hbars($("brBars"),items,k=>{$("fBrand").value=($("fBrand").value===k?"all":k);render();});
+}
+function brandRowsNoBrandFilter(){
+  const ms=new Set(periodMonths()), plat=$("fPlat").value;
+  return BR.filter(r=>ms.has(r.ym)&&(plat==="all"||r.code===plat));
+}
+
+/* ---- 明細表 ---- */
+function renderTable(){
+  const plat=$("fPlat").value, brand=$("fBrand").value;
+  const rows=brandRows();
+  const key=r=>plat!=="all"&&brand==="all"?r.brand
+            :brand!=="all"&&plat==="all"?(NAME[r.code]||r.code)
+            :(NAME[r.code]||r.code)+"｜"+r.brand;
+  const agg={};rows.forEach(r=>{const a=agg[key(r)]??={rev:0,cogs:0,fee:0};a.rev+=r.rev;a.cogs+=r.cogs;a.fee+=r.fee;});
+  const list=Object.entries(agg).map(([k,a])=>({k,...a,gp:a.rev-a.cogs,ctb:a.rev-a.cogs-a.fee}))
+    .sort((x,y)=>y.ctb-x.ctb).slice(0,60);
+  const head=plat!=="all"&&brand==="all"?"品牌":brand!=="all"&&plat==="all"?"平台":"平台｜品牌";
+  $("tblTitle").textContent=`明細表（${head}，依貢獻利益排序，前 ${list.length} 筆）`;
+  $("tbl").innerHTML=`<table><thead><tr><th>${head}</th><th class="n">營收</th><th class="n">成本</th>
+    <th class="n">毛利</th><th class="n">分攤費用</th><th class="n">貢獻利益</th><th class="n">貢獻率</th></tr></thead><tbody>`+
+    list.map(r=>`<tr><td>${r.k}</td><td class="n">${fmt(r.rev)}</td><td class="n">${fmt(r.cogs)}</td>
+      <td class="n">${fmt(r.gp)}</td><td class="n">${fmt(r.fee)}</td>
+      <td class="n ${r.ctb<0?"negv":""}">${fmt(r.ctb)}</td><td class="n">${pct(r.ctb,r.rev)}</td></tr>`).join("")+
+    `</tbody></table>`;
+}
+
+/* ---- tooltip ---- */
+function bindTips(root){
+  root.querySelectorAll("[data-tip]").forEach(n=>{
+    n.addEventListener("mousemove",e=>{
+      const p=n.dataset.tip.split("|");
+      let h=`<div class="h">${p[0]}</div>`;
+      for(let i=1;i<p.length;i+=2)h+=`<div class="r"><span>${p[i]}</span><b>${p[i+1]}</b></div>`;
+      const t=$("tip");t.innerHTML=h;t.style.display="block";
+      const x=Math.min(e.clientX+14,innerWidth-280),y=Math.min(e.clientY+14,innerHeight-120);
+      t.style.left=x+"px";t.style.top=y+"px";
+    });
+    n.addEventListener("mouseleave",()=>$("tip").style.display="none");
+  });
+}
+</script>
+</body>
+</html>
