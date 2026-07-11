@@ -10,7 +10,7 @@
   --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
   --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,.10);
   --s1:#2a78d6; --s2:#1baf7a; --s1-soft:#9ec5f4;
-  --neg:#d03b3b; --good:#006300;
+  --neg:#d03b3b; --good:#006300; --chip:#efeeea;
 }
 @media (prefers-color-scheme: dark){
   :root{
@@ -18,7 +18,7 @@
     --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
     --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
     --s1:#3987e5; --s2:#199e70; --s1-soft:#1c5cab;
-    --neg:#e66767; --good:#0ca30c;
+    --neg:#e66767; --good:#0ca30c; --chip:#262624;
   }
 }
 *{box-sizing:border-box;margin:0}
@@ -28,10 +28,18 @@ body{background:var(--page);color:var(--ink);
 .wrap{max-width:1180px;margin:0 auto}
 header h1{font-size:20px;font-weight:700}
 header .sub{color:var(--ink-2);font-size:12.5px;margin-top:2px}
-.filters{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 14px;align-items:center}
-.filters label{font-size:12px;color:var(--ink-2)}
-.filters select{font:inherit;font-size:13px;color:var(--ink);background:var(--surface-1);
-  border:1px solid var(--border);border-radius:8px;padding:6px 10px;min-width:130px}
+.fcard{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
+  padding:12px 16px;margin:14px 0}
+.frow{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:4px 0}
+.frow .lb{font-size:12px;color:var(--muted);width:34px;flex:none}
+.chip{font:inherit;font-size:12.5px;color:var(--ink-2);background:var(--chip);
+  border:1px solid transparent;border-radius:999px;padding:4px 12px;cursor:pointer;user-select:none}
+.chip:hover{border-color:var(--s1)}
+.chip.on{background:var(--s1);color:#fff;font-weight:600}
+.chip.dim{opacity:.55}
+select.more{font:inherit;font-size:12.5px;color:var(--ink-2);background:var(--chip);
+  border:1px solid transparent;border-radius:999px;padding:4px 8px;max-width:110px}
+.ck{font-size:12.5px;color:var(--ink-2);display:inline-flex;align-items:center;gap:5px;margin-left:8px}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-bottom:14px}
 .kpi{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
 .kpi .t{font-size:12px;color:var(--ink-2)}
@@ -71,17 +79,12 @@ a{color:var(--s1)}
     <div class="sub" id="subline">載入中…</div>
   </header>
 
-  <div class="filters">
-    <label>期間
-      <select id="fPeriod">
-        <option value="complete" selected>費用完整期</option>
-        <option value="m3">近 3 個月</option>
-        <option value="m6">近 6 個月</option>
-        <option value="all">全部（含費用未定稿月）</option>
-      </select>
-    </label>
-    <label>平台 <select id="fPlat"><option value="all">全部平台</option></select></label>
-    <label>品牌 <select id="fBrand"><option value="all">全部品牌</option></select></label>
+  <div class="fcard">
+    <div class="frow"><span class="lb">年份</span><span id="fYear" style="display:contents"></span>
+      <label class="ck"><input type="checkbox" id="fIncomplete">含費用未定稿月</label></div>
+    <div class="frow"><span class="lb">月份</span><span id="fMonth" style="display:contents"></span></div>
+    <div class="frow"><span class="lb">通路</span><span id="fPlat" style="display:contents"></span></div>
+    <div class="frow"><span class="lb">品牌</span><span id="fBrand" style="display:contents"></span></div>
   </div>
 
   <div class="kpis" id="kpis"></div>
@@ -99,12 +102,12 @@ a{color:var(--s1)}
   <div class="grid2">
     <div class="card">
       <h2>通路貢獻 TOP 12</h2>
-      <div class="note">點擊列＝篩選該平台</div>
+      <div class="note">點擊列＝加入/取消通路篩選</div>
       <div id="chBars"></div>
     </div>
     <div class="card">
       <h2>品牌貢獻 TOP 12</h2>
-      <div class="note">點擊列＝篩選該品牌</div>
+      <div class="note">點擊列＝加入/取消品牌篩選</div>
       <div id="brBars"></div>
     </div>
   </div>
@@ -126,7 +129,10 @@ const fmtW=v=>{const a=Math.abs(v);
   if(a>=1e4) return Math.round(v/1e4).toLocaleString()+"萬";
   return fmt(v);};
 const pct=(a,b)=>b?((a/b*100).toFixed(1)+"%"):"–";
-let DATA=null, CH=[], BR=[], NAME={}, MONTHS=[];
+let DATA=null, CH=[], BR=[], NAME={}, MONTHS=[], YEARS=[];
+let PLATS=[], BRANDS=[];          // [{key,name,ctb}] 依貢獻排序
+const S={year:"all", month:"all", incomplete:false, plats:new Set(), brands:new Set()};
+const CHIP_N=12;
 
 fetch("data/profit.json").then(r=>r.json()).then(d=>{
   DATA=d;
@@ -134,46 +140,88 @@ fetch("data/profit.json").then(r=>r.json()).then(d=>{
   BR=d.brand_rows.map(r=>({ym:r[0],code:r[1],brand:r[2],rev:r[3],cogs:r[4],fee:r[5]}));
   CH.forEach(r=>{if(r.code&&!NAME[r.code])NAME[r.code]=r.plat;});
   MONTHS=[...new Set(CH.map(r=>r.ym))].sort();
+  YEARS=[...new Set(MONTHS.map(m=>m.slice(0,4)))].sort();
+  const pa={};CH.forEach(r=>{const a=pa[r.code]??={v:0};a.v+=r.rev-r.cogs-r.fee;});
+  PLATS=Object.entries(pa).map(([c,a])=>({key:c,name:NAME[c]||c,ctb:a.v})).sort((x,y)=>y.ctb-x.ctb);
+  const ba={};BR.forEach(r=>{ba[r.brand]=(ba[r.brand]||0)+r.rev-r.cogs-r.fee;});
+  BRANDS=Object.entries(ba).map(([b,v])=>({key:b,name:b,ctb:v})).sort((x,y)=>y.ctb-x.ctb);
   $("subline").textContent=`資料期間 ${MONTHS[0]} ~ ${MONTHS[MONTHS.length-1]}｜費用完整至 ${d.fees_through}｜更新 ${d.updated}`;
   $("foot").innerHTML=`口徑：貢獻利益 = 營收(含稅) − 商品成本 − 平台內扣/外付費用。品牌費用按各平台當月品牌營收占比分攤。`+
     `退貨已含於營收淨額；共同費用（總部薪資租金/全公司廣告）未分攤。`+
     `成本以目前進價推算。費用完整登記至 ${d.fees_through}，之後月份僅供參考。`;
-  // 平台選單（依貢獻排序）
-  const agg={};CH.forEach(r=>{const a=agg[r.code]??=[0,r.plat];a[0]+=r.rev-r.cogs-r.fee;});
-  Object.entries(agg).sort((x,y)=>y[1][0]-x[1][0]).forEach(([c,[_,p]])=>{
-    $("fPlat").insertAdjacentHTML("beforeend",`<option value="${c}">${p}</option>`);});
-  const bag={};BR.forEach(r=>{bag[r.brand]=(bag[r.brand]||0)+r.rev-r.cogs-r.fee;});
-  Object.entries(bag).sort((x,y)=>y[1]-x[1]).forEach(([b])=>{
-    $("fBrand").insertAdjacentHTML("beforeend",`<option value="${b}">${b}</option>`);});
-  ["fPeriod","fPlat","fBrand"].forEach(id=>$(id).addEventListener("change",render));
+  $("fIncomplete").addEventListener("change",e=>{S.incomplete=e.target.checked;render();});
   render();
 });
 
-function periodMonths(){
-  const p=$("fPeriod").value;
-  const comp=MONTHS.filter(m=>m<=DATA.fees_through);
-  if(p==="all")return MONTHS;
-  if(p==="complete")return comp;
-  const n=p==="m3"?3:6;
-  return comp.slice(-n);
+/* ---------- 篩選列 ---------- */
+function chip(label,on,cb,dim){
+  const b=document.createElement("button");
+  b.className="chip"+(on?" on":"")+(dim?" dim":"");
+  b.textContent=label;b.addEventListener("click",cb);return b;
 }
-function curRows(){
-  const ms=new Set(periodMonths()), plat=$("fPlat").value, brand=$("fBrand").value;
-  if(brand!=="all"){
-    return BR.filter(r=>ms.has(r.ym)&&r.brand===brand&&(plat==="all"||r.code===plat));
+function renderFilters(){
+  // 年份
+  const fy=$("fYear");fy.innerHTML="";
+  fy.append(chip("全部",S.year==="all",()=>{S.year="all";S.month="all";render();}));
+  YEARS.forEach(y=>fy.append(chip(y+"年",S.year===y,()=>{S.year=(S.year===y?"all":y);if(S.year==="all")S.month="all";render();})));
+  // 月份（選了年份才能挑單月）
+  const fm=$("fMonth");fm.innerHTML="";
+  fm.append(chip("全年",S.month==="all",()=>{S.month="all";render();}));
+  if(S.year==="all"){
+    const s=document.createElement("span");s.style.cssText="font-size:12px;color:var(--muted);align-self:center";
+    s.textContent="（先選年份再挑單月）";fm.append(s);
+  }else{
+    const avail=new Set(MONTHS.filter(m=>m.startsWith(S.year)).map(m=>+m.slice(5)));
+    for(let m=1;m<=12;m++){
+      if(!avail.has(m))continue;
+      const ym=`${S.year}-${String(m).padStart(2,"0")}`;
+      const dim=ym>DATA.fees_through;
+      fm.append(chip(m+"月"+(dim?"*":""),S.month===m,()=>{S.month=(S.month===m?"all":m);render();},dim));
+    }
   }
-  if(plat!=="all") return CH.filter(r=>ms.has(r.ym)&&r.code===plat);
-  return CH.filter(r=>ms.has(r.ym));
+  renderDimChips($("fPlat"),PLATS,S.plats);
+  renderDimChips($("fBrand"),BRANDS,S.brands);
 }
-function brandRows(){
-  const ms=new Set(periodMonths()), plat=$("fPlat").value, brand=$("fBrand").value;
-  return BR.filter(r=>ms.has(r.ym)&&(plat==="all"||r.code===plat)&&(brand==="all"||r.brand===brand));
+function renderDimChips(el,list,set){
+  el.innerHTML="";
+  el.append(chip("全部",set.size===0,()=>{set.clear();render();}));
+  const show=list.slice(0,CHIP_N).map(i=>i.key);
+  [...set].forEach(k=>{if(!show.includes(k))show.push(k);});
+  show.forEach(k=>{
+    const it=list.find(i=>i.key===k);if(!it)return;
+    el.append(chip(it.name,set.has(k),()=>{set.has(k)?set.delete(k):set.add(k);render();}));
+  });
+  const rest=list.slice(CHIP_N).filter(i=>!set.has(i.key));
+  if(rest.length){
+    const s=document.createElement("select");s.className="more";
+    s.innerHTML=`<option value="">更多…</option>`+rest.map(i=>`<option value="${i.key}">${i.name}</option>`).join("");
+    s.addEventListener("change",()=>{if(s.value){set.add(s.value);render();}});
+    el.append(s);
+  }
+}
+
+/* ---------- 資料選取 ---------- */
+function periodMonths(){
+  return MONTHS.filter(m=>{
+    if(!S.incomplete&&m>DATA.fees_through)return false;
+    if(S.year!=="all"&&!m.startsWith(S.year))return false;
+    if(S.year!=="all"&&S.month!=="all"&&+m.slice(5)!==S.month)return false;
+    return true;
+  });
+}
+const inPlat=r=>S.plats.size===0||S.plats.has(r.code);
+const inBrand=r=>S.brands.size===0||S.brands.has(r.brand);
+function curRows(){
+  const ms=new Set(periodMonths());
+  if(S.brands.size>0) return BR.filter(r=>ms.has(r.ym)&&inBrand(r)&&inPlat(r));
+  return CH.filter(r=>ms.has(r.ym)&&inPlat(r));
 }
 function sum(rows){const t={rev:0,cogs:0,fee:0};
   rows.forEach(r=>{t.rev+=r.rev;t.cogs+=r.cogs;t.fee+=r.fee;});
   t.gp=t.rev-t.cogs;t.ctb=t.gp-t.fee;return t;}
 
 function render(){
+  renderFilters();
   const rows=curRows(), t=sum(rows), ms=periodMonths();
   $("kpis").innerHTML=[
     ["營收",fmtW(t.rev),`${ms.length} 個月`],
@@ -187,7 +235,7 @@ function render(){
   renderTable();
 }
 
-/* ---- 月度趨勢：營收長條 + 貢獻利益折線 ---- */
+/* ---------- 月度趨勢 ---------- */
 function renderTrend(rows,ms){
   const by={};ms.forEach(m=>by[m]={rev:0,cogs:0,fee:0});
   rows.forEach(r=>{const a=by[r.ym];if(a){a.rev+=r.rev;a.cogs+=r.cogs;a.fee+=r.fee;}});
@@ -197,22 +245,24 @@ function renderTrend(rows,ms){
   const vmax=Math.max(1,...pts.map(p=>Math.max(p.rev,p.ctb)));
   const vmin=Math.min(0,...pts.map(p=>p.ctb));
   const y=v=>T+ih-(v-vmin)/(vmax-vmin)*ih;
-  const bw=Math.min(34,iw/pts.length*.55), step=iw/Math.max(1,pts.length);
+  const bw=Math.min(34,iw/Math.max(1,pts.length)*.55), step=iw/Math.max(1,pts.length);
   let g="";
-  const ticks=4;
-  for(let i=0;i<=ticks;i++){const v=vmin+(vmax-vmin)*i/ticks;
+  for(let i=0;i<=4;i++){const v=vmin+(vmax-vmin)*i/4;
     g+=`<line x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--grid)" stroke-width="1"/>`+
        `<text x="${L-8}" y="${y(v)+4}" text-anchor="end" font-size="11" fill="var(--muted)">${fmtW(v)}</text>`;}
   let bars="",line="",dots="",hits="",labels="";
+  const every=Math.ceil(pts.length/16);
   pts.forEach((p,i)=>{
     const cx=L+step*(i+.5);
-    const by0=y(Math.max(0,0)),byv=y(p.rev);
+    const by0=y(0),byv=y(p.rev);
     bars+=`<rect x="${cx-bw/2}" y="${Math.min(byv,by0)}" width="${bw}" height="${Math.max(2,Math.abs(by0-byv))}" rx="4"
       fill="var(--s1)" ${p.incomplete?'opacity=".45"':''}/>`;
     line+=(i?"L":"M")+cx+" "+y(p.ctb);
     dots+=`<circle cx="${cx}" cy="${y(p.ctb)}" r="4" fill="var(--s2)" stroke="var(--surface-1)" stroke-width="2"/>`;
-    const lab=p.m.slice(2).replace("-","/")+(p.incomplete?"*":"");
-    labels+=`<text x="${cx}" y="${H-12}" text-anchor="middle" font-size="11" fill="var(--muted)">${lab}</text>`;
+    if(i%every===0){
+      const lab=p.m.slice(2).replace("-","/")+(p.incomplete?"*":"");
+      labels+=`<text x="${cx}" y="${H-12}" text-anchor="middle" font-size="11" fill="var(--muted)">${lab}</text>`;
+    }
     hits+=`<rect x="${cx-step/2}" y="${T}" width="${step}" height="${ih}" fill="transparent"
       data-tip="${p.m}${p.incomplete?"（費用未定稿）":""}|營收|${fmt(p.rev)}|貢獻利益|${fmt(p.ctb)}|貢獻率|${pct(p.ctb,p.rev)}"/>`;
   });
@@ -223,20 +273,20 @@ function renderTrend(rows,ms){
   bindTips($("trend"));
 }
 
-/* ---- 橫條圖（單一序列） ---- */
-function hbars(el,items,onClick){
+/* ---------- 橫條圖 ---------- */
+function hbars(el,items,selSet,onClick){
   const W=520,rowH=30,L=118,R=64,T=4;
-  const H=T+items.length*rowH+4;
+  const H=T+Math.max(1,items.length)*rowH+4;
   const vmax=Math.max(1,...items.map(i=>Math.max(i.v,0)));
   const vmin=Math.min(0,...items.map(i=>i.v));
   const x=v=>L+(v-vmin)/(vmax-vmin)*(W-L-R);
   let s="";
   items.forEach((it,i)=>{
     const yy=T+i*rowH, bx0=x(Math.min(0,it.v)),bx1=x(Math.max(0,it.v));
-    const neg=it.v<0;
+    const neg=it.v<0, sel=selSet.has(it.key);
     s+=`<g class="hrow" data-key="${it.key}" data-tip="${it.name}|營收|${fmt(it.rev)}|貢獻利益|${fmt(it.v)}|貢獻率|${pct(it.v,it.rev)}">
-      <rect class="hbarbg" x="0" y="${yy}" width="${W}" height="${rowH-2}" fill="transparent" rx="6"/>
-      <text x="${L-8}" y="${yy+rowH/2+3}" text-anchor="end" font-size="12" fill="var(--ink-2)">${it.name.length>9?it.name.slice(0,9)+"…":it.name}</text>
+      <rect class="hbarbg" x="0" y="${yy}" width="${W}" height="${rowH-2}" fill="${sel?"var(--grid)":"transparent"}" rx="6"/>
+      <text x="${L-8}" y="${yy+rowH/2+3}" text-anchor="end" font-size="12" font-weight="${sel?"700":"400"}" fill="var(--ink-2)">${it.name.length>9?it.name.slice(0,9)+"…":it.name}</text>
       <rect x="${bx0}" y="${yy+rowH/2-7}" width="${Math.max(2,bx1-bx0)}" height="12" rx="4" fill="${neg?"var(--neg)":"var(--s1)"}"/>
       <text x="${bx1+6}" y="${yy+rowH/2+3}" font-size="11.5" fill="${neg?"var(--neg)":"var(--ink-2)"}" font-variant-numeric="tabular-nums">${fmtW(it.v)}</text>
     </g>`;
@@ -247,36 +297,33 @@ function hbars(el,items,onClick){
   bindTips(el);
 }
 function renderChannelBars(){
-  const ms=new Set(periodMonths()), brand=$("fBrand").value;
-  const rows=brand!=="all"?BR.filter(r=>ms.has(r.ym)&&r.brand===brand):CH.filter(r=>ms.has(r.ym));
+  const ms=new Set(periodMonths());
+  const rows=S.brands.size>0?BR.filter(r=>ms.has(r.ym)&&inBrand(r)):CH.filter(r=>ms.has(r.ym));
   const agg={};rows.forEach(r=>{const a=agg[r.code]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
   const items=Object.entries(agg).map(([c,a])=>({key:c,name:NAME[c]||c,rev:a.rev,v:a.v}))
     .sort((x,y)=>y.v-x.v).slice(0,12);
-  hbars($("chBars"),items,k=>{$("fPlat").value=($("fPlat").value===k?"all":k);render();});
+  hbars($("chBars"),items,S.plats,k=>{S.plats.has(k)?S.plats.delete(k):S.plats.add(k);render();});
 }
 function renderBrandBars(){
-  const rows=brandRowsNoBrandFilter();
+  const ms=new Set(periodMonths());
+  const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r));
   const agg={};rows.forEach(r=>{const a=agg[r.brand]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
   const items=Object.entries(agg).map(([b,a])=>({key:b,name:b,rev:a.rev,v:a.v}))
     .sort((x,y)=>y.v-x.v).slice(0,12);
-  hbars($("brBars"),items,k=>{$("fBrand").value=($("fBrand").value===k?"all":k);render();});
-}
-function brandRowsNoBrandFilter(){
-  const ms=new Set(periodMonths()), plat=$("fPlat").value;
-  return BR.filter(r=>ms.has(r.ym)&&(plat==="all"||r.code===plat));
+  hbars($("brBars"),items,S.brands,k=>{S.brands.has(k)?S.brands.delete(k):S.brands.add(k);render();});
 }
 
-/* ---- 明細表 ---- */
+/* ---------- 明細表 ---------- */
 function renderTable(){
-  const plat=$("fPlat").value, brand=$("fBrand").value;
-  const rows=brandRows();
-  const key=r=>plat!=="all"&&brand==="all"?r.brand
-            :brand!=="all"&&plat==="all"?(NAME[r.code]||r.code)
-            :(NAME[r.code]||r.code)+"｜"+r.brand;
+  const ms=new Set(periodMonths());
+  const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r)&&inBrand(r));
+  const platMode=S.plats.size>0&&S.brands.size===0;
+  const brandMode=S.brands.size>0&&S.plats.size===0;
+  const key=r=>platMode?r.brand:brandMode?(NAME[r.code]||r.code):(NAME[r.code]||r.code)+"｜"+r.brand;
   const agg={};rows.forEach(r=>{const a=agg[key(r)]??={rev:0,cogs:0,fee:0};a.rev+=r.rev;a.cogs+=r.cogs;a.fee+=r.fee;});
   const list=Object.entries(agg).map(([k,a])=>({k,...a,gp:a.rev-a.cogs,ctb:a.rev-a.cogs-a.fee}))
     .sort((x,y)=>y.ctb-x.ctb).slice(0,60);
-  const head=plat!=="all"&&brand==="all"?"品牌":brand!=="all"&&plat==="all"?"平台":"平台｜品牌";
+  const head=platMode?"品牌":brandMode?"平台":"平台｜品牌";
   $("tblTitle").textContent=`明細表（${head}，依貢獻利益排序，前 ${list.length} 筆）`;
   $("tbl").innerHTML=`<table><thead><tr><th>${head}</th><th class="n">營收</th><th class="n">成本</th>
     <th class="n">毛利</th><th class="n">分攤費用</th><th class="n">貢獻利益</th><th class="n">貢獻率</th></tr></thead><tbody>`+
@@ -286,7 +333,7 @@ function renderTable(){
     `</tbody></table>`;
 }
 
-/* ---- tooltip ---- */
+/* ---------- tooltip ---------- */
 function bindTips(root){
   root.querySelectorAll("[data-tip]").forEach(n=>{
     n.addEventListener("mousemove",e=>{
