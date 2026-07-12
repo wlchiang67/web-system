@@ -3,44 +3,44 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>igogo 通路×品牌 毛利 Dashboard</title>
+<title>igogo 毛利儀表板</title>
 <style>
 :root{
-  --surface-1:#fcfcfb; --page:#f9f9f7;
-  --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
-  --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,.10);
-  --s1:#2a78d6; --s2:#1baf7a; --s1-soft:#9ec5f4;
-  --neg:#d03b3b; --good:#006300; --chip:#efeeea;
-}
-@media (prefers-color-scheme: dark){
-  :root{
-    --surface-1:#1a1a19; --page:#0d0d0d;
-    --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
-    --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
-    --s1:#3987e5; --s2:#199e70; --s1-soft:#1c5cab;
-    --neg:#e66767; --good:#0ca30c; --chip:#262624;
-  }
+  --page:#161616; --surface-1:#1f1f1f; --panel:#1a1a1a;
+  --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+  --grid:#2c2c2a; --axis:#3a3a38; --border:rgba(255,255,255,.10);
+  --s1:#3987e5; --s2:#199e70; --neg:#e66767; --chip:#262626; --chip-bd:#3a3a3a;
 }
 *{box-sizing:border-box;margin:0}
 body{background:var(--page);color:var(--ink);
   font-family:system-ui,-apple-system,"Segoe UI","Microsoft JhengHei",sans-serif;
-  font-size:14px;line-height:1.45;padding:20px 16px 48px}
-.wrap{max-width:1180px;margin:0 auto}
-header h1{font-size:20px;font-weight:700}
-header .sub{color:var(--ink-2);font-size:12.5px;margin-top:2px}
-.fcard{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
-  padding:12px 16px;margin:14px 0}
-.frow{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:4px 0}
-.frow .lb{font-size:12px;color:var(--muted);width:34px;flex:none}
-.chip{font:inherit;font-size:12.5px;color:var(--ink-2);background:var(--chip);
-  border:1px solid transparent;border-radius:999px;padding:4px 12px;cursor:pointer;user-select:none}
-.chip:hover{border-color:var(--s1)}
-.chip.on{background:var(--s1);color:#fff;font-weight:600}
-.chip.dim{opacity:.55}
-select.more{font:inherit;font-size:12.5px;color:var(--ink-2);background:var(--chip);
-  border:1px solid transparent;border-radius:999px;padding:4px 8px;max-width:110px}
-.ck{font-size:12.5px;color:var(--ink-2);display:inline-flex;align-items:center;gap:5px;margin-left:8px}
-.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-bottom:14px}
+  font-size:14px;line-height:1.45;padding:0 0 48px}
+.topbar{display:flex;align-items:center;gap:18px;padding:14px 22px;
+  border-bottom:1px solid var(--border);position:sticky;top:0;background:var(--page);z-index:5}
+.topbar h1{font-size:17px;font-weight:700}
+.tab{font-size:13px;color:var(--ink-2);background:var(--chip);border-radius:8px;
+  padding:5px 12px;text-decoration:none}
+.tab.on{color:#fff;background:var(--surface-1);outline:1px solid var(--border);font-weight:600}
+.topbar .right{margin-left:auto;display:flex;align-items:center;gap:12px;font-size:12.5px;color:var(--ink-2)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--s2);margin-right:6px}
+.reload{font:inherit;font-size:12.5px;color:var(--ink);background:var(--chip);
+  border:1px solid var(--chip-bd);border-radius:8px;padding:6px 14px;cursor:pointer}
+.reload:hover{border-color:var(--s1)}
+.wrap{max-width:1280px;margin:0 auto;padding:16px 22px}
+.frow{display:flex;gap:8px;align-items:flex-start;padding:9px 0;border-bottom:1px solid rgba(255,255,255,.05)}
+.frow .lb{font-size:13px;color:var(--muted);width:44px;flex:none;padding-top:5px}
+.frow .chips{display:flex;flex-wrap:wrap;gap:7px;align-items:center}
+.chip{font:inherit;font-size:13px;color:var(--ink-2);background:transparent;
+  border:1px solid var(--chip-bd);border-radius:999px;padding:4px 14px;cursor:pointer;user-select:none;white-space:nowrap}
+.chip:hover{border-color:var(--s1);color:var(--ink)}
+.chip.on{background:var(--s1);border-color:var(--s1);color:#fff;font-weight:600}
+.chip.dim{opacity:.5}
+.chip.exp{border-style:dashed;color:var(--muted)}
+.search{font:inherit;font-size:13px;color:var(--ink);background:var(--chip);
+  border:1px solid var(--chip-bd);border-radius:999px;padding:5px 14px;width:180px}
+.search::placeholder{color:var(--muted)}
+.platbox{max-height:118px;overflow-y:auto;display:flex;flex-wrap:wrap;gap:7px;flex:1}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:16px 0 14px}
 .kpi{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
 .kpi .t{font-size:12px;color:var(--ink-2)}
 .kpi .v{font-size:24px;font-weight:700;margin-top:2px}
@@ -56,8 +56,8 @@ select.more{font:inherit;font-size:12.5px;color:var(--ink-2);background:var(--ch
 svg text{font-family:inherit}
 .hrow{cursor:pointer}
 .hrow:hover .hbarbg{fill:var(--grid)}
-#tip{position:fixed;pointer-events:none;background:var(--surface-1);border:1px solid var(--border);
-  border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.18);padding:8px 11px;font-size:12.5px;
+#tip{position:fixed;pointer-events:none;background:var(--panel);border:1px solid var(--border);
+  border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.5);padding:8px 11px;font-size:12.5px;
   color:var(--ink);display:none;z-index:10;max-width:260px}
 #tip .h{font-weight:700;margin-bottom:3px}
 #tip .r{display:flex;justify-content:space-between;gap:14px;color:var(--ink-2)}
@@ -66,26 +66,32 @@ table{width:100%;border-collapse:collapse;font-size:13px}
 th{text-align:left;color:var(--ink-2);font-weight:600;border-bottom:1px solid var(--axis);padding:6px 8px;white-space:nowrap}
 td{border-bottom:1px solid var(--grid);padding:6px 8px;font-variant-numeric:tabular-nums}
 td.n,th.n{text-align:right}
-tr:hover td{background:var(--page)}
+tr:hover td{background:rgba(255,255,255,.03)}
 .negv{color:var(--neg)}
 footer{color:var(--muted);font-size:12px;margin-top:18px;line-height:1.7}
 a{color:var(--s1)}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <h1>igogo 通路 × 品牌 毛利 Dashboard</h1>
-    <div class="sub" id="subline">載入中…</div>
-  </header>
-
-  <div class="fcard">
-    <div class="frow"><span class="lb">年份</span><span id="fYear" style="display:contents"></span>
-      <label class="ck"><input type="checkbox" id="fIncomplete">含費用未定稿月</label></div>
-    <div class="frow"><span class="lb">月份</span><span id="fMonth" style="display:contents"></span></div>
-    <div class="frow"><span class="lb">通路</span><span id="fPlat" style="display:contents"></span></div>
-    <div class="frow"><span class="lb">品牌</span><span id="fBrand" style="display:contents"></span></div>
+<div class="topbar">
+  <h1>毛利儀表板</h1>
+  <span class="tab on">通路×品牌</span>
+  <a class="tab" href="https://igogosport.github.io/erp-sales-dashboard/" target="_blank">銷售儀表板 ↗</a>
+  <div class="right">
+    <span><span class="dot"></span>已更新 <span id="upd">–</span></span>
+    <button class="reload" onclick="location.reload(true)">↻ 重新讀取</button>
   </div>
+</div>
+<div class="wrap">
+  <div class="frow"><span class="lb">品牌</span><div class="chips" id="fBrand"></div></div>
+  <div class="frow"><span class="lb">通路</span><div class="chips" id="fType"></div></div>
+  <div class="frow"><span class="lb">平台</span>
+    <div style="flex:1;display:flex;gap:8px;flex-direction:column">
+      <input class="search" id="platSearch" placeholder="搜尋平台名…">
+      <div class="platbox" id="fPlat"></div>
+    </div>
+  </div>
+  <div id="timeRows"></div>
 
   <div class="kpis" id="kpis"></div>
 
@@ -102,7 +108,7 @@ a{color:var(--s1)}
   <div class="grid2">
     <div class="card">
       <h2>通路貢獻 TOP 12</h2>
-      <div class="note">點擊列＝加入/取消通路篩選</div>
+      <div class="note">點擊列＝加入/取消平台篩選</div>
       <div id="chBars"></div>
     </div>
     <div class="card">
@@ -129,90 +135,84 @@ const fmtW=v=>{const a=Math.abs(v);
   if(a>=1e4) return Math.round(v/1e4).toLocaleString()+"萬";
   return fmt(v);};
 const pct=(a,b)=>b?((a/b*100).toFixed(1)+"%"):"–";
-let DATA=null, CH=[], BR=[], NAME={}, MONTHS=[], YEARS=[];
-let PLATS=[], BRANDS=[];          // [{key,name,ctb}] 依貢獻排序
-const S={year:"all", month:"all", incomplete:false, plats:new Set(), brands:new Set()};
-const CHIP_N=12;
+let DATA=null, CH=[], BR=[], NAME={}, TEAM={}, MONTHS=[];
+let PLATS=[], BRANDS=[];
+const S={months:new Set(), plats:new Set(), brands:new Set(), type:"all", platQ:""};
+const isEC=code=>(TEAM[code]||"").includes("電商");
+const typeOK=code=>S.type==="all"||(S.type==="ec"?isEC(code):!isEC(code));
 
 fetch("data/profit.json").then(r=>r.json()).then(d=>{
   DATA=d;
   CH=d.channel_rows.map(r=>({ym:r[0],code:r[1],plat:r[2],team:r[3],rev:r[4],cogs:r[5],fee:r[6]+r[7]}));
   BR=d.brand_rows.map(r=>({ym:r[0],code:r[1],brand:r[2],rev:r[3],cogs:r[4],fee:r[5]}));
-  CH.forEach(r=>{if(r.code&&!NAME[r.code])NAME[r.code]=r.plat;});
+  CH.forEach(r=>{if(r.code){if(!NAME[r.code])NAME[r.code]=r.plat;if(!TEAM[r.code])TEAM[r.code]=r.team||"";}});
   MONTHS=[...new Set(CH.map(r=>r.ym))].sort();
-  YEARS=[...new Set(MONTHS.map(m=>m.slice(0,4)))].sort();
+  MONTHS.filter(m=>m<=d.fees_through).forEach(m=>S.months.add(m));   // 預設＝費用完整月全選
   const pa={};CH.forEach(r=>{const a=pa[r.code]??={v:0};a.v+=r.rev-r.cogs-r.fee;});
   PLATS=Object.entries(pa).map(([c,a])=>({key:c,name:NAME[c]||c,ctb:a.v})).sort((x,y)=>y.ctb-x.ctb);
   const ba={};BR.forEach(r=>{ba[r.brand]=(ba[r.brand]||0)+r.rev-r.cogs-r.fee;});
   BRANDS=Object.entries(ba).map(([b,v])=>({key:b,name:b,ctb:v})).sort((x,y)=>y.ctb-x.ctb);
-  $("subline").textContent=`資料期間 ${MONTHS[0]} ~ ${MONTHS[MONTHS.length-1]}｜費用完整至 ${d.fees_through}｜更新 ${d.updated}`;
+  $("upd").textContent=d.updated;
   $("foot").innerHTML=`口徑：貢獻利益 = 營收(含稅) − 商品成本 − 平台內扣/外付費用。品牌費用按各平台當月品牌營收占比分攤。`+
-    `退貨已含於營收淨額；共同費用（總部薪資租金/全公司廣告）未分攤。`+
-    `成本以目前進價推算。費用完整登記至 ${d.fees_through}，之後月份僅供參考。`;
-  $("fIncomplete").addEventListener("change",e=>{S.incomplete=e.target.checked;render();});
+    `退貨已含於營收淨額；共同費用（總部薪資租金/全公司廣告）未分攤。成本以目前進價推算。`+
+    `費用完整登記至 ${d.fees_through}，帶 * 月份費用未定稿。`;
+  $("platSearch").addEventListener("input",e=>{S.platQ=e.target.value.trim();renderPlatChips();});
   render();
 });
 
-/* ---------- 篩選列 ---------- */
-function chip(label,on,cb,dim){
+/* ---------- chips ---------- */
+function chip(label,on,cb,cls){
   const b=document.createElement("button");
-  b.className="chip"+(on?" on":"")+(dim?" dim":"");
+  b.className="chip"+(on?" on":"")+(cls?" "+cls:"");
   b.textContent=label;b.addEventListener("click",cb);return b;
 }
 function renderFilters(){
-  // 年份
-  const fy=$("fYear");fy.innerHTML="";
-  fy.append(chip("全部",S.year==="all",()=>{S.year="all";S.month="all";render();}));
-  YEARS.forEach(y=>fy.append(chip(y+"年",S.year===y,()=>{S.year=(S.year===y?"all":y);if(S.year==="all")S.month="all";render();})));
-  // 月份（選了年份才能挑單月）
-  const fm=$("fMonth");fm.innerHTML="";
-  fm.append(chip("全年",S.month==="all",()=>{S.month="all";render();}));
-  if(S.year==="all"){
-    const s=document.createElement("span");s.style.cssText="font-size:12px;color:var(--muted);align-self:center";
-    s.textContent="（先選年份再挑單月）";fm.append(s);
-  }else{
-    const avail=new Set(MONTHS.filter(m=>m.startsWith(S.year)).map(m=>+m.slice(5)));
-    for(let m=1;m<=12;m++){
-      if(!avail.has(m))continue;
-      const ym=`${S.year}-${String(m).padStart(2,"0")}`;
-      const dim=ym>DATA.fees_through;
-      fm.append(chip(m+"月"+(dim?"*":""),S.month===m,()=>{S.month=(S.month===m?"all":m);render();},dim));
-    }
-  }
-  renderDimChips($("fPlat"),PLATS,S.plats);
-  renderDimChips($("fBrand"),BRANDS,S.brands);
+  // 品牌：全部列出
+  const fb=$("fBrand");fb.innerHTML="";
+  fb.append(chip("全部",S.brands.size===0,()=>{S.brands.clear();render();}));
+  BRANDS.forEach(it=>fb.append(chip(it.name,S.brands.has(it.key),()=>{
+    S.brands.has(it.key)?S.brands.delete(it.key):S.brands.add(it.key);render();})));
+  // 通路型態
+  const ft=$("fType");ft.innerHTML="";
+  [["all","全部"],["ec","電商"],["phys","實體"]].forEach(([v,l])=>
+    ft.append(chip(l,S.type===v,()=>{S.type=v;render();})));
+  renderPlatChips();
+  renderTimeRows();
 }
-function renderDimChips(el,list,set){
-  el.innerHTML="";
-  el.append(chip("全部",set.size===0,()=>{set.clear();render();}));
-  const show=list.slice(0,CHIP_N).map(i=>i.key);
-  [...set].forEach(k=>{if(!show.includes(k))show.push(k);});
-  show.forEach(k=>{
-    const it=list.find(i=>i.key===k);if(!it)return;
-    el.append(chip(it.name,set.has(k),()=>{set.has(k)?set.delete(k):set.add(k);render();}));
+function renderPlatChips(){
+  const fp=$("fPlat");fp.innerHTML="";
+  fp.append(chip("全部平台",S.plats.size===0,()=>{S.plats.clear();render();}));
+  PLATS.filter(it=>typeOK(it.key))
+       .filter(it=>!S.platQ||it.name.includes(S.platQ))
+       .forEach(it=>fp.append(chip(it.name,S.plats.has(it.key),()=>{
+         S.plats.has(it.key)?S.plats.delete(it.key):S.plats.add(it.key);render();})));
+}
+function renderTimeRows(){
+  const years=[...new Set(MONTHS.map(m=>m.slice(0,4)))].sort().reverse();
+  const el=$("timeRows");el.innerHTML="";
+  years.forEach(y=>{
+    const row=document.createElement("div");row.className="frow";
+    const lb=document.createElement("span");lb.className="lb";lb.textContent=y;row.append(lb);
+    const box=document.createElement("div");box.className="chips";row.append(box);
+    const yms=MONTHS.filter(m=>m.startsWith(y));
+    const allOn=yms.every(m=>S.months.has(m));
+    box.append(chip("全年",allOn,()=>{
+      allOn?yms.forEach(m=>S.months.delete(m)):yms.forEach(m=>S.months.add(m));render();}));
+    yms.forEach(m=>{
+      const dim=m>DATA.fees_through;
+      box.append(chip(m.replace("-","")+(dim?"*":""),S.months.has(m),()=>{
+        S.months.has(m)?S.months.delete(m):S.months.add(m);render();},dim?"dim":""));
+    });
+    el.append(row);
   });
-  const rest=list.slice(CHIP_N).filter(i=>!set.has(i.key));
-  if(rest.length){
-    const s=document.createElement("select");s.className="more";
-    s.innerHTML=`<option value="">更多…</option>`+rest.map(i=>`<option value="${i.key}">${i.name}</option>`).join("");
-    s.addEventListener("change",()=>{if(s.value){set.add(s.value);render();}});
-    el.append(s);
-  }
 }
 
 /* ---------- 資料選取 ---------- */
-function periodMonths(){
-  return MONTHS.filter(m=>{
-    if(!S.incomplete&&m>DATA.fees_through)return false;
-    if(S.year!=="all"&&!m.startsWith(S.year))return false;
-    if(S.year!=="all"&&S.month!=="all"&&+m.slice(5)!==S.month)return false;
-    return true;
-  });
-}
-const inPlat=r=>S.plats.size===0||S.plats.has(r.code);
+function periodMonths(){return MONTHS.filter(m=>S.months.has(m));}
+const inPlat=r=>(S.plats.size===0||S.plats.has(r.code))&&typeOK(r.code);
 const inBrand=r=>S.brands.size===0||S.brands.has(r.brand);
 function curRows(){
-  const ms=new Set(periodMonths());
+  const ms=S.months;
   if(S.brands.size>0) return BR.filter(r=>ms.has(r.ym)&&inBrand(r)&&inPlat(r));
   return CH.filter(r=>ms.has(r.ym)&&inPlat(r));
 }
@@ -297,15 +297,16 @@ function hbars(el,items,selSet,onClick){
   bindTips(el);
 }
 function renderChannelBars(){
-  const ms=new Set(periodMonths());
-  const rows=S.brands.size>0?BR.filter(r=>ms.has(r.ym)&&inBrand(r)):CH.filter(r=>ms.has(r.ym));
+  const ms=S.months;
+  const rows=S.brands.size>0?BR.filter(r=>ms.has(r.ym)&&inBrand(r)&&typeOK(r.code))
+                            :CH.filter(r=>ms.has(r.ym)&&typeOK(r.code));
   const agg={};rows.forEach(r=>{const a=agg[r.code]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
   const items=Object.entries(agg).map(([c,a])=>({key:c,name:NAME[c]||c,rev:a.rev,v:a.v}))
     .sort((x,y)=>y.v-x.v).slice(0,12);
   hbars($("chBars"),items,S.plats,k=>{S.plats.has(k)?S.plats.delete(k):S.plats.add(k);render();});
 }
 function renderBrandBars(){
-  const ms=new Set(periodMonths());
+  const ms=S.months;
   const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r));
   const agg={};rows.forEach(r=>{const a=agg[r.brand]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
   const items=Object.entries(agg).map(([b,a])=>({key:b,name:b,rev:a.rev,v:a.v}))
@@ -315,7 +316,7 @@ function renderBrandBars(){
 
 /* ---------- 明細表 ---------- */
 function renderTable(){
-  const ms=new Set(periodMonths());
+  const ms=S.months;
   const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r)&&inBrand(r));
   const platMode=S.plats.size>0&&S.brands.size===0;
   const brandMode=S.brands.size>0&&S.plats.size===0;
