@@ -93,7 +93,7 @@ a{color:var(--s1)}
   </div>
   <div id="timeRows"></div>
   <div style="font-size:12px;color:var(--muted);padding:8px 0 0">
-    單擊＝單選（再點同一顆取消）；按住 <b style="color:var(--ink-2)">Ctrl</b> 點擊＝複選。時間以月為單位，帶 * 的月份費用未定稿。</div>
+    單擊＝單選（再點同一顆取消）；按住 <b style="color:var(--ink-2)">Ctrl</b> 點擊＝複選。時間以月為單位，僅列費用登記完成的月份。</div>
 
   <div class="kpis" id="kpis"></div>
 
@@ -109,14 +109,18 @@ a{color:var(--s1)}
 
   <div class="grid2">
     <div class="card">
-      <h2>通路貢獻 TOP 12</h2>
+      <div style="display:flex;align-items:center;gap:10px">
+        <h2>通路貢獻</h2><span id="chTop" style="display:flex;gap:6px"></span>
+      </div>
       <div class="note">單擊＝只看該平台，Ctrl＋點＝複選</div>
-      <div id="chBars"></div>
+      <div id="chBarsBox"><div id="chBars"></div></div>
     </div>
     <div class="card">
-      <h2>品牌貢獻 TOP 12</h2>
+      <div style="display:flex;align-items:center;gap:10px">
+        <h2>品牌貢獻</h2><span id="brTop" style="display:flex;gap:6px"></span>
+      </div>
       <div class="note">單擊＝只看該品牌，Ctrl＋點＝複選</div>
-      <div id="brBars"></div>
+      <div id="brBarsBox"><div id="brBars"></div></div>
     </div>
   </div>
 
@@ -139,20 +143,23 @@ const fmtW=v=>{const a=Math.abs(v);
 const pct=(a,b)=>b?((a/b*100).toFixed(1)+"%"):"–";
 let DATA=null, CH=[], BR=[], NAME={}, TEAM={}, MONTHS=[];
 let PLATS=[], BRANDS=[];
-const S={months:new Set(), plats:new Set(), brands:new Set(), type:"all", platQ:""};
+const S={months:new Set(), plats:new Set(), brands:new Set(), type:"all", platQ:"", chTop:20, brTop:20};
 const isEC=code=>(TEAM[code]||"").includes("電商");
 const typeOK=code=>S.type==="all"||(S.type==="ec"?isEC(code):!isEC(code));
 
 fetch("data/profit.json").then(r=>r.json()).then(d=>{
   DATA=d;
-  CH=d.channel_rows.map(r=>({ym:r[0],code:r[1],plat:r[2],team:r[3],rev:r[4],cogs:r[5],fee:r[6]+r[7]}));
-  BR=d.brand_rows.map(r=>({ym:r[0],code:r[1],brand:r[2],rev:r[3],cogs:r[4],fee:r[5]}));
+  // 費用未登完的月份不列入儀表板
+  CH=d.channel_rows.map(r=>({ym:r[0],code:r[1],plat:r[2],team:r[3],rev:r[4],cogs:r[5],fee:r[6]+r[7]}))
+    .filter(r=>r.ym<=d.fees_through);
+  BR=d.brand_rows.map(r=>({ym:r[0],code:r[1],brand:r[2],rev:r[3],cogs:r[4],fee:r[5]}))
+    .filter(r=>r.ym<=d.fees_through);
   CH.forEach(r=>{if(r.code){if(!NAME[r.code])NAME[r.code]=r.plat;if(!TEAM[r.code])TEAM[r.code]=r.team||"";}});
   MONTHS=[...new Set(CH.map(r=>r.ym))].sort();
-  MONTHS.filter(m=>m<=d.fees_through).forEach(m=>S.months.add(m));   // 預設＝費用完整月全選
+  MONTHS.forEach(m=>S.months.add(m));   // 預設全選
   const pa={};CH.forEach(r=>{const a=pa[r.code]??={v:0};a.v+=r.rev-r.cogs-r.fee;});
   PLATS=Object.entries(pa).map(([c,a])=>({key:c,name:NAME[c]||c,ctb:a.v})).sort((x,y)=>y.ctb-x.ctb);
-  const ba={};BR.forEach(r=>{ba[r.brand]=(ba[r.brand]||0)+r.rev-r.cogs-r.fee;});
+  const ba={};BR.forEach(r=>{if(r.brand!=="(未分攤費用)")ba[r.brand]=(ba[r.brand]||0)+r.rev-r.cogs-r.fee;});
   BRANDS=Object.entries(ba).map(([b,v])=>({key:b,name:b,ctb:v})).sort((x,y)=>y.ctb-x.ctb);
   $("upd").textContent=d.updated;
   $("foot").innerHTML=`口徑：貢獻利益 = 營收(含稅) − 商品成本 − 平台內扣/外付費用。品牌費用按各平台當月品牌營收占比分攤。`+
@@ -211,8 +218,7 @@ function renderTimeRows(){
       else{S.months.clear();yms.forEach(m=>S.months.add(m));}   // 單擊＝只看該年
       render();}));
     yms.forEach(m=>{
-      const dim=m>DATA.fees_through;
-      box.append(chip(m.replace("-","")+(dim?"*":""),S.months.has(m),e=>pick(S.months,m,e),dim?"dim":""));
+      box.append(chip(m.replace("-",""),S.months.has(m),e=>pick(S.months,m,e)));
     });
     el.append(row);
   });
@@ -247,41 +253,46 @@ function render(){
   renderTable();
 }
 
-/* ---------- 月度趨勢 ---------- */
+/* ---------- 月度趨勢：營收/貢獻利益 雙長條＋頂端數字 ---------- */
 function renderTrend(rows,ms){
   const by={};ms.forEach(m=>by[m]={rev:0,cogs:0,fee:0});
   rows.forEach(r=>{const a=by[r.ym];if(a){a.rev+=r.rev;a.cogs+=r.cogs;a.fee+=r.fee;}});
-  const pts=ms.map(m=>({m,rev:by[m].rev,ctb:by[m].rev-by[m].cogs-by[m].fee,
-    incomplete:m>DATA.fees_through}));
-  const W=1080,H=260,L=56,R=14,T=14,B=34,iw=W-L-R,ih=H-T-B;
+  const pts=ms.map(m=>({m,rev:by[m].rev,ctb:by[m].rev-by[m].cogs-by[m].fee}));
+  const W=1080,H=280,L=56,R=14,T=26,B=34,iw=W-L-R,ih=H-T-B;
   const vmax=Math.max(1,...pts.map(p=>Math.max(p.rev,p.ctb)));
   const vmin=Math.min(0,...pts.map(p=>p.ctb));
   const y=v=>T+ih-(v-vmin)/(vmax-vmin)*ih;
-  const bw=Math.min(34,iw/Math.max(1,pts.length)*.55), step=iw/Math.max(1,pts.length);
+  const step=iw/Math.max(1,pts.length);
+  const bw=Math.min(30,step*.30), gap=Math.min(6,step*.06);
+  const showLab=pts.length<=13;
   let g="";
   for(let i=0;i<=4;i++){const v=vmin+(vmax-vmin)*i/4;
     g+=`<line x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--grid)" stroke-width="1"/>`+
        `<text x="${L-8}" y="${y(v)+4}" text-anchor="end" font-size="11" fill="var(--muted)">${fmtW(v)}</text>`;}
-  let bars="",line="",dots="",hits="",labels="";
+  let bars="",hits="",labels="",vlabels="";
   const every=Math.ceil(pts.length/16);
+  const bar=(x0,v,color)=>{
+    const y0=y(0),y1=y(v);
+    return `<rect x="${x0}" y="${Math.min(y0,y1)}" width="${bw}" height="${Math.max(2,Math.abs(y0-y1))}" rx="4" fill="${color}"/>`;
+  };
   pts.forEach((p,i)=>{
     const cx=L+step*(i+.5);
-    const by0=y(0),byv=y(p.rev);
-    bars+=`<rect x="${cx-bw/2}" y="${Math.min(byv,by0)}" width="${bw}" height="${Math.max(2,Math.abs(by0-byv))}" rx="4"
-      fill="var(--s1)" ${p.incomplete?'opacity=".45"':''}/>`;
-    line+=(i?"L":"M")+cx+" "+y(p.ctb);
-    dots+=`<circle cx="${cx}" cy="${y(p.ctb)}" r="4" fill="var(--s2)" stroke="var(--surface-1)" stroke-width="2"/>`;
+    const xRev=cx-bw-gap/2, xCtb=cx+gap/2;
+    bars+=bar(xRev,p.rev,"var(--s1)")+bar(xCtb,p.ctb,"var(--s2)");
+    if(showLab){
+      vlabels+=`<text x="${xRev+bw/2}" y="${y(Math.max(0,p.rev))-6}" text-anchor="middle" font-size="10.5" fill="var(--ink-2)">${fmtW(p.rev)}</text>`;
+      vlabels+=`<text x="${xCtb+bw/2}" y="${y(Math.max(0,p.ctb))-6}" text-anchor="middle" font-size="10.5" fill="var(--s2)">${fmtW(p.ctb)}</text>`;
+    }
     if(i%every===0){
-      const lab=p.m.slice(2).replace("-","/")+(p.incomplete?"*":"");
-      labels+=`<text x="${cx}" y="${H-12}" text-anchor="middle" font-size="11" fill="var(--muted)">${lab}</text>`;
+      labels+=`<text x="${cx}" y="${H-12}" text-anchor="middle" font-size="11" fill="var(--muted)">${p.m.slice(2).replace("-","/")}</text>`;
     }
     hits+=`<rect x="${cx-step/2}" y="${T}" width="${step}" height="${ih}" fill="transparent"
-      data-tip="${p.m}${p.incomplete?"（費用未定稿）":""}|營收|${fmt(p.rev)}|貢獻利益|${fmt(p.ctb)}|貢獻率|${pct(p.ctb,p.rev)}"/>`;
+      data-tip="${p.m}|營收|${fmt(p.rev)}|貢獻利益|${fmt(p.ctb)}|貢獻率|${pct(p.ctb,p.rev)}"/>`;
   });
   $("trend").innerHTML=`<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block;margin-top:6px">
     ${g}<line x1="${L}" x2="${W-R}" y1="${y(0)}" y2="${y(0)}" stroke="var(--axis)" stroke-width="1"/>
-    ${bars}<path d="${line}" fill="none" stroke="var(--s2)" stroke-width="2"/>${dots}${labels}${hits}</svg>`;
-  $("trendNote").textContent = pts.some(p=>p.incomplete)?"* 標記月份的費用尚未登記完，貢獻利益偏高":"";
+    ${bars}${vlabels}${labels}${hits}</svg>`;
+  $("trendNote").textContent = showLab?"":"月份較多時數字改以滑鼠停留顯示";
   bindTips($("trend"));
 }
 
@@ -308,28 +319,39 @@ function hbars(el,items,selSet,onClick){
   el.querySelectorAll(".hrow").forEach(n=>n.addEventListener("click",e=>onClick(n.dataset.key,e)));
   bindTips(el);
 }
+function topToggle(el,cur,set){
+  el.innerHTML="";
+  [[20,"TOP 20"],["all","全部"]].forEach(([v,l])=>
+    el.append(chip(l,cur===v,()=>{set(v);render();})));
+}
 function renderChannelBars(){
+  topToggle($("chTop"),S.chTop,v=>S.chTop=v);
   const ms=S.months;
   const rows=S.brands.size>0?BR.filter(r=>ms.has(r.ym)&&inBrand(r)&&typeOK(r.code))
                             :CH.filter(r=>ms.has(r.ym)&&typeOK(r.code));
   const agg={};rows.forEach(r=>{const a=agg[r.code]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
-  const items=Object.entries(agg).map(([c,a])=>({key:c,name:NAME[c]||c,rev:a.rev,v:a.v}))
-    .sort((x,y)=>y.v-x.v).slice(0,12);
+  let items=Object.entries(agg).map(([c,a])=>({key:c,name:NAME[c]||c,rev:a.rev,v:a.v}))
+    .sort((x,y)=>y.v-x.v);
+  if(S.chTop!=="all")items=items.slice(0,S.chTop);
+  $("chBarsBox").style.cssText=S.chTop==="all"?"max-height:460px;overflow-y:auto":"";
   hbars($("chBars"),items,S.plats,(k,e)=>pick(S.plats,k,e));
 }
 function renderBrandBars(){
+  topToggle($("brTop"),S.brTop,v=>S.brTop=v);
   const ms=S.months;
-  const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r));
+  const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r)&&r.brand!=="(未分攤費用)");
   const agg={};rows.forEach(r=>{const a=agg[r.brand]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
-  const items=Object.entries(agg).map(([b,a])=>({key:b,name:b,rev:a.rev,v:a.v}))
-    .sort((x,y)=>y.v-x.v).slice(0,12);
+  let items=Object.entries(agg).map(([b,a])=>({key:b,name:b,rev:a.rev,v:a.v}))
+    .sort((x,y)=>y.v-x.v);
+  if(S.brTop!=="all")items=items.slice(0,S.brTop);
+  $("brBarsBox").style.cssText=S.brTop==="all"?"max-height:460px;overflow-y:auto":"";
   hbars($("brBars"),items,S.brands,(k,e)=>pick(S.brands,k,e));
 }
 
 /* ---------- 明細表 ---------- */
 function renderTable(){
   const ms=S.months;
-  const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r)&&inBrand(r));
+  const rows=BR.filter(r=>ms.has(r.ym)&&inPlat(r)&&inBrand(r)&&r.brand!=="(未分攤費用)");
   const platMode=S.plats.size>0&&S.brands.size===0;
   const brandMode=S.brands.size>0&&S.plats.size===0;
   const key=r=>platMode?r.brand:brandMode?(NAME[r.code]||r.code):(NAME[r.code]||r.code)+"｜"+r.brand;
