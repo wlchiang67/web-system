@@ -92,6 +92,8 @@ a{color:var(--s1)}
     </div>
   </div>
   <div id="timeRows"></div>
+  <div style="font-size:12px;color:var(--muted);padding:8px 0 0">
+    單擊＝單選（再點同一顆取消）；按住 <b style="color:var(--ink-2)">Ctrl</b> 點擊＝複選。時間以月為單位，帶 * 的月份費用未定稿。</div>
 
   <div class="kpis" id="kpis"></div>
 
@@ -108,12 +110,12 @@ a{color:var(--s1)}
   <div class="grid2">
     <div class="card">
       <h2>通路貢獻 TOP 12</h2>
-      <div class="note">點擊列＝加入/取消平台篩選</div>
+      <div class="note">單擊＝只看該平台，Ctrl＋點＝複選</div>
       <div id="chBars"></div>
     </div>
     <div class="card">
       <h2>品牌貢獻 TOP 12</h2>
-      <div class="note">點擊列＝加入/取消品牌篩選</div>
+      <div class="note">單擊＝只看該品牌，Ctrl＋點＝複選</div>
       <div id="brBars"></div>
     </div>
   </div>
@@ -166,12 +168,21 @@ function chip(label,on,cb,cls){
   b.className="chip"+(on?" on":"")+(cls?" "+cls:"");
   b.textContent=label;b.addEventListener("click",cb);return b;
 }
+// 單擊=只選這個(再點一次回全部)；Ctrl/Cmd+單擊=加入/移除複選
+function pick(set,key,e){
+  const multi=e.ctrlKey||e.metaKey;
+  if(multi){set.has(key)?set.delete(key):set.add(key);}
+  else{
+    if(set.size===1&&set.has(key))set.clear();
+    else{set.clear();set.add(key);}
+  }
+  render();
+}
 function renderFilters(){
   // 品牌：全部列出
   const fb=$("fBrand");fb.innerHTML="";
   fb.append(chip("全部",S.brands.size===0,()=>{S.brands.clear();render();}));
-  BRANDS.forEach(it=>fb.append(chip(it.name,S.brands.has(it.key),()=>{
-    S.brands.has(it.key)?S.brands.delete(it.key):S.brands.add(it.key);render();})));
+  BRANDS.forEach(it=>fb.append(chip(it.name,S.brands.has(it.key),e=>pick(S.brands,it.key,e))));
   // 通路型態
   const ft=$("fType");ft.innerHTML="";
   [["all","全部"],["ec","電商"],["phys","實體"]].forEach(([v,l])=>
@@ -184,8 +195,7 @@ function renderPlatChips(){
   fp.append(chip("全部平台",S.plats.size===0,()=>{S.plats.clear();render();}));
   PLATS.filter(it=>typeOK(it.key))
        .filter(it=>!S.platQ||it.name.includes(S.platQ))
-       .forEach(it=>fp.append(chip(it.name,S.plats.has(it.key),()=>{
-         S.plats.has(it.key)?S.plats.delete(it.key):S.plats.add(it.key);render();})));
+       .forEach(it=>fp.append(chip(it.name,S.plats.has(it.key),e=>pick(S.plats,it.key,e))));
 }
 function renderTimeRows(){
   const years=[...new Set(MONTHS.map(m=>m.slice(0,4)))].sort().reverse();
@@ -196,12 +206,13 @@ function renderTimeRows(){
     const box=document.createElement("div");box.className="chips";row.append(box);
     const yms=MONTHS.filter(m=>m.startsWith(y));
     const allOn=yms.every(m=>S.months.has(m));
-    box.append(chip("全年",allOn,()=>{
-      allOn?yms.forEach(m=>S.months.delete(m)):yms.forEach(m=>S.months.add(m));render();}));
+    box.append(chip("全年",allOn,e=>{
+      if(e.ctrlKey||e.metaKey){allOn?yms.forEach(m=>S.months.delete(m)):yms.forEach(m=>S.months.add(m));}
+      else{S.months.clear();yms.forEach(m=>S.months.add(m));}   // 單擊＝只看該年
+      render();}));
     yms.forEach(m=>{
       const dim=m>DATA.fees_through;
-      box.append(chip(m.replace("-","")+(dim?"*":""),S.months.has(m),()=>{
-        S.months.has(m)?S.months.delete(m):S.months.add(m);render();},dim?"dim":""));
+      box.append(chip(m.replace("-","")+(dim?"*":""),S.months.has(m),e=>pick(S.months,m,e),dim?"dim":""));
     });
     el.append(row);
   });
@@ -221,6 +232,7 @@ function sum(rows){const t={rev:0,cogs:0,fee:0};
   t.gp=t.rev-t.cogs;t.ctb=t.gp-t.fee;return t;}
 
 function render(){
+  if(S.months.size===0)MONTHS.filter(m=>m<=DATA.fees_through).forEach(m=>S.months.add(m)); // 空選擇→回預設
   renderFilters();
   const rows=curRows(), t=sum(rows), ms=periodMonths();
   $("kpis").innerHTML=[
@@ -293,7 +305,7 @@ function hbars(el,items,selSet,onClick){
   });
   el.innerHTML=`<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block;margin-top:8px">
     <line x1="${x(0)}" x2="${x(0)}" y1="${T}" y2="${H-4}" stroke="var(--axis)" stroke-width="1"/>${s}</svg>`;
-  el.querySelectorAll(".hrow").forEach(n=>n.addEventListener("click",()=>onClick(n.dataset.key)));
+  el.querySelectorAll(".hrow").forEach(n=>n.addEventListener("click",e=>onClick(n.dataset.key,e)));
   bindTips(el);
 }
 function renderChannelBars(){
@@ -303,7 +315,7 @@ function renderChannelBars(){
   const agg={};rows.forEach(r=>{const a=agg[r.code]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
   const items=Object.entries(agg).map(([c,a])=>({key:c,name:NAME[c]||c,rev:a.rev,v:a.v}))
     .sort((x,y)=>y.v-x.v).slice(0,12);
-  hbars($("chBars"),items,S.plats,k=>{S.plats.has(k)?S.plats.delete(k):S.plats.add(k);render();});
+  hbars($("chBars"),items,S.plats,(k,e)=>pick(S.plats,k,e));
 }
 function renderBrandBars(){
   const ms=S.months;
@@ -311,7 +323,7 @@ function renderBrandBars(){
   const agg={};rows.forEach(r=>{const a=agg[r.brand]??={rev:0,v:0};a.rev+=r.rev;a.v+=r.rev-r.cogs-r.fee;});
   const items=Object.entries(agg).map(([b,a])=>({key:b,name:b,rev:a.rev,v:a.v}))
     .sort((x,y)=>y.v-x.v).slice(0,12);
-  hbars($("brBars"),items,S.brands,k=>{S.brands.has(k)?S.brands.delete(k):S.brands.add(k);render();});
+  hbars($("brBars"),items,S.brands,(k,e)=>pick(S.brands,k,e));
 }
 
 /* ---------- 明細表 ---------- */
