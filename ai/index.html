@@ -32,7 +32,12 @@ body{background:var(--page);color:var(--ink);
   padding:14px 16px;margin-bottom:12px}
 .card h2{font-size:14px;font-weight:700}
 .card .note{font-size:12px;color:var(--muted);margin-top:1px;margin-bottom:8px}
-.legend{display:flex;gap:14px;font-size:12px;color:var(--ink-2);margin:6px 0 2px}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--ink-2);margin:6px 0 2px}
+.sitebtns{display:flex;gap:8px;margin:8px 0 4px}
+.sitebtns button{font:inherit;font-size:13px;color:var(--ink-2);background:var(--chip);
+  border:1px solid var(--chip-bd);border-radius:8px;padding:6px 14px;cursor:pointer}
+.sitebtns button:hover{color:var(--ink)}
+.sitebtns button.on{color:#fff;font-weight:700;border-color:transparent}
 .legend .sw{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
 svg text{font-family:inherit}
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
@@ -63,8 +68,9 @@ a{color:var(--s1)}
   <div class="kpis" id="kpis"></div>
 
   <div class="card">
-    <h2>AI 引用數趨勢（三站）</h2>
-    <div class="note">Ahrefs 8 平台引用加總，每日 07:40 快照。被 AI 引用＝出現在 AI 答案裡的次數存量。</div>
+    <h2 id="c1title">AI 引用數趨勢（各平台）</h2>
+    <div class="note">每日 07:40 快照。按站台切換，各線＝該站在各 AI 平台的引用數趨勢。</div>
+    <div class="sitebtns" id="siteBtns"></div>
     <div class="legend" id="lg1"></div>
     <div id="chart1"></div>
   </div>
@@ -134,30 +140,58 @@ fetch("data/ai.json").then(r=>r.json()).then(D=>{
     <div class="d"><span class="${tcls}">${tdlt>=0?"+":""}${fmt(tdlt)}</span> vs 前7日${prev7?"（"+fmt(prev7)+"）":""}</div></div>`;
   document.getElementById("kpis").innerHTML = kp;
 
-  // ---- chart1: line chart citations ----
-  document.getElementById("lg1").innerHTML = SITES.map(s=>
-    `<span><span class="sw" style="background:${SHEX[s]}"></span>${s.replace(".com","")}</span>`).join("");
-  const W=1040,H=260,PL=54,PR=10,PT=12,PB=26;
-  const all = SITES.flatMap(s=>dates.map(d=>tot[s][d]||0));
-  const ymax = Math.ceil(Math.max(...all)*1.08/500)*500;
-  const X = i => PL+(W-PL-PR)*(dates.length===1?0.5:i/(dates.length-1));
-  const Y = v => PT+(H-PT-PB)*(1-v/ymax);
-  let g = "";
-  for (let t=0;t<=4;t++){const v=ymax*t/4, y=Y(v);
-    g += `<line x1="${PL}" y1="${y}" x2="${W-PR}" y2="${y}" stroke="var(--grid)"/>
-          <text x="${PL-8}" y="${y+4}" text-anchor="end" font-size="11" fill="var(--muted)">${fmt(v)}</text>`;}
-  const step = Math.max(1, Math.ceil(dates.length/10));
-  dates.forEach((d,i)=>{ if(i%step===0||i===dates.length-1)
-    g += `<text x="${X(i)}" y="${H-8}" text-anchor="middle" font-size="11" fill="var(--muted)">${d.slice(5)}</text>`;});
-  for (const s of SITES){
-    const pts = dates.map((d,i)=>`${X(i)},${Y(tot[s][d]||0)}`).join(" ");
-    g += `<polyline points="${pts}" fill="none" stroke="${SHEX[s]}" stroke-width="2.2"/>`;
-    g += dates.map((d,i)=>`<circle cx="${X(i)}" cy="${Y(tot[s][d]||0)}" r="3.2" fill="${SHEX[s]}"
-      onmousemove='showTip(event, "<div class=h>${d}</div><div class=r><span>${s}</span><b>${fmt(tot[s][d]||0)}</b></div>")'
-      onmouseout="hideTip()"/>`).join("");
+  // ---- chart1: 按站切換，各平台趨勢線 ----
+  const PHEX = {google_ai_overviews_keywords:"#3987e5", perplexity:"#199e70",
+    google_ai_overviews:"#e0912f", gemini:"#9b6be5", google_ai_mode:"#31b8c4",
+    chatgpt:"#e66767", copilot:"#d4c33a", grok:"#8a8a8a"};
+  const byPlat = {}; // site -> plat -> date -> c
+  SITES.forEach(s=>byPlat[s]={});
+  for (const [d,s,p,c] of D.citations){ ((byPlat[s]=byPlat[s]||{})[p]=byPlat[s][p]||{})[d]=c; }
+
+  function renderChart1(site){
+    document.getElementById("c1title").textContent =
+      "AI 引用數趨勢——" + site.replace(".com","") + "（各平台）";
+    document.querySelectorAll("#siteBtns button").forEach(b=>{
+      const on = b.dataset.site===site;
+      b.classList.toggle("on", on);
+      b.style.background = on ? SHEX[site] : "";
+    });
+    // 該站有量的平台（全程為 0 的不畫），依最新值排序
+    const plist = Object.keys(PLATS)
+      .filter(p=>byPlat[site][p] && dates.some(d=>(byPlat[site][p][d]||0)>0))
+      .sort((a,b)=>(byPlat[site][b][last]||0)-(byPlat[site][a][last]||0));
+    document.getElementById("lg1").innerHTML = plist.map(p=>
+      `<span><span class="sw" style="background:${PHEX[p]||"#8a8a8a"}"></span>${PLATS[p]||p}</span>`).join("");
+    const W=1040,H=260,PL=54,PR=10,PT=12,PB=26;
+    const all = plist.flatMap(p=>dates.map(d=>byPlat[site][p][d]||0));
+    const rawmax = Math.max(1, ...all);
+    const unit = rawmax>1000?250:(rawmax>200?50:10);
+    const ymax = Math.ceil(rawmax*1.08/unit)*unit;
+    const X = i => PL+(W-PL-PR)*(dates.length===1?0.5:i/(dates.length-1));
+    const Y = v => PT+(H-PT-PB)*(1-v/ymax);
+    let g = "";
+    for (let t=0;t<=4;t++){const v=ymax*t/4, y=Y(v);
+      g += `<line x1="${PL}" y1="${y}" x2="${W-PR}" y2="${y}" stroke="var(--grid)"/>
+            <text x="${PL-8}" y="${y+4}" text-anchor="end" font-size="11" fill="var(--muted)">${fmt(v)}</text>`;}
+    const step = Math.max(1, Math.ceil(dates.length/10));
+    dates.forEach((d,i)=>{ if(i%step===0||i===dates.length-1)
+      g += `<text x="${X(i)}" y="${H-8}" text-anchor="middle" font-size="11" fill="var(--muted)">${d.slice(5)}</text>`;});
+    for (const p of plist){
+      const col = PHEX[p]||"#8a8a8a";
+      const pts = dates.map((d,i)=>`${X(i)},${Y(byPlat[site][p][d]||0)}`).join(" ");
+      g += `<polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2.2"/>`;
+      g += dates.map((d,i)=>`<circle cx="${X(i)}" cy="${Y(byPlat[site][p][d]||0)}" r="3" fill="${col}"
+        onmousemove='showTip(event, "<div class=h>${d}｜${site.replace(".com","")}</div><div class=r><span>${PLATS[p]||p}</span><b>${fmt(byPlat[site][p][d]||0)}</b></div>")'
+        onmouseout="hideTip()"/>`).join("");
+    }
+    document.getElementById("chart1").innerHTML =
+      `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto">${g}</svg>`;
   }
-  document.getElementById("chart1").innerHTML =
-    `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto">${g}</svg>`;
+  document.getElementById("siteBtns").innerHTML = SITES.map(s=>
+    `<button data-site="${s}">${s.replace(".com","")}</button>`).join("");
+  document.querySelectorAll("#siteBtns button").forEach(b=>
+    b.addEventListener("click", ()=>renderChart1(b.dataset.site)));
+  renderChart1(SITES[0]);
 
   // ---- platform table (latest day) ----
   document.getElementById("platNote").textContent = last + " 快照，各平台引用數";
