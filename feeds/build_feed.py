@@ -20,6 +20,8 @@ FORM_RULES = [
     ("cardo_acc",      r"Cardo .*(基座|配件|套裝|喇叭升級|麥克風套件|電池)",         ["Cardo｜配件", "套裝配件"]),
     ("cardo_outdoor",  r"OUTDOOR|戶外運動",                                   ["戶外運動藍牙耳機"]),
     ("cardo_moto",     r"安全帽",                                              ["安全帽藍牙耳機", "車用耳機"]),
+    # 發射器先於耳機規則：Cleer ARC II/3 藍牙發射器 會撞 ARC
+    ("transmitter",    r"發射|接收器|Transmitter",                              ["藍牙發射"]),
     # 喇叭先於耳機規則：JBuds Party／JBL Clip 4 等喇叭標題會撞 Buds／Clip
     ("soundbar",       r"Soundbar|聲霸",                                       ["SoundBar"]),
     ("speaker",        r"喇叭|Speaker|音響|唱盤|收音機",                           ["藍牙喇叭", "WiFi 喇叭"]),
@@ -28,7 +30,6 @@ FORM_RULES = [
     ("overear",        r"耳罩|頭戴|監聽|Headphone|Lux ANC|Wave Pro|Major\b|Studio|Monitor \d|M20x|S220", ["耳罩式"]),
     ("neckband",       r"頸掛",                                                ["頸掛式耳機"]),
     ("wired",          r"有線耳機|耳道式|線控",                                  ["有線耳機"]),
-    ("transmitter",    r"發射|接收器|Transmitter",                              ["藍牙發射"]),
     ("webcam",         r"攝影機|視訊會議|會議系統|PANA|Desk Mate",                 ["網路攝影機", "視訊會議", "會議系統"]),
     ("mic",            r"麥克風",                                              ["辦公專區>麥克風"]),
     ("cricut_machine", r"裁切機|燙印機|EasyPress|Cricut (Joy|Maker|Explore|Venture)\b", ["裁切機/燙印機"]),

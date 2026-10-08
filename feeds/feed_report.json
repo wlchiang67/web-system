@@ -16,14 +16,14 @@
   "bone": 14,
   "3dpen": 37,
   "hearing": 4,
-  "open": 98,
+  "open": 96,
   "cardo_outdoor": 15,
   "travel": 62,
   "watchband": 70,
   "soundbar": 12,
   "(none)": 4,
+  "transmitter": 20,
   "charger": 11,
-  "transmitter": 18,
   "accessory": 36,
   "case": 74,
   "cricut_machine": 59,
@@ -91,6 +91,6 @@
   "Looki L1 AI 智能穿戴式生活相機",
   "Looki L1 AI 智能穿戴式生活相機"
  ],
- "generated_at": "2026-10-08T16:24:02+08:00",
+ "generated_at": "2026-10-08T16:25:12+08:00",
  "items": 1950
 }
