@@ -4,9 +4,9 @@
   "webcam": 26,
   "cardo_moto": 44,
   "kids_hp": 235,
-  "speaker": 334,
-  "overear": 136,
-  "tws": 303,
+  "speaker": 355,
+  "overear": 135,
+  "tws": 288,
   "hrm": 7,
   "kids_watch": 61,
   "kids_cam": 39,
@@ -16,7 +16,7 @@
   "(none)": 14,
   "3dpen": 37,
   "hearing": 3,
-  "open": 103,
+  "open": 98,
   "cardo_outdoor": 17,
   "travel": 62,
   "watchband": 70,
@@ -92,6 +92,6 @@
   "Looki L1 AI 智能穿戴式生活相機",
   "myFirst Frame Clario 智慧數位電子相框"
  ],
- "generated_at": "2026-10-08T11:47:28+08:00",
+ "generated_at": "2026-10-08T15:39:23+08:00",
  "items": 1950
 }
