@@ -22,6 +22,8 @@ FORM_RULES = [
     ("cardo_moto",     r"安全帽",                                              ["安全帽藍牙耳機", "車用耳機"]),
     # 發射器先於耳機規則：Cleer ARC II/3 藍牙發射器 會撞 ARC
     ("transmitter",    r"發射|接收器|Transmitter",                              ["藍牙發射"]),
+    # 支架/壁掛先於喇叭：Audio Pro 喇叭支架不是喇叭（保護殼類排除，交給 case）
+    ("accessory",      r"^(?!.*保護殼).*(支架|壁掛|底座|立架|腳架)",              []),
     # 喇叭先於耳機規則：JBuds Party／JBL Clip 4 等喇叭標題會撞 Buds／Clip
     ("soundbar",       r"Soundbar|聲霸",                                       ["SoundBar"]),
     ("speaker",        r"喇叭|Speaker|音響|唱盤|收音機",                           ["藍牙喇叭", "WiFi 喇叭"]),

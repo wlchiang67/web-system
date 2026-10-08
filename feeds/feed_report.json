@@ -6,7 +6,7 @@
   "kids_hp": 235,
   "cardo_acc": 31,
   "overear": 147,
-  "speaker": 344,
+  "speaker": 341,
   "tws": 267,
   "hrm": 7,
   "kids_watch": 55,
@@ -24,8 +24,8 @@
   "(none)": 4,
   "transmitter": 20,
   "charger": 11,
-  "accessory": 36,
-  "case": 74,
+  "accessory": 41,
+  "case": 72,
   "cricut_machine": 59,
   "cricut_acc": 118,
   "guitar": 13,
@@ -91,6 +91,6 @@
   "Looki L1 AI 智能穿戴式生活相機",
   "Looki L1 AI 智能穿戴式生活相機"
  ],
- "generated_at": "2026-10-08T16:25:12+08:00",
+ "generated_at": "2026-10-08T16:26:07+08:00",
  "items": 1950
 }
