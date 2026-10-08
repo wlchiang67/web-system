@@ -17,20 +17,19 @@
   "3dpen": 37,
   "hearing": 4,
   "open": 96,
-  "cardo_outdoor": 15,
+  "cardo_outdoor": 12,
   "travel": 62,
   "watchband": 70,
   "soundbar": 12,
   "(none)": 4,
   "transmitter": 20,
   "charger": 11,
-  "accessory": 41,
+  "accessory": 46,
   "case": 72,
   "cricut_machine": 59,
   "cricut_acc": 118,
   "guitar": 13,
-  "cleaner": 9,
-  "neckband": 2
+  "cleaner": 9
  },
  "label1": {
   "(none)": 1093,
@@ -91,6 +90,6 @@
   "Looki L1 AI 智能穿戴式生活相機",
   "Looki L1 AI 智能穿戴式生活相機"
  ],
- "generated_at": "2026-10-08T16:26:07+08:00",
+ "generated_at": "2026-10-08T16:26:58+08:00",
  "items": 1950
 }

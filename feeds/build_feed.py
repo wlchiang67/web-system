@@ -18,7 +18,9 @@ FORM_RULES = [
     ("kids_hp",        r"兒童.{0,6}耳機|兒童耳機",                              ["兒童耳機"]),
     ("3dpen",          r"3D ?列印筆|3D Pen",                                  ["3D列印筆"]),
     ("cardo_acc",      r"Cardo .*(基座|配件|套裝|喇叭升級|麥克風套件|電池)",         ["Cardo｜配件", "套裝配件"]),
-    ("cardo_outdoor",  r"OUTDOOR|戶外運動",                                   ["戶外運動藍牙耳機"]),
+    # 生活小物先擋掉：ADAMOUTDOOR 風扇會撞 OUTDOOR、頸掛式風扇會撞頸掛
+    ("accessory",      r"風扇|按摩|鬧鐘|保溫瓶|製冷|暖手",                        []),
+    ("cardo_outdoor",  r"Cardo.*(OUTDOOR|戶外)|PACKTALK OUTDOOR",              ["戶外運動藍牙耳機"]),
     ("cardo_moto",     r"安全帽",                                              ["安全帽藍牙耳機", "車用耳機"]),
     # 發射器先於耳機規則：Cleer ARC II/3 藍牙發射器 會撞 ARC
     ("transmitter",    r"發射|接收器|Transmitter",                              ["藍牙發射"]),
