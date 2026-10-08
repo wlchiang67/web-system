@@ -2,28 +2,29 @@
  "label0": {
   "marker": 59,
   "webcam": 26,
-  "cardo_moto": 44,
+  "cardo_moto": 41,
   "kids_hp": 235,
-  "speaker": 355,
+  "cardo_acc": 31,
   "overear": 135,
+  "speaker": 344,
   "tws": 288,
   "hrm": 7,
-  "kids_watch": 61,
-  "kids_cam": 39,
+  "kids_watch": 55,
+  "kids_cam": 48,
   "wired": 14,
-  "mic": 18,
+  "mic": 16,
   "bone": 14,
-  "(none)": 14,
   "3dpen": 37,
   "hearing": 3,
   "open": 98,
-  "cardo_outdoor": 17,
+  "cardo_outdoor": 15,
   "travel": 62,
   "watchband": 70,
   "soundbar": 12,
-  "accessory": 42,
+  "(none)": 4,
   "charger": 11,
   "transmitter": 18,
+  "accessory": 36,
   "cricut_machine": 59,
   "cricut_acc": 118,
   "guitar": 13,
@@ -81,17 +82,15 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1915,
-  "ptype": 21,
-  "(none)": 14
+  "title": 1934,
+  "ptype": 12,
+  "(none)": 4
  },
  "unlabeled_instock": [
-  "myFirst Frame Doodle 智慧數位相框",
   "Looki L1 AI 智能穿戴式生活相機",
   "Looki L1 AI 智能穿戴式生活相機",
-  "Looki L1 AI 智能穿戴式生活相機",
-  "myFirst Frame Clario 智慧數位電子相框"
+  "Looki L1 AI 智能穿戴式生活相機"
  ],
- "generated_at": "2026-10-08T15:39:23+08:00",
+ "generated_at": "2026-10-08T16:22:48+08:00",
  "items": 1950
 }

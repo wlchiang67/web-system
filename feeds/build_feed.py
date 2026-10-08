@@ -13,10 +13,11 @@ REPORT = HERE / "feed_report.json"
 
 # (標籤, 標題 regex, product_type 關鍵字) —— 由上往下
 FORM_RULES = [
-    ("kids_watch",     r"兒童手錶|\bFone\b",                                  ["兒童手錶"]),
-    ("kids_cam",       r"兒童相機",                                            ["兒童相機"]),
+    ("kids_cam",       r"兒童相機|拍立得|Insta ?Wi|Insta 系列|熱感",              ["兒童相機"]),
+    ("kids_watch",     r"兒童手錶|\bFone\b",                                  ["myFirst｜兒童手錶", "兒童專區>兒童手錶"]),  # 不能只寫「兒童手錶」，myFirst 父層路徑也含這四個字
     ("kids_hp",        r"兒童.{0,6}耳機|兒童耳機",                              ["兒童耳機"]),
     ("3dpen",          r"3D ?列印筆|3D Pen",                                  ["3D列印筆"]),
+    ("cardo_acc",      r"Cardo .*(基座|配件|套裝|喇叭升級|麥克風套件|電池)",         ["Cardo｜配件", "套裝配件"]),
     ("cardo_outdoor",  r"OUTDOOR|戶外運動",                                   ["戶外運動藍牙耳機"]),
     ("cardo_moto",     r"安全帽",                                              ["安全帽藍牙耳機", "車用耳機"]),
     # 喇叭先於耳機規則：JBuds Party／JBL Clip 4 等喇叭標題會撞 Buds／Clip
@@ -42,7 +43,7 @@ FORM_RULES = [
     ("hearing",        r"輔聽",                                                ["輔聽器"]),
     ("watchband",      r"錶帶|Apple watch",                                    ["Apple Watch錶帶"]),
     ("hrm",            r"心跳帶",                                              ["心跳帶"]),
-    ("accessory",      r"配件|支架|吊飾|磁鐵|頸枕|按摩|鬧鐘|保溫瓶|風扇",              ["周邊配件", "配件"]),
+    ("accessory",      r"配件|支架|吊飾|磁鐵|頸枕|按摩|鬧鐘|保溫瓶|風扇|相框",           ["周邊配件", "配件"]),
 ]
 OUTLET_RE = re.compile(r"福利品|盒損品|展示品|爆品")
 BRANDS = ["JLab", "EarFun", "Earfun", "Cleer", "myFirst", "Cardo", "iClever", "Tribit", "Audio Pro", "Cricut", "Ohuhu",
