@@ -25,7 +25,6 @@ FORM_RULES = [
     ("speaker",        r"喇叭|Speaker|音響|唱盤|收音機",                           ["藍牙喇叭", "WiFi 喇叭"]),
     ("bone",           r"骨傳導",                                              ["骨傳導耳機"]),
     ("open",           r"開放式|耳夾|\bClip\b|JLab FLEX|\bARC\b|Open Jump|OPEN SPORT", ["開放式耳機"]),
-    ("tws",            r"真無線|Pods|Buds|Air Pro|Free Pro|\bAir 2\b|Minor IV|\bTWS\b|\bJ1\b", ["真無線藍牙耳機"]),
     ("overear",        r"耳罩|頭戴|監聽|Headphone|Lux ANC|Wave Pro|Major\b|Studio|Monitor \d|M20x|S220", ["耳罩式"]),
     ("neckband",       r"頸掛",                                                ["頸掛式耳機"]),
     ("wired",          r"有線耳機|耳道式|線控",                                  ["有線耳機"]),
@@ -37,6 +36,8 @@ FORM_RULES = [
     ("marker",         r"麥克筆|素描本|Ohuhu",                                   ["麥克筆", "繪畫用具"]),
     ("guitar",         r"吉他",                                                ["無弦吉他"]),
     ("case",           r"手機殼|保護殼|殼$|FlexFolio|EvoShe|MagSafe",            ["手機殼", "保護殼"]),
+    # tws 放在耳罩/有線/攝影機/輔聽/保護殼之後：JLab 什麼都叫 JBuds，只能認「真無線」
+    ("tws",            r"真無線|\bTWS\b",                                      ["真無線藍牙耳機"]),
     ("travel",         r"Skross|萬國|轉接頭|行李|旅行",                           ["萬國插", "旅遊專區"]),
     ("charger",        r"充電|行動電源|快充",                                    ["充電專區"]),
     ("cleaner",        r"WHOOSH|清潔",                                         ["螢幕清潔"]),

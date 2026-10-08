@@ -1,21 +1,21 @@
 {
  "label0": {
   "marker": 59,
-  "webcam": 26,
+  "webcam": 28,
   "cardo_moto": 41,
   "kids_hp": 235,
   "cardo_acc": 31,
-  "overear": 135,
+  "overear": 147,
   "speaker": 344,
-  "tws": 288,
+  "tws": 267,
   "hrm": 7,
   "kids_watch": 55,
   "kids_cam": 48,
-  "wired": 14,
+  "wired": 16,
   "mic": 16,
   "bone": 14,
   "3dpen": 37,
-  "hearing": 3,
+  "hearing": 4,
   "open": 98,
   "cardo_outdoor": 15,
   "travel": 62,
@@ -25,11 +25,11 @@
   "charger": 11,
   "transmitter": 18,
   "accessory": 36,
+  "case": 74,
   "cricut_machine": 59,
   "cricut_acc": 118,
   "guitar": 13,
   "cleaner": 9,
-  "case": 70,
   "neckband": 2
  },
  "label1": {
@@ -91,6 +91,6 @@
   "Looki L1 AI 智能穿戴式生活相機",
   "Looki L1 AI 智能穿戴式生活相機"
  ],
- "generated_at": "2026-10-08T16:22:48+08:00",
+ "generated_at": "2026-10-08T16:24:02+08:00",
  "items": 1950
 }
