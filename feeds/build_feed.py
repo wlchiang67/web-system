@@ -20,6 +20,7 @@ FORM_RULES = [
     ("cardo_acc",      r"Cardo .*(基座|配件|套裝|喇叭升級|麥克風套件|電池)",         ["Cardo｜配件", "套裝配件"]),
     # 生活小物先擋掉：ADAMOUTDOOR 風扇會撞 OUTDOOR、頸掛式風扇會撞頸掛
     ("accessory",      r"風扇|按摩|鬧鐘|保溫瓶|製冷|暖手",                        []),
+    ("cardo_bike",     r"Cardo.*(SYNC|自行車|單車|腳踏車)",                      ["自行車藍牙耳機"]),   # 2026-10 新品 SYNC
     ("cardo_outdoor",  r"Cardo.*(OUTDOOR|戶外)|PACKTALK OUTDOOR",              ["戶外運動藍牙耳機"]),
     ("cardo_moto",     r"安全帽",                                              ["安全帽藍牙耳機", "車用耳機"]),
     # 發射器先於耳機規則：Cleer ARC II/3 藍牙發射器 會撞 ARC
