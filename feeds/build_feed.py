@@ -30,6 +30,7 @@ FORM_RULES = [
     # 喇叭先於耳機規則：JBuds Party／JBL Clip 4 等喇叭標題會撞 Buds／Clip
     ("soundbar",       r"Soundbar|聲霸",                                       ["SoundBar"]),
     ("speaker",        r"喇叭|Speaker|音響|唱盤|收音機",                           ["藍牙喇叭", "WiFi 喇叭"]),
+    ("hearing",        r"輔聽",                                                ["輔聽器"]),   # 先於骨傳導：Kaibo Hear Pro 是輔聽器
     ("bone",           r"骨傳導",                                              ["骨傳導耳機"]),
     ("open",           r"開放式|耳夾|\bClip\b|JLab FLEX|\bARC\b|Open Jump|OPEN SPORT", ["開放式耳機"]),
     ("overear",        r"耳罩|頭戴|監聽|Headphone|Lux ANC|Wave Pro|Major\b|Studio|Monitor \d|M20x|S220", ["耳罩式"]),

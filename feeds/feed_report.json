@@ -13,9 +13,9 @@
   "kids_cam": 48,
   "wired": 16,
   "mic": 16,
-  "bone": 14,
+  "bone": 11,
   "3dpen": 37,
-  "hearing": 4,
+  "hearing": 7,
   "open": 96,
   "cardo_outdoor": 12,
   "travel": 62,
@@ -90,6 +90,6 @@
   "Looki L1 AI 智能穿戴式生活相機",
   "Looki L1 AI 智能穿戴式生活相機"
  ],
- "generated_at": "2026-10-12T03:39:20+08:00",
+ "generated_at": "2026-10-12T10:41:39+08:00",
  "items": 1950
 }
