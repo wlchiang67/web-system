@@ -17,7 +17,7 @@
   "3dpen": 37,
   "hearing": 7,
   "open": 95,
-  "cardo_outdoor": 12,
+  "cardo_outdoor": 13,
   "turntable": 2,
   "travel": 62,
   "watchband": 70,
@@ -31,16 +31,17 @@
   "cricut_acc": 118,
   "guitar": 13,
   "cleaner": 9,
-  "camera": 6
+  "camera": 6,
+  "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1093,
+  "(none)": 1096,
   "outlet": 857
  },
  "brand": {
   "Ohuhu": 59,
   "Coolpo": 9,
-  "Cardo": 87,
+  "Cardo": 90,
   "iClever": 92,
   "(none)": 65,
   "Cleer": 73,
@@ -83,11 +84,11 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1937,
+  "title": 1940,
   "ptype": 12,
   "(none)": 1
  },
  "unlabeled_instock": [],
- "generated_at": "2026-10-12T16:29:29+08:00",
- "items": 1950
+ "generated_at": "2026-10-13T04:22:36+08:00",
+ "items": 1953
 }
