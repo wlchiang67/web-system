@@ -2,7 +2,7 @@ name: build-google-feed
 
 on:
   schedule:
-    - cron: "30 15 * * *"   # 每天 23:30 台北（UTC 15:30），Merchant Center 00:00 抓
+    - cron: "30 11 * * *"   # 每天 19:30 台北（UTC 11:30）；GitHub 排程常延遲 4～5 小時，提早排才趕得上 Merchant Center 00:00 抓
   workflow_dispatch:
 
 permissions:
