@@ -6,7 +6,7 @@
   "kids_hp": 235,
   "cardo_acc": 31,
   "overear": 147,
-  "speaker": 337,
+  "speaker": 339,
   "tws": 267,
   "hrm": 7,
   "kids_watch": 55,
@@ -18,7 +18,7 @@
   "hearing": 7,
   "open": 95,
   "cardo_outdoor": 12,
-  "turntable": 4,
+  "turntable": 2,
   "travel": 62,
   "watchband": 70,
   "soundbar": 12,
@@ -88,6 +88,6 @@
   "(none)": 1
  },
  "unlabeled_instock": [],
- "generated_at": "2026-10-12T16:28:33+08:00",
+ "generated_at": "2026-10-12T16:29:29+08:00",
  "items": 1950
 }

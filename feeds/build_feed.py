@@ -28,7 +28,7 @@ FORM_RULES = [
     # 支架/壁掛先於喇叭：Audio Pro 喇叭支架不是喇叭（保護殼類排除，交給 case）
     ("accessory",      r"^(?!.*保護殼).*(支架|壁掛|底座|立架|腳架)",              []),
     # 喇叭先於耳機規則：JBuds Party／JBL Clip 4 等喇叭標題會撞 Buds／Clip
-    ("turntable",      r"唱盤|黑膠",                                           []),   # Eric 10/12：唱盤不進喇叭活動
+    ("turntable",      r"^(?!.*內建.*喇叭).*(唱盤|黑膠)",                      []),   # Eric 10/12：純唱盤不進喇叭；內建藍牙喇叭的唱盤算喇叭
     ("soundbar",       r"Soundbar|聲霸",                                       ["SoundBar"]),
     ("speaker",        r"喇叭|Speaker|音響|收音機",                           ["藍牙喇叭", "WiFi 喇叭"]),
     ("camera",         r"Looki|生活相機|穿戴式相機",                            ["AI 生活相機"]),   # Looki L1 Go Clip 隨身夾會撞 Clip
