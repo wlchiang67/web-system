@@ -3,14 +3,14 @@
   "marker": 59,
   "webcam": 28,
   "cardo_moto": 41,
-  "kids_hp": 235,
+  "kids_hp": 238,
   "cardo_acc": 31,
   "overear": 147,
   "speaker": 339,
   "tws": 267,
   "hrm": 7,
   "kids_watch": 55,
-  "kids_cam": 48,
+  "kids_cam": 51,
   "wired": 16,
   "mic": 16,
   "bone": 11,
@@ -35,21 +35,21 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1096,
+  "(none)": 1102,
   "outlet": 857
  },
  "brand": {
   "Ohuhu": 59,
   "Coolpo": 9,
   "Cardo": 90,
-  "iClever": 92,
+  "iClever": 95,
   "(none)": 65,
   "Cleer": 73,
   "Urbanista": 13,
   "Scosche": 19,
   "Marley": 30,
   "Tribit": 57,
-  "myFirst": 189,
+  "myFirst": 192,
   "JLab": 293,
   "Puro": 55,
   "Marshall": 59,
@@ -84,11 +84,11 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1940,
+  "title": 1946,
   "ptype": 12,
   "(none)": 1
  },
  "unlabeled_instock": [],
- "generated_at": "2026-10-14T02:25:21+08:00",
- "items": 1953
+ "generated_at": "2026-10-14T23:52:44+08:00",
+ "items": 1959
 }
