@@ -454,7 +454,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63184667de3c96001fac1757/original.jpg?1662535271</g:image_link>
           <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜安全帽耳機 - 套裝配件</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>4680 TWD</g:price>
           <g:sale_price>3980 TWD</g:sale_price>
           <g:item_group_id>6318470b324d0d001915dfb8</g:item_group_id>
@@ -4200,7 +4200,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/64f04d062e1a5a001a6baae8/original.jpg?1693469958</g:image_link>
           <g:product_type>找品牌 &gt; Ohuhu｜麥克筆 &gt; Ohuhu｜Honolulu系列</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6980 TWD</g:sale_price>
           <g:item_group_id>6462f3da5e5075002354a348</g:item_group_id>
@@ -4386,7 +4386,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a2f7b7b69f059174dcec0d3/original.jpg?1781496699=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1184 TWD</g:sale_price>
           <g:item_group_id>6479a3f8c8b46700141817e1</g:item_group_id>
@@ -4522,7 +4522,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6319acc469c65a002531bfed/original.jpg?1662627011</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
           <g:sale_price>1499 TWD</g:sale_price>
           <g:item_group_id>648fc848ef5d580023fd2c8a</g:item_group_id>
@@ -5331,6 +5331,22 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>64d9a621ca15a900103eaf99</g:id>
+          <g:title>Marley Get Together SOLO 藍牙喇叭</g:title>
+          <g:description>融合音樂與風格的木質藍牙書架喇叭，真無線、高音質，長達25小時播放，環保材質，便捷快充，雙機連線，讓您的空間充滿音樂的韻律。此外還可雙機連線，其中包括復古時尚感的黑膠唱盤，請點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/64d9a621ca15a900103eaf99</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/655d76a50f3dcc00239bb214/original.jpg?1700624037</g:image_link>
+          <g:product_type>找商品 &gt; 藍牙喇叭 &gt; 攜帶式藍牙喇叭</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>4280 TWD</g:price>
+          <g:sale_price>1799 TWD</g:sale_price>
+          <g:item_group_id>64d9a621ca15a900103eaf99</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Marley</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>64df39af295d4c00131404a1</g:id>
           <g:title>JLab Nightfall 有線電競耳機</g:title>
           <g:description>美國銷售第一 JLab 電競耳機，擁有50mm驅動體，為您帶來高保真音質的極致聽覺體驗，Cloud Foam記憶襯墊提供絕佳的舒適度，讓您長時間佩戴也感到輕鬆自在，且電競中最重要的團戰通話，流暢不間斷。另外，可翻轉式的雙色頭帶可自由搭配，讓您沉浸在震撼音質中。</g:description>
@@ -5792,22 +5808,6 @@
           <g:gender>unisex</g:gender>
           <g:color>粉紅色</g:color>
         <g:custom_label_0>kids_cam</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>65003761e3cc9a0014c4184d</g:id>
-          <g:title>【福利品】Ohuhu 320色雙頭酒精性麥克筆套組</g:title>
-          <g:description>• 繽紛色系 | 320種繽紛色系可以選擇 • 軟硬雙頭 | 雙頭可選擇，360度筆劃任你發揮 • 筆頭可換 | 軟筆頭可雙邊替換延長使用 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢 • 圓形筆桿 | 人體工學圓形筆桿好握舒適 • 安全無毒 | 通過美國、歐盟、中國環保檢測 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢 • 優質墨水 | 顏色飽和均勻易上色，簡單漸層疊色 • 查詢快速 | 標準色系，筆帽與色卡對應查詢快速 • 防水筆袋 | 內附防水筆</g:description>
-          <g:link>https://store.igogosport.com/products/65003761e3cc9a0014c4184d</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/64f04d062e1a5a001a6baae8/original.jpg?1693469958</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>7980 TWD</g:price>
-          <g:sale_price>4999 TWD</g:sale_price>
-          <g:item_group_id>65003761e3cc9a0014c4184d</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Ohuhu</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6502844cce64d50017c2cc47</g:id>
           <g:title>Ohuhu Maui 36色雙頭水性麥克筆套組(白色包裝)</g:title>
           <g:description>創立靈感來自美國夏威夷的高CP值繪畫用具品牌，多種顏色、多種款式任君挑選，雙筆頭、圓形筆桿設計，且安全無毒通過檢驗，一起發揮創意靈感，描繪屬於自己的色彩吧，點擊查看更多&gt;&gt;&gt;</g:description>
@@ -6645,7 +6645,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65719107aae4270017880b49/original.jpg?1701941511</g:image_link>
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $1000 以下</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>399 TWD</g:sale_price>
           <g:item_group_id>657192b2e505c7001d8acffc</g:item_group_id>
@@ -6753,7 +6753,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/657199f3e5e75b001dfaceb3/original.jpg?1701943794</g:image_link>
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $1000 以下</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>599 TWD</g:sale_price>
           <g:item_group_id>65719a232038c0002357148c</g:item_group_id>
@@ -7256,7 +7256,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/657feec8db26ff0020196fdf/original.jpg?1702883016</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 耳罩式耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3980 TWD</g:price>
           <g:sale_price>2980 TWD</g:sale_price>
           <g:item_group_id>657ff0f1c5caab001701b7d0</g:item_group_id>
@@ -7758,7 +7758,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65b86739109bee001d42c743/original.jpg?1706583864</g:image_link>
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
           <g:sale_price>1799 TWD</g:sale_price>
           <g:item_group_id>65b8677667e178001714c5fe</g:item_group_id>
@@ -8609,7 +8609,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/652919dd92d9fdd062c01c2f/original.jpg?1697192413</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>944 TWD</g:sale_price>
           <g:item_group_id>662b53801e93a70017b6ce0d</g:item_group_id>
@@ -9956,7 +9956,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/657feec8db26ff0020196fdf/original.jpg?1702883016</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3980 TWD</g:price>
           <g:sale_price>1999 TWD</g:sale_price>
           <g:item_group_id>667cbd1446ffc3000ecf8035</g:item_group_id>
@@ -10740,7 +10740,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6319acc469c65a002531bfed/original.jpg?1662627011</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
           <g:sale_price>1599 TWD</g:sale_price>
           <g:item_group_id>66b2d354b31b99849d7f6ed4</g:item_group_id>
@@ -10767,108 +10767,22 @@
           <g:gender>unisex</g:gender>
           <g:color>藍色</g:color>
         <g:custom_label_0>kids_cam</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>66b2d8efcacefc001fa6ed45:66b2d8ef3306d1000c007367</g:id>
-          <g:title>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:description>
-          <g:link>https://store.igogosport.com/products/66b2d8efcacefc001fa6ed45?variation=66b2d8ef3306d1000c007367</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6319c207a6fab400287ef310/original.jpg?1662632455</g:image_link>
+          <g:id>66b2d463619cda0013007b4e</g:id>
+          <g:title>【盒損品】Marley Stir It Up Lux 無線藍牙黑膠唱盤</g:title>
+          <g:description>黑膠唱片愛好者一定不能錯過的Marley黑膠唱盤機，類比音源特有的「滑順、柔和、舒暢、療癒」，同時藍牙5.3可無線連接，33/45RPM穩定轉速，還有特別的雙面設計，現在就一起重返黑膠唱片的懷抱吧 !</g:description>
+          <g:link>https://store.igogosport.com/products/66b2d463619cda0013007b4e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/655d778446a6a2001a9f9bba/original.jpg?1700624260</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1580 TWD</g:price>
-          <g:sale_price>949 TWD</g:sale_price>
-          <g:item_group_id>66b2d8efcacefc001fa6ed45</g:item_group_id>
+          <g:availability>in stock</g:availability>
+          <g:price>16800 TWD</g:price>
+          <g:sale_price>7199 TWD</g:sale_price>
+          <g:item_group_id>66b2d463619cda0013007b4e</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
+          <g:brand>Marley</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-          <g:color>淺天藍</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>66b2d8efcacefc001fa6ed45:66b2d8ef3306d1000c007368</g:id>
-          <g:title>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:description>
-          <g:link>https://store.igogosport.com/products/66b2d8efcacefc001fa6ed45?variation=66b2d8ef3306d1000c007368</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6319c207d551dc00297aa3fb/original.jpg?1662632455</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1580 TWD</g:price>
-          <g:sale_price>949 TWD</g:sale_price>
-          <g:item_group_id>66b2d8efcacefc001fa6ed45</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>螢光黃</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>66b2d8efcacefc001fa6ed45:6736b3813184ef000bfd1334</g:id>
-          <g:title>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:description>
-          <g:link>https://store.igogosport.com/products/66b2d8efcacefc001fa6ed45?variation=6736b3813184ef000bfd1334</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6736b320c612c9000cf98e92/original.jpg?1731638048</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1580 TWD</g:price>
-          <g:sale_price>949 TWD</g:sale_price>
-          <g:item_group_id>66b2d8efcacefc001fa6ed45</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>森林綠</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>66b2d8efcacefc001fa6ed45:673714e1b6fdf9000d9c3210</g:id>
-          <g:title>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:description>
-          <g:link>https://store.igogosport.com/products/66b2d8efcacefc001fa6ed45?variation=673714e1b6fdf9000d9c3210</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/673714bb1887a4000eb8d36d/original.jpg?1731663034</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1580 TWD</g:price>
-          <g:sale_price>949 TWD</g:sale_price>
-          <g:item_group_id>66b2d8efcacefc001fa6ed45</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>孔雀綠</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>66b2d8efcacefc001fa6ed45:67904fbd5db32d000f12734e</g:id>
-          <g:title>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:description>
-          <g:link>https://store.igogosport.com/products/66b2d8efcacefc001fa6ed45?variation=67904fbd5db32d000f12734e</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67904df85890b1000d6b4cff/original.jpg?1737510392</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1580 TWD</g:price>
-          <g:sale_price>949 TWD</g:sale_price>
-          <g:item_group_id>66b2d8efcacefc001fa6ed45</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>消光黑</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>66b2d8efcacefc001fa6ed45:67904fbd5db32d000f12734f</g:id>
-          <g:title>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>【盒損品】JLab Go Air Sport 真無線藍牙耳機(Type-A版)</g:description>
-          <g:link>https://store.igogosport.com/products/66b2d8efcacefc001fa6ed45?variation=67904fbd5db32d000f12734f</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67904dfa1ca980000d54f9f9/original.jpg?1737510394</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1580 TWD</g:price>
-          <g:sale_price>949 TWD</g:sale_price>
-          <g:item_group_id>66b2d8efcacefc001fa6ed45</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>暖柔沙</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>turntable</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>66b2da3cb762e9556df0d993:66b2da3c0a31a36a09e71fde</g:id>
           <g:title>【盒損品】EarFun Air Pro 3 降噪真無線藍牙耳機</g:title>
           <g:description>Earfun Air Pro 3 榮獲 2023 日本VGP金賞肯定，次世代LE Audio技術與LC3音頻解碼搭配上最新藍牙5.3，超低功耗、穩定傳輸，還能透過EarFun App客製化個人聆聽喜好。aptX adaptive 自適應主動降噪讓您遠離塵囂，體驗還原現場般的無損音質。支援多點連線讓任意兩個設備無縫自由切換。</g:description>
@@ -11942,7 +11856,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63180ecb057500001c4b7f88/original.jpg?1662521035</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>8999 TWD</g:price>
           <g:sale_price>6999 TWD</g:sale_price>
           <g:item_group_id>66d94585f22be1000db3c1a1</g:item_group_id>
@@ -12180,7 +12094,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65719107aae4270017880b49/original.jpg?1701941511</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>539 TWD</g:sale_price>
           <g:item_group_id>66de5c7cf7f9ff83c78349dc</g:item_group_id>
@@ -12288,7 +12202,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/657199f3e5e75b001dfaceb3/original.jpg?1701943794</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>66de5d2ebd39d854a2ecdf38</g:item_group_id>
@@ -12513,7 +12427,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/68f59ba4416b68000c1c825a/original.jpg?1760926628=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1332 TWD</g:sale_price>
           <g:item_group_id>66e106bb37e29a0022426dd3</g:item_group_id>
@@ -12530,7 +12444,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/652ca227ce24f4000ee1ea22/original.jpg?1697423911</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2580 TWD</g:price>
           <g:sale_price>1422 TWD</g:sale_price>
           <g:item_group_id>66e10753fc6f32000dfadabc</g:item_group_id>
@@ -13234,7 +13148,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6659691b69cc21000d986cbb/original.jpg?1717135643</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
           <g:sale_price>4299 TWD</g:sale_price>
           <g:item_group_id>66f52bd97840c4000ac4beee</g:item_group_id>
@@ -13351,7 +13265,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66fa783f743e4d40329ba886/original.jpg?1727690815</g:image_link>
           <g:product_type>找商品 &gt; 藍牙喇叭 &gt; 攜帶式藍牙喇叭</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>6990 TWD</g:price>
           <g:item_group_id>66fa784b88e5fa000e2477bc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
@@ -13843,6 +13757,91 @@
           <g:gender>unisex</g:gender>
           <g:color>白色</g:color>
         <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>671f59b7cfcd5e000ac8d666:671f59b7e66947b0aa021159</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/671f59b7cfcd5e000ac8d666?variation=671f59b7e66947b0aa021159</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/641164b9f8203e001da662ad/original.jpg?1678861496</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>8982 TWD</g:sale_price>
+          <g:item_group_id>671f59b7cfcd5e000ac8d666</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>671f59b7cfcd5e000ac8d666:671f59b7e66947b0aa02115a</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/671f59b7cfcd5e000ac8d666?variation=671f59b7e66947b0aa02115a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/641164b9afae4600142be66b/original.jpg?1678861496</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>8982 TWD</g:sale_price>
+          <g:item_group_id>671f59b7cfcd5e000ac8d666</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>白色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>671f59b7cfcd5e000ac8d666:671f59b7e66947b0aa02115b</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/671f59b7cfcd5e000ac8d666?variation=671f59b7e66947b0aa02115b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/641164b9e83ee20014442956/original.jpg?1678861496</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>8982 TWD</g:sale_price>
+          <g:item_group_id>671f59b7cfcd5e000ac8d666</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>671f59b7cfcd5e000ac8d666:671f59b7e66947b0aa02115c</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/671f59b7cfcd5e000ac8d666?variation=671f59b7e66947b0aa02115c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/641164b949c65c00140f7c25/original.jpg?1678861496</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>8982 TWD</g:sale_price>
+          <g:item_group_id>671f59b7cfcd5e000ac8d666</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>米白</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>671f59b7cfcd5e000ac8d666:671f59b7e66947b0aa02115d</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/671f59b7cfcd5e000ac8d666?variation=671f59b7e66947b0aa02115d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/641164b980d9640020afcb48/original.jpg?1678861496</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>8982 TWD</g:sale_price>
+          <g:item_group_id>671f59b7cfcd5e000ac8d666</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>鼠尾草綠</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>671f5e6f60ccc8000af39db9</g:id>
           <g:title>Cleer ARC 3 開放式AI真無線藍牙耳機 藍寶堅尼版</g:title>
           <g:description>限量聯名！Cleer ARC 3  藍寶堅尼 藍牙耳機，結合義式超跑美學與開放式耳掛設計，提供舒適配戴與環境感知。搭載高通晶片、aptX Adaptive編解碼與獨家頭部感應功能，支援點頭接聽、搖頭掛斷。運動、通勤、日常皆適用，享受沉浸音效與極致風格的完美融合。</g:description>
@@ -15352,7 +15351,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65c076568f84610011e25905/original.jpg?1707112022</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>9980 TWD</g:price>
           <g:sale_price>5999 TWD</g:sale_price>
           <g:item_group_id>67726b9e1babfc0010cebf4a</g:item_group_id>
@@ -16714,108 +16713,6 @@
           <g:gender>unisex</g:gender>
           <g:color>藕荷紫</g:color>
         <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d236d5e0aa9b000a2b11b5:67d236d566ccf400094d40de</g:id>
-          <g:title>【盒損品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/67d236d5e0aa9b000a2b11b5?variation=67d236d566ccf400094d40de</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce7173e9b0010dfa681/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1512 TWD</g:sale_price>
-          <g:item_group_id>67d236d5e0aa9b000a2b11b5</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d236d5e0aa9b000a2b11b5:67d236d566ccf400094d40df</g:id>
-          <g:title>【盒損品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/67d236d5e0aa9b000a2b11b5?variation=67d236d566ccf400094d40df</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce725f616000b010e13/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1512 TWD</g:sale_price>
-          <g:item_group_id>67d236d5e0aa9b000a2b11b5</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>白色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d23dd44c7eae000d334770:67d23dd4afbf16000d2798fb</g:id>
-          <g:title>【福利品】Cleer ARC II 開放式真無線藍牙耳機 (運動版)</g:title>
-          <g:description>【igogosprot 思博特】 - 台灣總代理 原廠公司貨，品質 / 來源有保障。專業級紫外線殺菌充電盒，為運動而生， 全程為您記錄運動數據。最新LE Audio低功耗，並採用高通驍龍Snapdragon 最新音頻連線技術，配備高通aptX Lossless 無損傳輸，aptX Adaptive 高音質編碼，連線、低延遲完美兼具，是您運動時不可或缺的好夥伴！透過APP調整創造更多ARC的可能性。</g:description>
-          <g:link>https://store.igogosport.com/products/67d23dd44c7eae000d334770?variation=67d23dd4afbf16000d2798fb</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/645dd4b91cce6c001d5c4f0c/original.jpg?1683870905</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>5280 TWD</g:price>
-          <g:sale_price>1599 TWD</g:sale_price>
-          <g:item_group_id>67d23dd44c7eae000d334770</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cleer</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>經典紅</g:color>
-        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d23dd44c7eae000d334770:67d23dd4afbf16000d2798fc</g:id>
-          <g:title>【福利品】Cleer ARC II 開放式真無線藍牙耳機 (運動版)</g:title>
-          <g:description>【igogosprot 思博特】 - 台灣總代理 原廠公司貨，品質 / 來源有保障。專業級紫外線殺菌充電盒，為運動而生， 全程為您記錄運動數據。最新LE Audio低功耗，並採用高通驍龍Snapdragon 最新音頻連線技術，配備高通aptX Lossless 無損傳輸，aptX Adaptive 高音質編碼，連線、低延遲完美兼具，是您運動時不可或缺的好夥伴！透過APP調整創造更多ARC的可能性。</g:description>
-          <g:link>https://store.igogosport.com/products/67d23dd44c7eae000d334770?variation=67d23dd4afbf16000d2798fc</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/645dd4b9525c55001a9a6985/original.jpg?1683870904</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>5280 TWD</g:price>
-          <g:sale_price>1599 TWD</g:sale_price>
-          <g:item_group_id>67d23dd44c7eae000d334770</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cleer</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>曜石黑</g:color>
-        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d23dd44c7eae000d334770:67d23dd4afbf16000d2798fd</g:id>
-          <g:title>【福利品】Cleer ARC II 開放式真無線藍牙耳機 (運動版)</g:title>
-          <g:description>【igogosprot 思博特】 - 台灣總代理 原廠公司貨，品質 / 來源有保障。專業級紫外線殺菌充電盒，為運動而生， 全程為您記錄運動數據。最新LE Audio低功耗，並採用高通驍龍Snapdragon 最新音頻連線技術，配備高通aptX Lossless 無損傳輸，aptX Adaptive 高音質編碼，連線、低延遲完美兼具，是您運動時不可或缺的好夥伴！透過APP調整創造更多ARC的可能性。</g:description>
-          <g:link>https://store.igogosport.com/products/67d23dd44c7eae000d334770?variation=67d23dd4afbf16000d2798fd</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/645dd4b9243ed000173f5447/original.jpg?1683870904</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>5280 TWD</g:price>
-          <g:sale_price>1599 TWD</g:sale_price>
-          <g:item_group_id>67d23dd44c7eae000d334770</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cleer</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑曜金</g:color>
-        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d23dd44c7eae000d334770:67d23dd4afbf16000d2798fe</g:id>
-          <g:title>【福利品】Cleer ARC II 開放式真無線藍牙耳機 (運動版)</g:title>
-          <g:description>【igogosprot 思博特】 - 台灣總代理 原廠公司貨，品質 / 來源有保障。專業級紫外線殺菌充電盒，為運動而生， 全程為您記錄運動數據。最新LE Audio低功耗，並採用高通驍龍Snapdragon 最新音頻連線技術，配備高通aptX Lossless 無損傳輸，aptX Adaptive 高音質編碼，連線、低延遲完美兼具，是您運動時不可或缺的好夥伴！透過APP調整創造更多ARC的可能性。</g:description>
-          <g:link>https://store.igogosport.com/products/67d23dd44c7eae000d334770?variation=67d23dd4afbf16000d2798fe</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/64d32824746fb80016c2aaa3/original.jpg?1691559972</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>5280 TWD</g:price>
-          <g:sale_price>1599 TWD</g:sale_price>
-          <g:item_group_id>67d23dd44c7eae000d334770</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cleer</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>雲彩粉</g:color>
-        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>67d23f339c684d000cd0228c:67d23f334d8904000d0c8efa</g:id>
           <g:title>【盒損品】Cleer ARC II 開放式真無線藍牙耳機 (電競版)</g:title>
           <g:description>【igogosprot 思博特】 - 台灣總代理 原廠公司貨，品質 / 來源有保障。ARC二代全新升級，內附Dongle，超低延遲讓您在遊戲世界一夫當關！最新LE Audio低功耗，高通驍龍暢聽技術，aptX Lossless無損音質如臨現場。3D動態空間音效搭配動態低音增強技術，沉浸式的影廳級效果。黑科技高精度6軸傳感器能提供雙向提醒，智能防丟失、頭部指令操控耳機、久坐提醒，養成健康好習慣。透過APP調整創造更多ARC的可能性。</g:description>
@@ -18323,7 +18220,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65719107aae4270017880b49/original.jpg?1701941511</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>479 TWD</g:sale_price>
           <g:item_group_id>681444b7e3a2a600117adcec</g:item_group_id>
@@ -18650,7 +18547,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65b86739109bee001d42c743/original.jpg?1706583864</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
           <g:sale_price>1399 TWD</g:sale_price>
           <g:item_group_id>681ae619792650000c9b5ddd</g:item_group_id>
@@ -20018,7 +19915,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6684c35b2fc0fe001f36cbae/original.jpg?1719976795</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>4780 TWD</g:price>
           <g:sale_price>2499 TWD</g:sale_price>
           <g:item_group_id>682eeb366941d0573314ab12</g:item_group_id>
@@ -20608,7 +20505,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67652f446f0569000ff3ca50/original.jpg?1734684483</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>6880 TWD</g:price>
           <g:sale_price>2399 TWD</g:sale_price>
           <g:item_group_id>6847cba46b4b85000d2a4acc</g:item_group_id>
@@ -21393,6 +21290,74 @@
           <g:color>質感黑金</g:color>
           <g:size>42/44/45/49 mm</g:size>
         <g:custom_label_0>watchband</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce8401378da000d333a92:686ce84065fda7000ec548b7</g:id>
+          <g:title>【盒損品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce8401378da000d333a92?variation=686ce84065fda7000ec548b7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719520c45000bb29914/original.jpg?1747711769</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>17820 TWD</g:sale_price>
+          <g:item_group_id>686ce8401378da000d333a92</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce8401378da000d333a92:686ce84065fda7000ec548b8</g:id>
+          <g:title>【盒損品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce8401378da000d333a92?variation=686ce84065fda7000ec548b8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719717eee000c75fb95/original.jpg?1747711769</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>17820 TWD</g:sale_price>
+          <g:item_group_id>686ce8401378da000d333a92</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>白色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce8401378da000d333a92:686ce84065fda7000ec548b9</g:id>
+          <g:title>【盒損品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce8401378da000d333a92?variation=686ce84065fda7000ec548b9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf7191528cc000f8fc9f4/original.jpg?1747711769</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>17820 TWD</g:sale_price>
+          <g:item_group_id>686ce8401378da000d333a92</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce8401378da000d333a92:6944bb7da992de0014fd2eea</g:id>
+          <g:title>【盒損品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce8401378da000d333a92?variation=6944bb7da992de0014fd2eea</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6944baee8ee77a854edd07cb/original.jpg?1766111982=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>17820 TWD</g:sale_price>
+          <g:item_group_id>686ce8401378da000d333a92</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>胡桃木色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca19</g:id>
           <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
           <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -21400,7 +21365,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719520c45000bb29914/original.jpg?1747711769</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>23800 TWD</g:price>
           <g:sale_price>15840 TWD</g:sale_price>
           <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
@@ -21417,7 +21382,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719717eee000c75fb95/original.jpg?1747711769</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>23800 TWD</g:price>
           <g:sale_price>15840 TWD</g:sale_price>
           <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
@@ -21434,7 +21399,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf7191528cc000f8fc9f4/original.jpg?1747711769</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>23800 TWD</g:price>
           <g:sale_price>15840 TWD</g:sale_price>
           <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
@@ -21451,7 +21416,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4709cf3c5ce51cd9477379/original.jpg?1783040462=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>23800 TWD</g:price>
           <g:sale_price>15840 TWD</g:sale_price>
           <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
@@ -23540,40 +23505,6 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>68d4ddf911e802000e5a6c14:68d4ddf921d490000cbcb635</g:id>
-          <g:title>【福利品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/68d4ddf911e802000e5a6c14?variation=68d4ddf921d490000cbcb635</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce7173e9b0010dfa681/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1344 TWD</g:sale_price>
-          <g:item_group_id>68d4ddf911e802000e5a6c14</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>68d4ddf911e802000e5a6c14:68d4ddf921d490000cbcb636</g:id>
-          <g:title>【福利品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/68d4ddf911e802000e5a6c14?variation=68d4ddf921d490000cbcb636</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce725f616000b010e13/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1344 TWD</g:sale_price>
-          <g:item_group_id>68d4ddf911e802000e5a6c14</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>白色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>68e4de6086488f00146fec56:68e4de60f7717900123d04d5</g:id>
           <g:title>【盒損品】Cleer ALPHA 智能降噪耳罩無線耳機</g:title>
           <g:description>Cleer ALPHA 智能降噪耳罩無線耳機採用 40mm Ironless Driver，搭配 DIRAC 空間音效技術，擁有高解析音質。其還支援主動降噪與環境音模式，能提供多達35小時的續航時間。透過 Cleer+ App 可自訂 EQ 設定，並支援藍牙5.1連線，適合音樂愛好者與商務人士使用。立即於 igogosport 購物網選購，體驗頂級音效與舒適配戴感受。</g:description>
@@ -24609,7 +24540,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b197432af4c3001300364e/original.jpg?1722914626</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>580 TWD</g:price>
           <g:sale_price>399 TWD</g:sale_price>
           <g:item_group_id>69241b567015e5000a123c29</g:item_group_id>
@@ -24794,7 +24725,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6876fede9bafd8000c92e3f7/original.jpg?1752628958</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
           <g:sale_price>3199 TWD</g:sale_price>
           <g:item_group_id>69250ee50821c200116fcbbb</g:item_group_id>
@@ -25769,22 +25700,6 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>午夜藍</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>69802decf517ab6e333a5733</g:id>
-          <g:title>【福利品】Creative Aurvana Ace 2 降噪真無線藍牙耳機</g:title>
-          <g:description>全球首款 xMEMS 固態矽單體耳機，固態矽單體 +10mm 動圈單體，高通驍龍Snapdragon 最新音頻連線技術，次世代LE Audio技術與LC3音頻解碼，增強型6麥克風陣列+高通cVc技術，隨時感知周遭環境，無須取下耳機，支援無線充電且相容 Qi 標準，獨特亮面半透黑與內飾銅色，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/69802decf517ab6e333a5733</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67fe01248fef74000a8c2950/original.jpg?1744699684</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>4280 TWD</g:price>
-          <g:sale_price>1999 TWD</g:sale_price>
-          <g:item_group_id>69802decf517ab6e333a5733</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Creative</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>698038e79012cb7fcc0883bd</g:id>
           <g:title>【盒損品】Ohuhu Honolulu 36色雙頭酒精性麥克筆套組 - 膚色系</g:title>
@@ -30782,26 +30697,10 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63abfa57e5674f0016b7b785/original.jpg?1672215127</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>680 TWD</g:price>
           <g:sale_price>499 TWD</g:sale_price>
           <g:item_group_id>6a7401f0632b399df5c30ef3</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Ohuhu</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>6a7402ac72deee41b53c8e62</g:id>
-          <g:title>【盒損品】Ohuhu Honolulu 104色雙頭酒精性麥克筆套組</g:title>
-          <g:description>創立靈感來自美國夏威夷的高CP值繪畫用具品牌，多種顏色、多種款式任君挑選，雙筆頭、圓形筆桿設計，且安全無毒通過檢驗，一起發揮創意靈感，描繪屬於自己的色彩吧，點擊查看更多&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/6a7402ac72deee41b53c8e62</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/64f53e75a486dc001d9224cf/original.jpg?1693793908</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>3680 TWD</g:price>
-          <g:sale_price>2052 TWD</g:sale_price>
-          <g:item_group_id>6a7402ac72deee41b53c8e62</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ohuhu</g:brand>
           <g:age_group>adult</g:age_group>
@@ -31147,7 +31046,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-13T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-14T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
@@ -31165,7 +31064,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-13T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-14T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
@@ -31500,6 +31399,22 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6a8e70f64f9b4a211a47075b</g:id>
+          <g:title>【盒損品】Marley Soul Rebel 內建藍牙喇叭黑膠唱盤</g:title>
+          <g:description>Marley Soul Rebel  結合經典黑膠音色與現代藍牙連線，內建立體聲喇叭與雙低音反射孔，採用永續竹材與再生塑料打造，搭配氛圍燈與防塵罩，兼具音質、設計與居家質感。</g:description>
+          <g:link>https://store.igogosport.com/products/6a8e70f64f9b4a211a47075b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a7be35acf4fe90f9313ebca/original.jpg?1786504026=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>12800 TWD</g:price>
+          <g:sale_price>8982 TWD</g:sale_price>
+          <g:item_group_id>6a8e70f64f9b4a211a47075b</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Marley</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a8e827915622c525553605b:6a8e82780c06d400088f9b51</g:id>
           <g:title>Audio Pro C5 MKII W WiFi無線藍牙喇叭</g:title>
           <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
@@ -31820,7 +31735,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a8bb5ad62e456a2220219c3/original.jpg?1787540909=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
           <g:sale_price>3239 TWD</g:sale_price>
           <g:item_group_id>6a9e35c34bfd6c879854be00</g:item_group_id>
@@ -32540,7 +32455,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67f38f2483c9b300119c747f/original.jpg?1744015140</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
           <g:sale_price>1590 TWD</g:sale_price>
           <g:item_group_id>6ab1ec071d7a63077c9dd5c0</g:item_group_id>
@@ -32584,6 +32499,57 @@
           <g:gender>unisex</g:gender>
           <g:color>粉紫色</g:color>
         <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6ab2389cfcababb58e82f7e1:6ab2389c7dc8b8001092c3ba</g:id>
+          <g:title>【盒損品】Audio Pro A10 MKII W WiFi 無線藍牙喇叭</g:title>
+          <g:description>商業空間無線喇叭最佳選擇，支援AirPlay 2、Chromecast和Audio Pro Multiroom，實現房間串流。與Apple Home、Google Home、Audio Pro Control完美兼容，智慧家居輕鬆掌握。支援Spotify Connect、Tidal Connect等流行串流媒體平台。支援居家擺放，軌道燈、壁掛、桌立皆可擺設聆聽，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6ab2389cfcababb58e82f7e1?variation=6ab2389c7dc8b8001092c3ba</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/664577c491b03400133f908b/original.jpg?1715828676</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>10800 TWD</g:price>
+          <g:sale_price>8082 TWD</g:sale_price>
+          <g:item_group_id>6ab2389cfcababb58e82f7e1</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>深灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6ab2389cfcababb58e82f7e1:6ab2389c7dc8b8001092c3bb</g:id>
+          <g:title>【盒損品】Audio Pro A10 MKII W WiFi 無線藍牙喇叭</g:title>
+          <g:description>商業空間無線喇叭最佳選擇，支援AirPlay 2、Chromecast和Audio Pro Multiroom，實現房間串流。與Apple Home、Google Home、Audio Pro Control完美兼容，智慧家居輕鬆掌握。支援Spotify Connect、Tidal Connect等流行串流媒體平台。支援居家擺放，軌道燈、壁掛、桌立皆可擺設聆聽，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6ab2389cfcababb58e82f7e1?variation=6ab2389c7dc8b8001092c3bb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/664577c4230f6b001c345607/original.jpg?1715828676</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>10800 TWD</g:price>
+          <g:sale_price>8082 TWD</g:sale_price>
+          <g:item_group_id>6ab2389cfcababb58e82f7e1</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>淺灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6ab2389cfcababb58e82f7e1:6ab2389c7dc8b8001092c3bc</g:id>
+          <g:title>【盒損品】Audio Pro A10 MKII W WiFi 無線藍牙喇叭</g:title>
+          <g:description>商業空間無線喇叭最佳選擇，支援AirPlay 2、Chromecast和Audio Pro Multiroom，實現房間串流。與Apple Home、Google Home、Audio Pro Control完美兼容，智慧家居輕鬆掌握。支援Spotify Connect、Tidal Connect等流行串流媒體平台。支援居家擺放，軌道燈、壁掛、桌立皆可擺設聆聽，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6ab2389cfcababb58e82f7e1?variation=6ab2389c7dc8b8001092c3bc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67f49ddec840de000ccb5463/original.jpg?1744084446</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>10800 TWD</g:price>
+          <g:sale_price>8082 TWD</g:sale_price>
+          <g:item_group_id>6ab2389cfcababb58e82f7e1</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6ab39b8a1c3f9f7f0b7601f3:6ab39b8a15a56d00162cdb14</g:id>
           <g:title>Cleer ARC 6 開放式 AI 真無線藍牙耳機 運動版</g:title>
           <g:description>旗艦級智慧運動耳機，搭載 AI 智慧助理「聽道」、20+ 種語言即時翻譯、aptX Lossless 與 LDAC 高解析音訊，支援杜比音效、頭部追蹤及 THX 認證，更具備 AI 通話降噪、RGB 燈效、IPX7 防水、45 小時長續航與快速充電，結合舒適仿生耳掛設計，運動、旅行與日常聆聽皆能享受沉浸音質與智慧操控。</g:description>

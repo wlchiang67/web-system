@@ -1,13 +1,13 @@
 {
  "label0": {
-  "marker": 59,
+  "marker": 57,
   "webcam": 28,
   "cardo_moto": 41,
   "kids_hp": 238,
   "cardo_acc": 31,
   "overear": 147,
-  "speaker": 339,
-  "tws": 267,
+  "speaker": 353,
+  "tws": 256,
   "hrm": 7,
   "kids_watch": 55,
   "kids_cam": 51,
@@ -16,9 +16,9 @@
   "bone": 11,
   "3dpen": 37,
   "hearing": 7,
-  "open": 95,
+  "open": 91,
   "cardo_outdoor": 13,
-  "turntable": 2,
+  "turntable": 3,
   "travel": 62,
   "watchband": 70,
   "soundbar": 12,
@@ -35,29 +35,29 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1102,
-  "outlet": 857
+  "(none)": 1103,
+  "outlet": 854
  },
  "brand": {
-  "Ohuhu": 59,
+  "Ohuhu": 57,
   "Coolpo": 9,
   "Cardo": 90,
   "iClever": 95,
   "(none)": 65,
-  "Cleer": 73,
+  "Cleer": 69,
   "Urbanista": 13,
   "Scosche": 19,
-  "Marley": 30,
+  "Marley": 33,
   "Tribit": 57,
   "myFirst": 192,
-  "JLab": 293,
+  "JLab": 287,
   "Puro": 55,
   "Marshall": 59,
-  "EarFun": 98,
+  "EarFun": 94,
   "Audio-Technica": 46,
   "Kaibo": 12,
   "BeHear": 3,
-  "Audio Pro": 38,
+  "Audio Pro": 50,
   "Nuheara": 1,
   "JBL": 66,
   "OneOdio": 59,
@@ -70,7 +70,7 @@
   "Kreafunk": 4,
   "1Mii": 9,
   "Ultimate Ears": 17,
-  "Creative": 25,
+  "Creative": 24,
   "Motorola": 13,
   "Harman Kardon": 8,
   "Cricut": 177,
@@ -84,11 +84,11 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1946,
+  "title": 1944,
   "ptype": 12,
   "(none)": 1
  },
  "unlabeled_instock": [],
- "generated_at": "2026-10-14T23:52:44+08:00",
- "items": 1959
+ "generated_at": "2026-10-15T23:40:23+08:00",
+ "items": 1957
 }
