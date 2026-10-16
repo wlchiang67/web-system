@@ -3,11 +3,11 @@
   "marker": 57,
   "webcam": 28,
   "cardo_moto": 41,
-  "kids_hp": 238,
+  "kids_hp": 237,
   "cardo_acc": 31,
   "overear": 147,
-  "speaker": 353,
-  "tws": 256,
+  "speaker": 348,
+  "tws": 257,
   "hrm": 7,
   "kids_watch": 55,
   "kids_cam": 51,
@@ -17,17 +17,17 @@
   "3dpen": 37,
   "hearing": 7,
   "open": 91,
-  "cardo_outdoor": 13,
+  "cardo_outdoor": 23,
   "turntable": 3,
   "travel": 62,
-  "watchband": 70,
+  "watchband": 71,
   "soundbar": 12,
-  "(none)": 1,
+  "(none)": 3,
   "transmitter": 20,
   "charger": 10,
   "accessory": 46,
   "case": 71,
-  "cricut_machine": 59,
+  "cricut_machine": 61,
   "cricut_acc": 118,
   "guitar": 13,
   "cleaner": 9,
@@ -35,15 +35,15 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1103,
-  "outlet": 854
+  "(none)": 1114,
+  "outlet": 853
  },
  "brand": {
   "Ohuhu": 57,
   "Coolpo": 9,
-  "Cardo": 90,
-  "iClever": 95,
-  "(none)": 65,
+  "Cardo": 92,
+  "iClever": 94,
+  "(none)": 76,
   "Cleer": 69,
   "Urbanista": 13,
   "Scosche": 19,
@@ -53,13 +53,13 @@
   "JLab": 287,
   "Puro": 55,
   "Marshall": 59,
-  "EarFun": 94,
+  "EarFun": 95,
   "Audio-Technica": 46,
   "Kaibo": 12,
   "BeHear": 3,
-  "Audio Pro": 50,
+  "Audio Pro": 53,
   "Nuheara": 1,
-  "JBL": 66,
+  "JBL": 58,
   "OneOdio": 59,
   "Skross": 59,
   "Ampere": 2,
@@ -73,7 +73,7 @@
   "Creative": 24,
   "Motorola": 13,
   "Harman Kardon": 8,
-  "Cricut": 177,
+  "Cricut": 179,
   "Enya": 13,
   "LEXON": 12,
   "BUTTONS": 6,
@@ -84,11 +84,13 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1944,
+  "title": 1952,
   "ptype": 12,
-  "(none)": 1
+  "(none)": 3
  },
- "unlabeled_instock": [],
- "generated_at": "2026-10-15T23:40:23+08:00",
- "items": 1957
+ "unlabeled_instock": [
+  "KeySmart SmartLock 智慧追蹤海關鎖"
+ ],
+ "generated_at": "2026-10-16T23:25:38+08:00",
+ "items": 1967
 }
