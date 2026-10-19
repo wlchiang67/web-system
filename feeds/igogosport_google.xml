@@ -721,7 +721,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2099 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63186b0b22a0e10028662ad7</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Scosche</g:brand>
@@ -739,7 +739,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2099 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63186b0b22a0e10028662ad7</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Scosche</g:brand>
@@ -824,7 +824,7 @@
           <g:availability>in stock</g:availability>
           <g:price>2599 TWD</g:price>
           <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631953e964d88f003247cee1</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tribit</g:brand>
@@ -842,7 +842,7 @@
           <g:availability>in stock</g:availability>
           <g:price>2599 TWD</g:price>
           <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631953e964d88f003247cee1</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tribit</g:brand>
@@ -1833,7 +1833,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1851,7 +1851,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1869,7 +1869,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1887,7 +1887,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1905,7 +1905,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1923,7 +1923,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1941,7 +1941,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -8870,7 +8870,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1399 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6642fb07d24403001c87986a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -8888,7 +8888,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1399 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6642fb07d24403001c87986a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -10061,7 +10061,7 @@
           <g:availability>in stock</g:availability>
           <g:price>4780 TWD</g:price>
           <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6684c506f88d25001c3f0336</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -12778,7 +12778,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12796,7 +12796,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12814,7 +12814,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12832,7 +12832,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -20561,7 +20561,7 @@
           <g:availability>in stock</g:availability>
           <g:price>22800 TWD</g:price>
           <g:sale_price>12999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6851438bc837c2000fb78b0d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OXS</g:brand>
@@ -20828,7 +20828,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>899 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6854d1a782b848000b585bee</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20846,7 +20846,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>899 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6854d1a782b848000b585bee</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21162,7 +21162,7 @@
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
           <g:sale_price>1780 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -21180,7 +21180,7 @@
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
           <g:sale_price>1780 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -28688,7 +28688,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28706,7 +28706,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28724,7 +28724,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28742,7 +28742,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28891,7 +28891,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28909,7 +28909,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28927,7 +28927,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28945,7 +28945,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28963,7 +28963,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28981,7 +28981,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28999,7 +28999,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29017,7 +29017,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
           <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29203,7 +29203,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
           <g:sale_price>1080 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a476bcdf430929d3347b96a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29221,7 +29221,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
           <g:sale_price>1080 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-05T00:00+0800/2026-10-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a476bcdf430929d3347b96a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -31131,7 +31131,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-17T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-18T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
@@ -31149,7 +31149,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-17T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-18T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
