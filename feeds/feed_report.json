@@ -4,7 +4,7 @@
   "webcam": 28,
   "cardo_moto": 41,
   "kids_hp": 237,
-  "cardo_acc": 31,
+  "cardo_acc": 32,
   "overear": 147,
   "speaker": 348,
   "tws": 257,
@@ -19,14 +19,14 @@
   "open": 91,
   "cardo_outdoor": 23,
   "turntable": 3,
-  "travel": 62,
+  "travel": 63,
   "watchband": 71,
   "soundbar": 12,
   "(none)": 6,
   "transmitter": 20,
   "charger": 10,
   "accessory": 46,
-  "case": 71,
+  "case": 73,
   "cricut_machine": 61,
   "cricut_acc": 118,
   "guitar": 13,
@@ -35,13 +35,13 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1117,
-  "outlet": 854
+  "(none)": 1119,
+  "outlet": 856
  },
  "brand": {
   "Ohuhu": 58,
   "Coolpo": 9,
-  "Cardo": 92,
+  "Cardo": 93,
   "iClever": 94,
   "(none)": 79,
   "Cleer": 68,
@@ -61,7 +61,7 @@
   "Nuheara": 1,
   "JBL": 58,
   "OneOdio": 59,
-  "Skross": 59,
+  "Skross": 60,
   "Ampere": 2,
   "Apple": 34,
   "Philips": 26,
@@ -80,19 +80,19 @@
   "DOSHISHA": 14,
   "Whoosh": 9,
   "Tech21": 57,
-  "Decoded": 14,
+  "Decoded": 16,
   "Looki": 6
  },
  "label0_source": {
-  "title": 1953,
+  "title": 1957,
   "ptype": 12,
   "(none)": 6
  },
  "unlabeled_instock": [
-  "KeySmart SmartLock 智慧追蹤海關鎖",
+  "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
   "湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999",
-  "KeySmart SmartCard (Gen 3) 智慧追蹤卡"
+  "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-10-20T01:37:21+08:00",
- "items": 1971
+ "generated_at": "2026-10-20T23:43:01+08:00",
+ "items": 1975
 }

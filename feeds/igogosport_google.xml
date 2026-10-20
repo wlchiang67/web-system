@@ -2957,7 +2957,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63884b6f5923470025d71872/original.jpg?1669876591</g:image_link>
           <g:product_type>找商品 &gt; 兒童專區 &gt; 兒童耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>63884bb6aed57e0031ec54d5</g:item_group_id>
@@ -4267,7 +4267,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/646724010bb6880020ec70d1/original.jpg?1684481025</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3000 TWD</g:price>
           <g:sale_price>1980 TWD</g:sale_price>
           <g:item_group_id>646729670ab47d000e112747</g:item_group_id>
@@ -4386,7 +4386,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a2f7b7b69f059174dcec0d3/original.jpg?1781496699=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1184 TWD</g:sale_price>
           <g:item_group_id>6479a3f8c8b46700141817e1</g:item_group_id>
@@ -5552,7 +5552,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/64f5436c745cae0020a66c61/original.jpg?1693795180</g:image_link>
           <g:product_type>找品牌 &gt; Ohuhu｜麥克筆 &gt; Ohuhu｜Honolulu系列</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>5980 TWD</g:price>
           <g:sale_price>4280 TWD</g:sale_price>
           <g:item_group_id>64f543a3432794001a4475b9</g:item_group_id>
@@ -7608,7 +7608,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6555c3d479f6b7000e5c9257/original.jpg?1700119508</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
           <g:sale_price>759 TWD</g:sale_price>
           <g:item_group_id>6597c02a98d57e001dba5b0e</g:item_group_id>
@@ -7999,6 +7999,22 @@
           <g:gender>unisex</g:gender>
           <g:color>薄荷藍</g:color>
         <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>65f01df9c9f842002304285b</g:id>
+          <g:title>【福利品】Cardo PACKTALK EDGE / NEO / PRO 半罩式基座</g:title>
+          <g:description>• 相容 Cardo 的 PACKTALK  EDGE / NEO / RPO系列耳機 • 加長版棍狀麥克風 • 半罩式、滑雪安全帽等款式適用 • 不含喇叭</g:description>
+          <g:link>https://store.igogosport.com/products/65f01df9c9f842002304285b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64474cd0aca50a001784a91d/original.jpg?1682394320</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1199 TWD</g:sale_price>
+          <g:item_group_id>65f01df9c9f842002304285b</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_acc</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>65f80618773db200147a0740:65f80618fd134e0012a22659</g:id>
           <g:title>【福利品】iClever HS20 炫光兒童耳機</g:title>
           <g:description>可愛炫光貓耳與聽力保護  • 炫光模式｜三種華麗燈光顏色與閃爍效果 • 音量限制｜94分貝最大音量限制，保護孩子聽力 • 可愛貓耳｜可愛貓耳朵設計，隨處都是目光焦點 • 音樂共享｜插入另一個耳機插頭即可共享音樂 • 立體音效｜40mm驅動單體，打造立體聲音場 • 輕鬆通話｜內置麥克風，適合視訊課程和通話</g:description>
@@ -8819,7 +8835,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/663c824a51fbf7002258d554/original.jpg?1715241546</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3990 TWD</g:price>
           <g:item_group_id>663c825a8eac5100104ebe3d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
@@ -12243,7 +12259,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63884b6f5923470025d71872/original.jpg?1669876591</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1332 TWD</g:sale_price>
           <g:item_group_id>66e106bb37e29a0022426dd3</g:item_group_id>
@@ -12260,7 +12276,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/68f59ba4416b68000c1c825a/original.jpg?1760926628=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1332 TWD</g:sale_price>
           <g:item_group_id>66e106bb37e29a0022426dd3</g:item_group_id>
@@ -16265,7 +16281,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66f25f6f0d90260010a73290/original.jpg?1727160174</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2144 TWD</g:sale_price>
           <g:item_group_id>67bc213e96d179000b37f273</g:item_group_id>
@@ -21401,7 +21417,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf7191528cc000f8fc9f4/original.jpg?1747711769</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>23800 TWD</g:price>
           <g:sale_price>15840 TWD</g:sale_price>
           <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
@@ -22836,6 +22852,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>890 TWD</g:price>
+          <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>68ac34ad256c9f0012bdbe34</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -22852,6 +22869,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>890 TWD</g:price>
+          <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>68ac34ad256c9f0012bdbe34</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -22868,6 +22886,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>890 TWD</g:price>
+          <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>68ac34ad256c9f0012bdbe34</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -27212,7 +27231,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6865053e07a968000d1c8c27/original.jpg?1751450942</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>290 TWD</g:price>
           <g:sale_price>235 TWD</g:sale_price>
           <g:item_group_id>69ddcb62741ec52ae509d497</g:item_group_id>
@@ -28305,7 +28324,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>899 TWD</g:sale_price>
           <g:item_group_id>6a263d84d119d90c8e8fa717</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -28322,7 +28341,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>899 TWD</g:sale_price>
           <g:item_group_id>6a263d84d119d90c8e8fa717</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -28461,6 +28480,23 @@
           <g:brand>Skross</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
+        <g:custom_label_0>travel</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6a2fc527d91b86b6c464bd9a:6a2fc527320eca001423d8d6</g:id>
+          <g:title>【盒損品】瑞士Skross 旅行枕</g:title>
+          <g:description>來自瑞士的精品旅行配件品牌，所有產品皆於享譽全球的創新地—瑞士開發，並符合全球最高的品質標準。擁有多項萬國插頭獨家專利，及自己的ISO認證生產工廠，從設計到製造，完整體系高品質生產。Skross擁有多項功能及設計專利，產品系列包括萬國插座、USB充電器、USB充電線、行動電源以及行李吊牌、束帶...等，多樣化且現今旅行者不可或缺的實用配件。</g:description>
+          <g:link>https://store.igogosport.com/products/6a2fc527d91b86b6c464bd9a?variation=6a2fc527320eca001423d8d6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65ba14667e4b03000ed630ef/original.jpg?1706693734</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1580 TWD</g:price>
+          <g:sale_price>629 TWD</g:sale_price>
+          <g:item_group_id>6a2fc527d91b86b6c464bd9a</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Skross</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>品牌花色</g:color>
         <g:custom_label_0>travel</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a2fc648d6165add7fa8d385:6a2fc6484443910016c0f068</g:id>
           <g:title>【福利品】Tribit PocketGo 可攜式口袋藍牙喇叭</g:title>
@@ -29671,7 +29707,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/695b78dca60c299b4e926c3f/original.jpg?1767602396=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:sale_price>1962 TWD</g:sale_price>
           <g:item_group_id>6a50a2f95eb2ae659d65a21b</g:item_group_id>
@@ -29687,7 +29723,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1559e34fd52bc53d21c142/original.jpg?1779784163=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>18980 TWD</g:price>
           <g:sale_price>12780 TWD</g:sale_price>
           <g:item_group_id>6a50a9271916467c684d6650</g:item_group_id>
@@ -29719,7 +29755,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1559e34fd52bc53d21c142/original.jpg?1779784163=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>18980 TWD</g:price>
           <g:sale_price>11360 TWD</g:sale_price>
           <g:item_group_id>6a50aa328b01af72ff18f2d5</g:item_group_id>
@@ -29977,7 +30013,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>6a583cf89e95a9b376689e45</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -29994,7 +30030,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
           <g:item_group_id>6a583cf89e95a9b376689e45</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>igogosport 購物網</g:brand>
@@ -31131,7 +31167,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-18T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-19T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
@@ -31149,7 +31185,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-18T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-19T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
@@ -31264,7 +31300,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a86add4d6b9fe7a95ca2b30/original.jpg?1787211220=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>14680 TWD</g:price>
           <g:sale_price>13399 TWD</g:sale_price>
           <g:item_group_id>6a857938c9f5410f9f1b9fe2</g:item_group_id>
@@ -32937,7 +32973,7 @@
           <g:gender>unisex</g:gender>
         <g:custom_label_0>kids_cam</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6ad03a7815106b2b24b36aff:6ad03a7828ff650009c1650e</g:id>
-          <g:title>KeySmart SmartLock 智慧追蹤海關鎖</g:title>
+          <g:title>KeySmart SmartLock 智慧定位 TSA 密碼海關鎖</g:title>
           <g:description>結合 Apple Find My 追蹤技術與 TSA 認證實體鎖，透過 iPhone 隨時掌握行李位置，支援響鈴尋物、遺落提醒及多人共享。堅固合金材質搭配耐用鋼纜鎖，具備長效續航與自訂三碼密碼設計，為旅行及貴重物品提供雙重安全保障。</g:description>
           <g:link>https://store.igogosport.com/products/6ad03a7815106b2b24b36aff?variation=6ad03a7828ff650009c1650e</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad039729f86184918b6dad7/original.jpg?1792031090=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
@@ -32954,7 +32990,7 @@
           <g:color>黑色</g:color>
         <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6ad03a7815106b2b24b36aff:6ad03a7828ff650009c1650f</g:id>
-          <g:title>KeySmart SmartLock 智慧追蹤海關鎖</g:title>
+          <g:title>KeySmart SmartLock 智慧定位 TSA 密碼海關鎖</g:title>
           <g:description>結合 Apple Find My 追蹤技術與 TSA 認證實體鎖，透過 iPhone 隨時掌握行李位置，支援響鈴尋物、遺落提醒及多人共享。堅固合金材質搭配耐用鋼纜鎖，具備長效續航與自訂三碼密碼設計，為旅行及貴重物品提供雙重安全保障。</g:description>
           <g:link>https://store.igogosport.com/products/6ad03a7815106b2b24b36aff?variation=6ad03a7828ff650009c1650f</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad0397bb3855f7dfb1b7ba4/original.jpg?1792031098=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
@@ -32987,7 +33023,7 @@
           <g:gender>unisex</g:gender>
         <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6ad1e3a7b871074ad0a27729:6ad1e3a7366d3e000d0cea6b</g:id>
-          <g:title>KeySmart SmartCard (Gen 3) 智慧追蹤卡</g:title>
+          <g:title>KeySmart SmartCard Gen 3 定位防丟追蹤器</g:title>
           <g:description>支援 Apple Find My 與 Android Find Hub 雙網追蹤，超薄 1.8mm 設計輕鬆放入錢包，搭載 Atlas Gen 3 晶片，具備 60 公尺藍牙連線、IPX8 防水、Qi 無線充電及最長 11 個月續航，旅行出遊、日常防丟更安心。</g:description>
           <g:link>https://store.igogosport.com/products/6ad1e3a7b871074ad0a27729?variation=6ad1e3a7366d3e000d0cea6b</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad1def62e5f5a10f1c15816/original.jpg?1792138998=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
@@ -33004,7 +33040,7 @@
           <g:color>曜石黑</g:color>
         <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6ad1e3a7b871074ad0a27729:6ad1e3a7366d3e000d0cea6c</g:id>
-          <g:title>KeySmart SmartCard (Gen 3) 智慧追蹤卡</g:title>
+          <g:title>KeySmart SmartCard Gen 3 定位防丟追蹤器</g:title>
           <g:description>支援 Apple Find My 與 Android Find Hub 雙網追蹤，超薄 1.8mm 設計輕鬆放入錢包，搭載 Atlas Gen 3 晶片，具備 60 公尺藍牙連線、IPX8 防水、Qi 無線充電及最長 11 個月續航，旅行出遊、日常防丟更安心。</g:description>
           <g:link>https://store.igogosport.com/products/6ad1e3a7b871074ad0a27729?variation=6ad1e3a7366d3e000d0cea6c</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad1df6a73b7d175d1e2cd5a/original.jpg?1792139113=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
@@ -33019,4 +33055,38 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>透明白</g:color>
-        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>    </channel></rss>
+        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>6ad5b14afa717ce1e709e392:6ad5b14a718cb5000b7ea417</g:id>
+          <g:title>DECODED iPhone 18 Pro / Pro Max MagSafe 真皮手機殼</g:title>
+          <g:description>頂級 ECCO 全粒面真皮手機保護殼，觸感柔軟細膩，隨時間展現獨特皮革光澤。配備全包覆金屬鏡頭保護框、金屬按鍵與玻璃相機控制按鍵，支援 MagSafe 磁吸，兼具纖薄設計與 1.2 公尺防摔保護，展現質感與實用兼備的極致工藝。</g:description>
+          <g:link>https://store.igogosport.com/products/6ad5b14afa717ce1e709e392?variation=6ad5b14a718cb5000b7ea417</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5b0ac7269a126d0a90a02/original.jpg?1792389292=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $1000 ~ $1999</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2080 TWD</g:price>
+          <g:sale_price>1480 TWD</g:sale_price>
+          <g:item_group_id>6ad5b14afa717ce1e709e392</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Decoded</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>case</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>6ad5b14afa717ce1e709e392:6ad5b14a718cb5000b7ea418</g:id>
+          <g:title>DECODED iPhone 18 Pro / Pro Max MagSafe 真皮手機殼</g:title>
+          <g:description>頂級 ECCO 全粒面真皮手機保護殼，觸感柔軟細膩，隨時間展現獨特皮革光澤。配備全包覆金屬鏡頭保護框、金屬按鍵與玻璃相機控制按鍵，支援 MagSafe 磁吸，兼具纖薄設計與 1.2 公尺防摔保護，展現質感與實用兼備的極致工藝。</g:description>
+          <g:link>https://store.igogosport.com/products/6ad5b14afa717ce1e709e392?variation=6ad5b14a718cb5000b7ea418</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad5b0b4415e6f0027dbfdc6/original.jpg?1792389300=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $1000 ~ $1999</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2080 TWD</g:price>
+          <g:sale_price>1480 TWD</g:sale_price>
+          <g:item_group_id>6ad5b14afa717ce1e709e392</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Decoded</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>case</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>    </channel></rss>
