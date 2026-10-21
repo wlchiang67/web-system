@@ -3,7 +3,7 @@
   "marker": 58,
   "webcam": 28,
   "cardo_moto": 41,
-  "kids_hp": 237,
+  "kids_hp": 232,
   "cardo_acc": 32,
   "overear": 147,
   "speaker": 348,
@@ -17,7 +17,7 @@
   "3dpen": 37,
   "hearing": 7,
   "open": 91,
-  "cardo_outdoor": 23,
+  "cardo_outdoor": 15,
   "turntable": 3,
   "travel": 63,
   "watchband": 71,
@@ -35,15 +35,15 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1119,
-  "outlet": 856
+  "(none)": 1111,
+  "outlet": 851
  },
  "brand": {
   "Ohuhu": 58,
   "Coolpo": 9,
   "Cardo": 93,
-  "iClever": 94,
-  "(none)": 79,
+  "iClever": 85,
+  "(none)": 75,
   "Cleer": 68,
   "Urbanista": 13,
   "Scosche": 19,
@@ -84,7 +84,7 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1957,
+  "title": 1944,
   "ptype": 12,
   "(none)": 6
  },
@@ -93,6 +93,6 @@
   "湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-10-20T23:43:01+08:00",
- "items": 1975
+ "generated_at": "2026-10-22T00:00:52+08:00",
+ "items": 1962
 }
