@@ -28,14 +28,14 @@
   "accessory": 46,
   "case": 73,
   "cricut_machine": 61,
-  "cricut_acc": 118,
+  "cricut_acc": 117,
   "guitar": 13,
   "cleaner": 9,
   "camera": 6,
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1111,
+  "(none)": 1110,
   "outlet": 863
  },
  "brand": {
@@ -73,7 +73,7 @@
   "Creative": 24,
   "Motorola": 13,
   "Harman Kardon": 8,
-  "Cricut": 179,
+  "Cricut": 178,
   "Enya": 13,
   "LEXON": 12,
   "BUTTONS": 6,
@@ -84,7 +84,7 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1956,
+  "title": 1955,
   "ptype": 12,
   "(none)": 6
  },
@@ -93,6 +93,6 @@
   "湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-10-22T23:56:36+08:00",
- "items": 1974
+ "generated_at": "2026-10-23T23:48:13+08:00",
+ "items": 1973
 }
