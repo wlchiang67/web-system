@@ -5,9 +5,9 @@
   "cardo_moto": 41,
   "kids_hp": 238,
   "cardo_acc": 32,
-  "overear": 147,
-  "speaker": 348,
-  "tws": 257,
+  "overear": 151,
+  "speaker": 352,
+  "tws": 251,
   "hrm": 7,
   "kids_watch": 61,
   "kids_cam": 51,
@@ -16,7 +16,7 @@
   "bone": 11,
   "3dpen": 37,
   "hearing": 7,
-  "open": 91,
+  "open": 99,
   "cardo_outdoor": 15,
   "turntable": 3,
   "travel": 63,
@@ -36,7 +36,7 @@
  },
  "label1": {
   "(none)": 1110,
-  "outlet": 863
+  "outlet": 873
  },
  "brand": {
   "Ohuhu": 58,
@@ -48,12 +48,12 @@
   "Urbanista": 13,
   "Scosche": 19,
   "Marley": 33,
-  "Tribit": 55,
+  "Tribit": 57,
   "myFirst": 198,
-  "JLab": 287,
   "Puro": 55,
+  "JLab": 289,
   "Marshall": 59,
-  "EarFun": 95,
+  "EarFun": 101,
   "Audio-Technica": 46,
   "Kaibo": 12,
   "BeHear": 3,
@@ -84,7 +84,7 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1955,
+  "title": 1965,
   "ptype": 12,
   "(none)": 6
  },
@@ -93,6 +93,6 @@
   "湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-10-25T22:59:11+08:00",
- "items": 1973
+ "generated_at": "2026-10-27T01:30:05+08:00",
+ "items": 1983
 }
