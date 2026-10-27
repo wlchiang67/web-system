@@ -15,7 +15,7 @@ REPORT = HERE / "feed_report.json"
 FORM_RULES = [
     ("kids_cam",       r"兒童相機|拍立得|Insta ?Wi|Insta 系列|熱感",              ["兒童相機"]),
     ("kids_watch",     r"兒童手錶|\bFone\b",                                  ["myFirst｜兒童手錶", "兒童專區>兒童手錶"]),  # 不能只寫「兒童手錶」，myFirst 父層路徑也含這四個字
-    ("kids_hp",        r"兒童.{0,6}耳機|兒童耳機",                              ["兒童耳機"]),
+    ("kids_hp",        r"兒童.{0,6}(耳機|耳罩|頭戴)|兒童耳機",                    ["兒童耳機"]),   # 2026-10-27：EM01「兒童降噪耳罩」原本落到 overear
     ("3dpen",          r"3D ?列印筆|3D Pen",                                  ["3D列印筆"]),
     ("cardo_acc",      r"Cardo .*(基座|配件|套裝|喇叭升級|麥克風套件|電池)",         ["Cardo｜配件", "套裝配件"]),
     # 生活小物先擋掉：ADAMOUTDOOR 風扇會撞 OUTDOOR、頸掛式風扇會撞頸掛
