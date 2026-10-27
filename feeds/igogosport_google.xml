@@ -720,8 +720,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2099 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>63186b0b22a0e10028662ad7</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Scosche</g:brand>
@@ -738,8 +737,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2099 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>63186b0b22a0e10028662ad7</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Scosche</g:brand>
@@ -823,8 +821,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2599 TWD</g:price>
-          <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2199 TWD</g:sale_price>
           <g:item_group_id>631953e964d88f003247cee1</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tribit</g:brand>
@@ -841,8 +838,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2599 TWD</g:price>
-          <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2199 TWD</g:sale_price>
           <g:item_group_id>631953e964d88f003247cee1</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tribit</g:brand>
@@ -1798,8 +1794,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1816,8 +1811,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1834,8 +1828,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1852,8 +1845,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1870,8 +1862,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1888,8 +1879,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -1906,8 +1896,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
-          <g:sale_price>749 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>631e9e52485452001d966db6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -8885,8 +8874,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1399 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6642fb07d24403001c87986a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -8903,8 +8891,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1399 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6642fb07d24403001c87986a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -10076,8 +10063,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4780 TWD</g:price>
-          <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>3299 TWD</g:sale_price>
           <g:item_group_id>6684c506f88d25001c3f0336</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -12793,8 +12779,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12811,8 +12796,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12829,8 +12813,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12847,8 +12830,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -14903,7 +14885,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>藍色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>67593d52809f5e000f74a031:6763957aa736a400085458fa</g:id>
           <g:title>iClever EM01 兒童降噪耳罩</g:title>
           <g:description>聽力保護，降噪等級(NRR)26dB，最高降噪達46dB，符合國際標準，不含有害塑膠物質(BPA)，22mm厚海綿墊及親膚皮革，符合人體工學，可伸展彎曲38mm，可折疊成小體積收納，攜帶便利 ，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -14920,7 +14902,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>紫色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>67593d52809f5e000f74a031:6763957aa736a400085458fb</g:id>
           <g:title>iClever EM01 兒童降噪耳罩</g:title>
           <g:description>聽力保護，降噪等級(NRR)26dB，最高降噪達46dB，符合國際標準，不含有害塑膠物質(BPA)，22mm厚海綿墊及親膚皮革，符合人體工學，可伸展彎曲38mm，可折疊成小體積收納，攜帶便利 ，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -14937,7 +14919,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>粉綠色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>67595682bc4b9b000ae2d65e</g:id>
           <g:title>Audio Pro WB-201 無線喇叭壁掛支架(適用於A10 MKII)</g:title>
           <g:description>Audio Pro WB-201 無線喇叭壁掛支架(適用於A10 MKII)</g:description>
@@ -15276,7 +15258,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>藍色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>67726cdc3695a4000ece1616:67726cdc86b979000f618102</g:id>
           <g:title>【盒損品】iClever EM01 兒童降噪耳罩</g:title>
           <g:description>聽力保護，降噪等級(NRR)26dB，最高降噪達46dB，符合國際標準，不含有害塑膠物質(BPA)，22mm厚海綿墊及親膚皮革，符合人體工學，可伸展彎曲38mm，可折疊成小體積收納，攜帶便利 ，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -15293,7 +15275,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>紫色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>67726cdc3695a4000ece1616:67726cdc86b979000f618103</g:id>
           <g:title>【盒損品】iClever EM01 兒童降噪耳罩</g:title>
           <g:description>聽力保護，降噪等級(NRR)26dB，最高降噪達46dB，符合國際標準，不含有害塑膠物質(BPA)，22mm厚海綿墊及親膚皮革，符合人體工學，可伸展彎曲38mm，可折疊成小體積收納，攜帶便利 ，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -15310,7 +15292,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>粉綠色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>677f29e11bc92000115e2042</g:id>
           <g:title>【盒損品】JLab JBuds OPEN SPORT  開放式運動藍牙耳機</g:title>
           <g:description>開放式設計不悶耳超舒適，可塑性耳掛依耳形調整極致舒適，14.2mm白金單體高品質音效，總播放時間可長達26小時，多點連線，任兩個設備間無縫自由切換，IP55防塵防水最適合通勤運動，AI降噪技術，全觸控式操作，點擊查看更多&gt;&gt;&gt;</g:description>
@@ -20524,8 +20506,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>22800 TWD</g:price>
-          <g:sale_price>12999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>14999 TWD</g:sale_price>
           <g:item_group_id>6851438bc837c2000fb78b0d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OXS</g:brand>
@@ -20791,8 +20772,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>899 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>999 TWD</g:sale_price>
           <g:item_group_id>6854d1a782b848000b585bee</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20809,8 +20789,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>899 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>999 TWD</g:sale_price>
           <g:item_group_id>6854d1a782b848000b585bee</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21125,8 +21104,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
-          <g:sale_price>1780 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1980 TWD</g:sale_price>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -21143,8 +21121,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
-          <g:sale_price>1780 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1980 TWD</g:sale_price>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -28703,8 +28680,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28721,8 +28697,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28739,8 +28714,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28757,8 +28731,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28906,8 +28879,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28924,8 +28896,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28942,8 +28913,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28960,8 +28930,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28978,8 +28947,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28996,8 +28964,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29014,8 +28981,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29032,8 +28998,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1303 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29218,8 +29183,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
-          <g:sale_price>1080 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>6a476bcdf430929d3347b96a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29236,8 +29200,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
-          <g:sale_price>1080 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-10-19T00:00+0800/2026-10-27T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>6a476bcdf430929d3347b96a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29645,7 +29608,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>藍色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a509d9eac8aad1fb8c62eef:6a509d9e007b5e000a42c896</g:id>
           <g:title>【福利品】iClever EM01 兒童降噪耳罩</g:title>
           <g:description>聽力保護，降噪等級(NRR)26dB，最高降噪達46dB，符合國際標準，不含有害塑膠物質(BPA)，22mm厚海綿墊及親膚皮革，符合人體工學，可伸展彎曲38mm，可折疊成小體積收納，攜帶便利 ，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -29662,7 +29625,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>紫色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a509d9eac8aad1fb8c62eef:6a509d9e007b5e000a42c897</g:id>
           <g:title>【福利品】iClever EM01 兒童降噪耳罩</g:title>
           <g:description>聽力保護，降噪等級(NRR)26dB，最高降噪達46dB，符合國際標準，不含有害塑膠物質(BPA)，22mm厚海綿墊及親膚皮革，符合人體工學，可伸展彎曲38mm，可折疊成小體積收納，攜帶便利 ，點擊查看更多&gt;&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -29679,7 +29642,7 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>粉綠色</g:color>
-        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a50a2f95eb2ae659d65a21b</g:id>
           <g:title>【盒損品】EarFun Tune Pro 耳罩式降噪藍牙耳機</g:title>
           <g:description>體驗卓越音質與舒適感，搭載最新藍牙5.4技術，享受最高120小時電池續航、混合主動噪音取消、清晰免持通話以及低延遲遊戲模式。透過EarFun Audio應用程式客製化音效，並輕鬆切換裝置。</g:description>
@@ -31147,7 +31110,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-25T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-26T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
@@ -31165,7 +31128,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-25T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-26T04:00+0800</g:availability_date>
           <g:price>4280 TWD</g:price>
           <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>6a83d034f68db56bff6ed989</g:item_group_id>
