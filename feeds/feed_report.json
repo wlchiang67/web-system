@@ -6,7 +6,7 @@
   "kids_hp": 247,
   "cardo_acc": 32,
   "overear": 142,
-  "speaker": 352,
+  "speaker": 355,
   "tws": 251,
   "hrm": 7,
   "kids_watch": 61,
@@ -27,7 +27,7 @@
   "charger": 10,
   "accessory": 46,
   "case": 73,
-  "cricut_machine": 61,
+  "cricut_machine": 62,
   "cricut_acc": 117,
   "guitar": 13,
   "cleaner": 9,
@@ -36,7 +36,7 @@
  },
  "label1": {
   "(none)": 1110,
-  "outlet": 873
+  "outlet": 877
  },
  "brand": {
   "Ohuhu": 58,
@@ -44,11 +44,11 @@
   "Cardo": 93,
   "iClever": 91,
   "(none)": 75,
-  "Cleer": 68,
+  "Cleer": 69,
   "Urbanista": 13,
   "Scosche": 19,
   "Marley": 33,
-  "Tribit": 57,
+  "Tribit": 59,
   "myFirst": 198,
   "Puro": 55,
   "JLab": 289,
@@ -73,7 +73,7 @@
   "Creative": 24,
   "Motorola": 13,
   "Harman Kardon": 8,
-  "Cricut": 178,
+  "Cricut": 179,
   "Enya": 13,
   "LEXON": 12,
   "BUTTONS": 6,
@@ -84,7 +84,7 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1965,
+  "title": 1969,
   "ptype": 12,
   "(none)": 6
  },
@@ -93,6 +93,6 @@
   "湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-10-28T00:45:45+08:00",
- "items": 1983
+ "generated_at": "2026-10-29T01:14:23+08:00",
+ "items": 1987
 }
