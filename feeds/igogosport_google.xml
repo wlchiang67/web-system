@@ -10894,7 +10894,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/651e20c47bc6040017ff3910/original.jpg?1696473284</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>999 TWD</g:sale_price>
           <g:item_group_id>66b2db749a934d000d2f09bc</g:item_group_id>
@@ -13377,7 +13377,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b07edf2a7daf0019d29fcc/original.jpg?1722842847</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
           <g:item_group_id>6716fd6d0eff7d001161053f</g:item_group_id>
@@ -15231,7 +15231,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67593d513268b800106a61b6/original.jpg?1733901649</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>980 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>67726cdc3695a4000ece1616</g:item_group_id>
@@ -16347,7 +16347,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b07edf2a7daf0019d29fcc/original.jpg?1722842847</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>67bc2f6a028e3f0011fa0869</g:item_group_id>
@@ -18527,7 +18527,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/651e20c47bc6040017ff3910/original.jpg?1696473284</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>899 TWD</g:sale_price>
           <g:item_group_id>681ae729e2c1cf000caccb3f</g:item_group_id>
@@ -30249,7 +30249,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a68157454c6cbc59c331319/original.jpg?1785206131=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -31086,13 +31086,14 @@
           <g:gender>unisex</g:gender>
         <g:custom_label_0>accessory</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a82c6f1250b92c07816ec5a</g:id>
-          <g:title>JLab Nightfall 無線電競耳機</g:title>
+          <g:title>【預購】JLab Nightfall 無線電競耳機</g:title>
           <g:description>JLab Nightfall 無線電競耳機搭載 50mm 動圈單體，支援 Bluetooth 與 USB-C Dongle 雙無線連線，提供最長 70 小時續航、翻轉靜音指向性麥克風與 Cloud Foam 舒適耳墊，適用 PC、PlayStation 與 Nintendo Switch。</g:description>
           <g:link>https://store.igogosport.com/products/6a82c6f1250b92c07816ec5a</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a82c6a2be2f3be2810681f4/original.jpg?1786955426=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜耳罩式藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>preorder</g:availability>
+          <g:availability_date>2026-11-28T04:01+0800</g:availability_date>
           <g:price>2880 TWD</g:price>
           <g:sale_price>2080 TWD</g:sale_price>
           <g:item_group_id>6a82c6f1250b92c07816ec5a</g:item_group_id>
