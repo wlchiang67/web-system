@@ -4205,7 +4205,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/64672401ea8bef00170d2fee/original.jpg?1684481025</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3000 TWD</g:price>
           <g:sale_price>1980 TWD</g:sale_price>
           <g:item_group_id>646729670ab47d000e112747</g:item_group_id>
@@ -10894,7 +10894,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/651e20c47bc6040017ff3910/original.jpg?1696473284</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>999 TWD</g:sale_price>
           <g:item_group_id>66b2db749a934d000d2f09bc</g:item_group_id>
@@ -10992,7 +10992,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63171a22a8935f00137ff3c7/original.jpg?1662458402</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>5280 TWD</g:price>
           <g:sale_price>4099 TWD</g:sale_price>
           <g:item_group_id>66bf1bc7d07264000d80f6ed</g:item_group_id>
@@ -12567,6 +12567,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
+          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12583,6 +12584,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
+          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12599,6 +12601,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
+          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12615,6 +12618,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
+          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12631,6 +12635,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
+          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12647,6 +12652,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
+          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12663,6 +12669,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
+          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12679,6 +12686,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
+          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12695,6 +12703,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>2790 TWD</g:price>
+          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13377,7 +13386,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b07edf2a7daf0019d29fcc/original.jpg?1722842847</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
           <g:item_group_id>6716fd6d0eff7d001161053f</g:item_group_id>
@@ -13515,6 +13524,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
+          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13531,6 +13541,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
+          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13547,6 +13558,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
+          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13563,6 +13575,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
+          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -15433,7 +15446,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66e7a37d8959d50010c7651b/original.jpg?1726456700</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3990 TWD</g:price>
           <g:sale_price>3590 TWD</g:sale_price>
           <g:item_group_id>677f4a59eeb46f000e9beca6</g:item_group_id>
@@ -16347,7 +16360,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b07edf2a7daf0019d29fcc/original.jpg?1722842847</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>67bc2f6a028e3f0011fa0869</g:item_group_id>
@@ -18527,7 +18540,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/651e20c47bc6040017ff3910/original.jpg?1696473284</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>899 TWD</g:sale_price>
           <g:item_group_id>681ae729e2c1cf000caccb3f</g:item_group_id>
@@ -18934,7 +18947,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/681c1f4021ec5c000f85f2c7/original.jpeg?1746673472</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜智慧膠膜</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>360 TWD</g:price>
           <g:sale_price>324 TWD</g:sale_price>
           <g:item_group_id>681c107dd370bc000152014b</g:item_group_id>
@@ -18968,7 +18981,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/681c1f57bea048000dbee66a/original.jpeg?1746673495</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜智慧膠膜</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>360 TWD</g:price>
           <g:sale_price>324 TWD</g:sale_price>
           <g:item_group_id>681c107dd370bc000152014b</g:item_group_id>
@@ -21260,74 +21273,6 @@
           <g:price>23800 TWD</g:price>
           <g:sale_price>17820 TWD</g:sale_price>
           <g:item_group_id>686ce8401378da000d333a92</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Audio Pro</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>胡桃木色</g:color>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca19</g:id>
-          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
-          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=686ce99962d555000d81ca19</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719520c45000bb29914/original.jpg?1747711769</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>23800 TWD</g:price>
-          <g:sale_price>15840 TWD</g:sale_price>
-          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Audio Pro</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑色</g:color>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca1a</g:id>
-          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
-          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=686ce99962d555000d81ca1a</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719717eee000c75fb95/original.jpg?1747711769</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>23800 TWD</g:price>
-          <g:sale_price>15840 TWD</g:sale_price>
-          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Audio Pro</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>白色</g:color>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca1b</g:id>
-          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
-          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=686ce99962d555000d81ca1b</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf7191528cc000f8fc9f4/original.jpg?1747711769</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>23800 TWD</g:price>
-          <g:sale_price>15840 TWD</g:sale_price>
-          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Audio Pro</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>灰色</g:color>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>686ce999acbaba00109d5877:6a470a182172b7000eb89f43</g:id>
-          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
-          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=6a470a182172b7000eb89f43</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4709cf3c5ce51cd9477379/original.jpg?1783040462=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>23800 TWD</g:price>
-          <g:sale_price>15840 TWD</g:sale_price>
-          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Audio Pro</g:brand>
           <g:age_group>adult</g:age_group>
@@ -24214,7 +24159,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/69119f593c7f0f0012ce1381/original.jpg?1762762585=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機墊板</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>700 TWD</g:price>
           <g:sale_price>630 TWD</g:sale_price>
           <g:item_group_id>690dc1b708c5ad001893d619</g:item_group_id>
@@ -24426,6 +24371,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13990 TWD</g:price>
+          <g:sale_price>11111 TWD</g:sale_price>
           <g:item_group_id>691429ec5e0adf000c462ba9</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Harman Kardon</g:brand>
@@ -24442,6 +24388,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13990 TWD</g:price>
+          <g:sale_price>11111 TWD</g:sale_price>
           <g:item_group_id>691429ec5e0adf000c462ba9</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Harman Kardon</g:brand>
@@ -26313,6 +26260,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>11990 TWD</g:price>
+          <g:sale_price>10990 TWD</g:sale_price>
           <g:item_group_id>69bba9b9652fefac9d7e060f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Harman Kardon</g:brand>
@@ -27019,7 +26967,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/681c1f4021ec5c000f85f2c7/original.jpeg?1746673472</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>360 TWD</g:price>
           <g:sale_price>299 TWD</g:sale_price>
           <g:item_group_id>69ddca79876b03af8869335b</g:item_group_id>
@@ -27053,7 +27001,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/681c1f57bea048000dbee66a/original.jpeg?1746673495</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>360 TWD</g:price>
           <g:sale_price>299 TWD</g:sale_price>
           <g:item_group_id>69ddca79876b03af8869335b</g:item_group_id>
@@ -27927,7 +27875,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6854d1577bee19001013f2d9/original.jpg?1750389079</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
           <g:sale_price>899 TWD</g:sale_price>
           <g:item_group_id>6a0bbfd12d10ed20551af0b3</g:item_group_id>
@@ -28478,7 +28426,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6641912a8a47760010e5f65c/original.jpg?1715573034</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2880 TWD</g:price>
           <g:sale_price>1599 TWD</g:sale_price>
           <g:item_group_id>6a2fc74c7bdf8bc805fbbf13</g:item_group_id>
@@ -29825,7 +29773,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a9007a29e572ef8cdc35fb6/original.jpg?1787824034=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜智慧膠膜</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
           <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a5604d178b0c17f3a260560</g:item_group_id>
@@ -31093,7 +31041,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜耳罩式藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-28T04:01+0800</g:availability_date>
+          <g:availability_date>2026-11-29T04:00+0800</g:availability_date>
           <g:price>2880 TWD</g:price>
           <g:sale_price>2080 TWD</g:sale_price>
           <g:item_group_id>6a82c6f1250b92c07816ec5a</g:item_group_id>
@@ -31241,7 +31189,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a86add4d6b9fe7a95ca2b30/original.jpg?1787211220=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>14680 TWD</g:price>
           <g:sale_price>13399 TWD</g:sale_price>
           <g:item_group_id>6a857938c9f5410f9f1b9fe2</g:item_group_id>
@@ -32895,22 +32843,6 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>cricut_machine</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>6ad191ea8907d140abdc4708</g:id>
-          <g:title>湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999</g:title>
-          <g:description>湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999</g:description>
-          <g:link>https://store.igogosport.com/products/6ad191ea8907d140abdc4708</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad191c5e2ff250e06fc59b5/original.png?1792119237=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
-          <g:product_type></g:product_type>
-          <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>6279 TWD</g:price>
-          <g:sale_price>5999 TWD</g:sale_price>
-          <g:item_group_id>6ad191ea8907d140abdc4708</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>igogosport 購物網</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6ad1e3a7b871074ad0a27729:6ad1e3a7366d3e000d0cea6b</g:id>
           <g:title>KeySmart SmartCard Gen 3 定位防丟追蹤器</g:title>
           <g:description>支援 Apple Find My 與 Android Find Hub 雙網追蹤，超薄 1.8mm 設計輕鬆放入錢包，搭載 Atlas Gen 3 晶片，具備 60 公尺藍牙連線、IPX8 防水、Qi 無線充電及最長 11 個月續航，旅行出遊、日常防丟更安心。</g:description>

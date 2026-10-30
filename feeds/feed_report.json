@@ -6,7 +6,7 @@
   "kids_hp": 247,
   "cardo_acc": 32,
   "overear": 142,
-  "speaker": 355,
+  "speaker": 351,
   "tws": 251,
   "hrm": 7,
   "kids_watch": 61,
@@ -22,7 +22,7 @@
   "travel": 63,
   "watchband": 71,
   "soundbar": 12,
-  "(none)": 6,
+  "(none)": 5,
   "transmitter": 20,
   "charger": 10,
   "accessory": 46,
@@ -35,15 +35,15 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1110,
-  "outlet": 877
+  "(none)": 1109,
+  "outlet": 873
  },
  "brand": {
   "Ohuhu": 58,
   "Coolpo": 9,
   "Cardo": 93,
   "iClever": 91,
-  "(none)": 75,
+  "(none)": 74,
   "Cleer": 69,
   "Urbanista": 13,
   "Scosche": 19,
@@ -57,7 +57,7 @@
   "Audio-Technica": 46,
   "Kaibo": 12,
   "BeHear": 3,
-  "Audio Pro": 56,
+  "Audio Pro": 52,
   "Nuheara": 1,
   "JBL": 58,
   "OneOdio": 59,
@@ -84,15 +84,14 @@
   "Looki": 6
  },
  "label0_source": {
-  "title": 1969,
+  "title": 1965,
   "ptype": 12,
-  "(none)": 6
+  "(none)": 5
  },
  "unlabeled_instock": [
   "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
-  "湘荷妹妹與阿PO的緊密連線神器！限時優惠$5999",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-10-30T01:28:59+08:00",
- "items": 1987
+ "generated_at": "2026-10-31T01:04:44+08:00",
+ "items": 1982
 }
