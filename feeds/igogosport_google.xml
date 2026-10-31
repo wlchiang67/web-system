@@ -11795,7 +11795,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/661356edb9053800170872e6/original.jpg?1712543469</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>66d92ac48b013100192b6831</g:item_group_id>
@@ -15244,7 +15244,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67593d513268b800106a61b6/original.jpg?1733901649</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>980 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>67726cdc3695a4000ece1616</g:item_group_id>
@@ -16675,6 +16675,57 @@
           <g:gender>unisex</g:gender>
           <g:color>月光紫</g:color>
         <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>67d939885f43480010fbb2bf:67d9398842edb10009369806</g:id>
+          <g:title>【福利品】Audio Pro A10 MKII WiFi 無線藍牙喇叭</g:title>
+          <g:description>商業空間無線喇叭最佳選擇，支援AirPlay 2、Chromecast和Audio Pro Multiroom，實現房間串流。與Apple Home、Google Home、Audio Pro Control完美兼容，智慧家居輕鬆掌握。支援Spotify Connect、Tidal Connect等流行串流媒體平台。支援居家擺放，軌道燈、壁掛、桌立皆可擺設聆聽，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/67d939885f43480010fbb2bf?variation=67d9398842edb10009369806</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6966f8daedaf80130a958e3a/original.jpg?1768356058=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>10800 TWD</g:price>
+          <g:sale_price>7499 TWD</g:sale_price>
+          <g:item_group_id>67d939885f43480010fbb2bf</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>深灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>67d939885f43480010fbb2bf:67d9398842edb10009369807</g:id>
+          <g:title>【福利品】Audio Pro A10 MKII WiFi 無線藍牙喇叭</g:title>
+          <g:description>商業空間無線喇叭最佳選擇，支援AirPlay 2、Chromecast和Audio Pro Multiroom，實現房間串流。與Apple Home、Google Home、Audio Pro Control完美兼容，智慧家居輕鬆掌握。支援Spotify Connect、Tidal Connect等流行串流媒體平台。支援居家擺放，軌道燈、壁掛、桌立皆可擺設聆聽，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/67d939885f43480010fbb2bf?variation=67d9398842edb10009369807</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6966f8df3c46b45ba064ae2c/original.jpg?1768356063=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>10800 TWD</g:price>
+          <g:sale_price>7499 TWD</g:sale_price>
+          <g:item_group_id>67d939885f43480010fbb2bf</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>淺灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>67d939885f43480010fbb2bf:6966f90ee3093d0017cf839d</g:id>
+          <g:title>【福利品】Audio Pro A10 MKII WiFi 無線藍牙喇叭</g:title>
+          <g:description>商業空間無線喇叭最佳選擇，支援AirPlay 2、Chromecast和Audio Pro Multiroom，實現房間串流。與Apple Home、Google Home、Audio Pro Control完美兼容，智慧家居輕鬆掌握。支援Spotify Connect、Tidal Connect等流行串流媒體平台。支援居家擺放，軌道燈、壁掛、桌立皆可擺設聆聽，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/67d939885f43480010fbb2bf?variation=6966f90ee3093d0017cf839d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6966f8d635b1692bf7caa7b2/original.jpg?1768356054=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>10800 TWD</g:price>
+          <g:sale_price>7499 TWD</g:sale_price>
+          <g:item_group_id>67d939885f43480010fbb2bf</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>67dbbdd8cd2a1d00118a130e:67dbbdd8fdd492000aa1b102</g:id>
           <g:title>【福利品】JLab Jbuddies POP耳罩式兒童耳機</g:title>
           <g:description>獲得 2024 EdTech 教育科技創新獎，可調節85/95dB安全音量限制，播放時間達65小時，學習不間斷可雙耳機無線連接一裝置共享音樂，有線無線皆可，連接於各項設備，可 80°旋轉耳罩，附高清收音麥克風，線上上課必備，點我查看更多&gt;&gt;&gt;</g:description>
@@ -21841,7 +21892,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/68941b5b79e13b000cc9b90a/original.jpg?1754536795</g:image_link>
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜藍牙喇叭</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
@@ -25363,7 +25414,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/68941b5b79e13b000cc9b90a/original.jpg?1754536795</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1039 TWD</g:sale_price>
           <g:item_group_id>6969a3fbd0cddc4e9b83d87d</g:item_group_id>
@@ -25465,7 +25516,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/68941b5b79e13b000cc9b90a/original.jpg?1754536795</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1169 TWD</g:sale_price>
           <g:item_group_id>6969a56ecdb838442bb0cffd</g:item_group_id>
@@ -28419,22 +28470,6 @@
           <g:gender>unisex</g:gender>
           <g:color>開心果綠</g:color>
         <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>6a2fc74c7bdf8bc805fbbf13</g:id>
-          <g:title>【福利品】Tribit StormBox Flow 藍牙喇叭</g:title>
-          <g:description>探索 Tribit StormBox Flow 藍牙喇叭，提供高達30小時的播放時間，IP67防水設計，適合戶外與旅行使用。搭載 Tribit 獨家 XBass 技術，強化低音效果，並支援 TWS 雙聲道立體聲模式。立即於 igogosport 購物網選購，享受高性價比音樂體驗。</g:description>
-          <g:link>https://store.igogosport.com/products/6a2fc74c7bdf8bc805fbbf13</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6641912a8a47760010e5f65c/original.jpg?1715573034</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2880 TWD</g:price>
-          <g:sale_price>1599 TWD</g:sale_price>
-          <g:item_group_id>6a2fc74c7bdf8bc805fbbf13</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Tribit</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a2fc95d7a8b7cc434c771d5:6a2fc95d99d9ab0010fcb28d</g:id>
           <g:title>【福利品】瑞士Skross Type-C to Type-C 100W 快充傳輸充電線1.2,2m</g:title>
           <g:description>來自瑞士的精品旅行配件品牌，所有產品皆於享譽全球的創新地—瑞士開發，並符合全球最高的品質標準。擁有多項萬國插頭獨家專利，及自己的ISO認證生產工廠，從設計到製造，完整體系高品質生產。Skross擁有多項功能及設計專利，產品系列包括萬國插座、USB充電器、USB充電線、行動電源以及行李吊牌、束帶...等，多樣化且現今旅行者不可或缺的實用配件。</g:description>
@@ -30174,13 +30209,14 @@
           <g:gender>unisex</g:gender>
         <g:custom_label_0>mic</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6a6815ecc03a196c52a18795:6a6b0abd3c3265000a18b8fa</g:id>
-          <g:title>myFirst Fone S4 4G 智慧兒童手錶</g:title>
+          <g:title>【預購】myFirst Fone S4 4G 智慧兒童手錶</g:title>
           <g:description>Fone S4 4G 智慧兒童手錶支援雙頻精準定位、4G 視訊語音、SOS 求救、自動接通，搭配 500萬像素HDR 相機、心率監測、IPX8 防水及全球 eSIM 漫遊，讓家長隨時掌握孩子安全。</g:description>
           <g:link>https://store.igogosport.com/products/6a6815ecc03a196c52a18795?variation=6a6b0abd3c3265000a18b8fa</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a68157454c6cbc59c331319/original.jpg?1785206131=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>preorder</g:availability>
+          <g:availability_date>2026-11-30T04:00+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -30191,13 +30227,14 @@
           <g:color>棉花糖</g:color>
         <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6a6815ecc03a196c52a18795:6a6b0abd3c3265000a18b8fb</g:id>
-          <g:title>myFirst Fone S4 4G 智慧兒童手錶</g:title>
+          <g:title>【預購】myFirst Fone S4 4G 智慧兒童手錶</g:title>
           <g:description>Fone S4 4G 智慧兒童手錶支援雙頻精準定位、4G 視訊語音、SOS 求救、自動接通，搭配 500萬像素HDR 相機、心率監測、IPX8 防水及全球 eSIM 漫遊，讓家長隨時掌握孩子安全。</g:description>
           <g:link>https://store.igogosport.com/products/6a6815ecc03a196c52a18795?variation=6a6b0abd3c3265000a18b8fb</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a68157454c6cbc59c331319/original.jpg?1785206131=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>preorder</g:availability>
+          <g:availability_date>2026-11-30T04:00+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -31041,7 +31078,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜耳罩式藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-29T04:00+0800</g:availability_date>
+          <g:availability_date>2026-11-30T04:00+0800</g:availability_date>
           <g:price>2880 TWD</g:price>
           <g:sale_price>2080 TWD</g:sale_price>
           <g:item_group_id>6a82c6f1250b92c07816ec5a</g:item_group_id>
