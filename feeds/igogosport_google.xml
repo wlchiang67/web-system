@@ -5821,7 +5821,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -5838,7 +5839,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -5855,7 +5857,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -5872,7 +5875,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -5889,7 +5893,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10508,7 +10513,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
+          <g:sale_price>2280 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10525,7 +10531,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
+          <g:sale_price>2280 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10542,7 +10549,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
+          <g:sale_price>2280 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10559,7 +10567,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2480 TWD</g:sale_price>
+          <g:sale_price>2280 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -12804,7 +12813,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12821,7 +12831,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12838,7 +12849,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -12855,7 +12867,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -15820,7 +15833,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -15837,7 +15851,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -15854,7 +15869,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -15871,7 +15887,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -15888,7 +15905,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -15905,7 +15923,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -21133,7 +21152,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1799 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -21150,7 +21170,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1799 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -21878,6 +21899,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -21895,6 +21917,7 @@
           <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -21912,6 +21935,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -21929,6 +21953,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -21945,7 +21970,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1299 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -21962,7 +21988,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1299 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -30216,7 +30243,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-30T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-01T04:01+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -30234,7 +30261,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-30T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-01T04:01+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -31078,7 +31105,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜耳罩式藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-11-30T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-01T04:01+0800</g:availability_date>
           <g:price>2880 TWD</g:price>
           <g:sale_price>2080 TWD</g:sale_price>
           <g:item_group_id>6a82c6f1250b92c07816ec5a</g:item_group_id>
