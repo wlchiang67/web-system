@@ -59,7 +59,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
-          <g:sale_price>3280 TWD</g:sale_price>
+          <g:sale_price>2885 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63171789287f6862613d43d2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -75,7 +76,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>5980 TWD</g:sale_price>
+          <g:sale_price>5260 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63171789287f6862613d43d2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -91,7 +93,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>5280 TWD</g:price>
-          <g:sale_price>4680 TWD</g:sale_price>
+          <g:sale_price>4120 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63171b064548e10013d8a460</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -107,7 +110,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>9280 TWD</g:price>
-          <g:sale_price>8880 TWD</g:sale_price>
+          <g:sale_price>7815 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63171b064548e10013d8a460</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -123,7 +127,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>6280 TWD</g:sale_price>
+          <g:sale_price>5525 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63171d675c030f2a64f7eadf</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -139,7 +144,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13800 TWD</g:price>
-          <g:sale_price>11800 TWD</g:sale_price>
+          <g:sale_price>10385 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63171d675c030f2a64f7eadf</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -376,7 +382,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>8999 TWD</g:price>
-          <g:sale_price>7980 TWD</g:sale_price>
+          <g:sale_price>7020 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631810ebabd4ed001fc729f3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -392,7 +399,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>16800 TWD</g:price>
-          <g:sale_price>14980 TWD</g:sale_price>
+          <g:sale_price>13180 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631810ebabd4ed001fc729f3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -408,7 +416,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>16800 TWD</g:price>
-          <g:sale_price>12800 TWD</g:sale_price>
+          <g:sale_price>11265 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6318163374f1c8002b566fb4</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -424,7 +433,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>28800 TWD</g:price>
-          <g:sale_price>23800 TWD</g:sale_price>
+          <g:sale_price>20945 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6318163374f1c8002b566fb4</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -440,7 +450,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>18800 TWD</g:price>
-          <g:sale_price>12800 TWD</g:sale_price>
+          <g:sale_price>11265 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631840d1f883a50028502831</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -456,7 +467,8 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>3980 TWD</g:sale_price>
+          <g:sale_price>3500 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6318470b324d0d001915dfb8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -472,7 +484,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4980 TWD</g:price>
-          <g:sale_price>3980 TWD</g:sale_price>
+          <g:sale_price>3500 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631848163d297f0022ebea74</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -504,7 +517,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4280 TWD</g:price>
-          <g:sale_price>3280 TWD</g:sale_price>
+          <g:sale_price>2885 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>631849d774f1c8001f568842</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -520,7 +534,8 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2880 TWD</g:sale_price>
+          <g:sale_price>2535 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63184c003bb2360031418a9d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -536,7 +551,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>4280 TWD</g:sale_price>
+          <g:sale_price>3765 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>63184debc65dfe00100f290f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -1329,7 +1345,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/632046b5db4c631002456332/original.jpg?1663059637</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2980 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>63196858bf9b0e0001040abe</g:item_group_id>
@@ -2812,12 +2828,13 @@
           <g:title>Kaibo Flex 骨傳導藍牙耳機</g:title>
           <g:description>探索 Kaibo Flex 骨傳導藍牙耳機，結合先進的骨傳導技術與開放式設計，提供清晰音質與舒適配戴體驗。支援多點連線與專利防漏音技術，適合運動、通勤與日常使用。立即於 igogosport 購物網選購，享受無線自由與高品質音效！</g:description>
           <g:link>https://store.igogosport.com/products/6360de1af924860022448fb5</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/63631710e8487d003192d88f/original.jpg?1667438352</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7ebe872b194a255a34fe6/original.jpg?1793584103=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 骨傳導耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>1199 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6360de1af924860022448fb5</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Kaibo</g:brand>
@@ -3471,7 +3488,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13800 TWD</g:price>
-          <g:sale_price>9800 TWD</g:sale_price>
+          <g:sale_price>8625 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6406f0fc619130001a783c5a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -3488,7 +3506,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>26800 TWD</g:price>
-          <g:sale_price>18000 TWD</g:sale_price>
+          <g:sale_price>15840 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6406f0fc619130001a783c5a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -3803,7 +3822,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>3980 TWD</g:sale_price>
+          <g:sale_price>3500 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>644231b538f81e00174aa580</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -3819,7 +3839,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1655 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64474cd27e8d760014f9b33c</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4072,7 +4093,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>8980 TWD</g:price>
-          <g:sale_price>7980 TWD</g:sale_price>
+          <g:sale_price>7499 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4089,7 +4111,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>8980 TWD</g:price>
-          <g:sale_price>7980 TWD</g:sale_price>
+          <g:sale_price>7499 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4106,7 +4129,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>18800 TWD</g:price>
-          <g:sale_price>15280 TWD</g:sale_price>
+          <g:sale_price>14899 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4123,7 +4147,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>18800 TWD</g:price>
-          <g:sale_price>15280 TWD</g:sale_price>
+          <g:sale_price>14899 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4141,6 +4166,7 @@
           <g:availability>in stock</g:availability>
           <g:price>33800 TWD</g:price>
           <g:sale_price>29980 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4360,7 +4386,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1199 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -4377,7 +4404,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1199 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -4394,7 +4422,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1199 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -4411,7 +4440,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1199 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -5308,12 +5338,13 @@
           <g:title>JLab Work Buds 真無線藍牙耳機</g:title>
           <g:description>美國CNN評：超高CP值真無線耳機 ! 可搖身一變作為商務會議使用的拆卸式長麥克風，搭配單耳使用及多點連線，甚至有通話降噪及快速充電等特點，給您不同凡響的辦公效率，igogosprot 思博特 - 原廠公司貨，品質 / 來源有保障，點擊看更多&gt;&gt;&gt;</g:description>
           <g:link>https://store.igogosport.com/products/64d20f42974691000dfdf182</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/64d20f06849081001f673968/original.jpg?1691488006</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7ec38e4372a5e0e3775ec/original.jpg?1793584184=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3580 TWD</g:price>
-          <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price>1999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-01T00:00+0800/2026-11-15T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>64d20f42974691000dfdf182</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -5902,6 +5933,22 @@
           <g:gender>unisex</g:gender>
           <g:color>薄荷綠</g:color>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>651f71ac62bcda001154cf2a:651f71ac725a40001e8a71dc</g:id>
+          <g:title>【 11/6 爆品 - 12:00開搶】Cardo SPIRIT 安全帽通訊藍牙耳機 單入組</g:title>
+          <g:description>搭載32mm發聲單體，給您身歷其境的體驗 ，同時配備藍牙5.2，擁有快速穩定的連線，並支援 2 位騎士對講，最遠 0.4km 機與機對講距離 ，設有專屬APP、終身韌體升級可自由設定，另外 IP67防水防塵規格，下雨天也不用怕，為您提供更良好的騎乘體驗。</g:description>
+          <g:link>https://store.igogosport.com/products/651f71ac62bcda001154cf2a?variation=651f71ac725a40001e8a71dc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/631716406aa0dc784fe3c06e/original.jpg?1662457408</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>3680 TWD</g:price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:item_group_id>651f71ac62bcda001154cf2a</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>65266999dae4b0001aa1a4af</g:id>
           <g:title>Urbanista Memphis 無線藍牙喇叭</g:title>
           <g:description>主打城市風格的Urbanista這次帶來Memphis作為發想，小巧時尚的攜帶式藍牙喇叭，附登山扣環，掛在背包、皮帶環都很方便攜帶，同使使用的也是環保再生的材料製成，內建TF記憶卡插槽，可整理好音樂清單直接撥放，實在是實用又可愛的選擇!</g:description>
@@ -5977,7 +6024,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1180 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65291a1c2406a20011275003</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OneOdio</g:brand>
@@ -5994,7 +6042,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1180 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65291a1c2406a20011275003</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OneOdio</g:brand>
@@ -6011,7 +6060,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1180 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65291a1c2406a20011275003</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OneOdio</g:brand>
@@ -6160,7 +6210,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65644ebf16389500171d04e2/original.jpg?1701072574</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>1599 TWD</g:sale_price>
           <g:item_group_id>653b68cca4b5eb000e0fb688</g:item_group_id>
@@ -7735,7 +7785,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/65b86739109bee001d42c743/original.jpg?1706583864</g:image_link>
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2680 TWD</g:price>
           <g:sale_price>1799 TWD</g:sale_price>
           <g:item_group_id>65b8677667e178001714c5fe</g:item_group_id>
@@ -7831,12 +7881,13 @@
           <g:title>OXS S5 3.1.2 Dolby Atmos 無線重低音聲霸 Soundbar 家庭劇院</g:title>
           <g:description>挑戰杜比3.1.2 聲道最高CP值聲霸，內建6個喇叭真實3D環繞，HDMI傳輸杜比視界及4K HDR影像傳輸，多種有線音訊輸入及藍芽5.0，點擊查看更多&gt;&gt;&gt;</g:description>
           <g:link>https://store.igogosport.com/products/65c076ce02e5e700171a6643</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/65c076568f84610011e25905/original.jpg?1707112022</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7f0458532969d9f81e43b/original.jpg?1793585221=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找商品 &gt; 藍牙喇叭 &gt; 家用藍牙喇叭</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>9980 TWD</g:price>
-          <g:sale_price>7980 TWD</g:sale_price>
+          <g:sale_price>7499 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65c076ce02e5e700171a6643</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OXS</g:brand>
@@ -8528,6 +8579,23 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>travel</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>662603dca133890014444f4f:662603dc63cdc4000cd48248</g:id>
+          <g:title>【 11/8 爆品 - 12:00開搶】Tribit MaxSound Plus 藍牙喇叭 黑色</g:title>
+          <g:description>超重低音震撼你的聽覺。IPX7等級完全防水，無懼水潑。20小時連續播放，長效電量陪伴你一整天。奢華質感，人體工學設計和防滑表面處理，舒適且易於攜帶。藍牙5.0連接，最遠可達30公尺，輕鬆連接你的設備。內置麥克風，穩定連線，高清免提通話。24W總輸出大功率，帶來高品質立體聲。小巧便攜，內附掛繩可掛於包上，無需手持。立體聲模式，兩台同時配對，打造震撼的立體聲。</g:description>
+          <g:link>https://store.igogosport.com/products/662603dca133890014444f4f?variation=662603dc63cdc4000cd48248</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/631953205fb651001fd75d87/original.jpg?1662604063</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2599 TWD</g:price>
+          <g:sale_price>111 TWD</g:sale_price>
+          <g:item_group_id>662603dca133890014444f4f</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Tribit</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>662b06e5184bdf0023370961</g:id>
           <g:title>Cleer ARC II 藍牙發射器 (裸裝版)</g:title>
           <g:description>選用高通旗艦芯片QCC3056，打造低延遲遊戲藍牙發射器，聽音辨位和高清音質完美結合，將遊戲藍牙發射器插入手機、電腦或iPad等裝置，該Dongle 將自動與ARC II電競耳機連接，達到遊戲超低延遲要求。</g:description>
@@ -10000,7 +10068,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>2999 TWD</g:sale_price>
+          <g:sale_price>2911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>667e58a47a056b0010ffd2ff</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10017,7 +10086,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>2999 TWD</g:sale_price>
+          <g:sale_price>2911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>667e58a47a056b0010ffd2ff</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10063,12 +10133,13 @@
           <g:title>myFirst Fone R1c 4G 智慧兒童手錶</g:title>
           <g:description>雙向語音和視訊通話隨時聯繫，優良的通訊及精準GPS追蹤，myFirst Circle家庭/摯友社交平台，IP67防水係數， Google Map 世界地圖系統，設置白名單阻擋陌生門號來電，開啟SOS通知有30秒的周圍錄音，點我查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
           <g:link>https://store.igogosport.com/products/6684c506f88d25001c3f0336</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6684c35b2fc0fe001f36cbae/original.jpg?1719976795</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7edad6783bd1b1a241782/original.jpg?1793584557=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4780 TWD</g:price>
-          <g:sale_price>3299 TWD</g:sale_price>
+          <g:sale_price>1999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6684c506f88d25001c3f0336</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -10084,7 +10155,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6280 TWD</g:price>
-          <g:sale_price>2999 TWD</g:sale_price>
+          <g:sale_price>2911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66860c81100d420013e1b596</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10101,7 +10173,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6280 TWD</g:price>
-          <g:sale_price>2999 TWD</g:sale_price>
+          <g:sale_price>2911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66860c81100d420013e1b596</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10346,7 +10419,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>18980 TWD</g:price>
-          <g:sale_price>14200 TWD</g:sale_price>
+          <g:sale_price>12495 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66986ec6d545e300133d4e60</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -10362,7 +10436,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>33800 TWD</g:price>
-          <g:sale_price>27800 TWD</g:sale_price>
+          <g:sale_price>24465 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66986ec6d545e300133d4e60</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -12322,7 +12397,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>7580 TWD</g:price>
-          <g:sale_price>4299 TWD</g:sale_price>
+          <g:sale_price>4211 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66e16c37ddfa180016e0462a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -13724,7 +13800,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>12800 TWD</g:price>
-          <g:sale_price>3999 TWD</g:sale_price>
+          <g:sale_price>3911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>671f5e6f60ccc8000af39db9</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -14363,7 +14440,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>8380 TWD</g:price>
-          <g:sale_price>3999 TWD</g:sale_price>
+          <g:sale_price>3911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>673c43326d4caa0010a27ee4</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -14396,7 +14474,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>8380 TWD</g:price>
-          <g:sale_price>3999 TWD</g:sale_price>
+          <g:sale_price>3911 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>673d4fd41e3ed90010d701e2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -14980,12 +15059,13 @@
           <g:title>Kaibo Flow 骨傳導降噪無線藍牙耳機</g:title>
           <g:description>首款可調節頭帶，獨家降噪技術骨傳導，Intelligo-AIVC 卓越Ai通話降噪技術，動態音頻壓縮技術讓低音量聲音更清晰，14mm骨傳導揚聲器，立體環繞音效，長達10小時的聆聽和通話時間,高效IP67等級，室內外皆適合，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
           <g:link>https://store.igogosport.com/products/676272498fb187000c750970?variation=6768e09a5fed68000f798408</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67627226d71d48000ac711e1/original.jpg?1734504998</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7eceb364a343876cb0ef5/original.jpg?1793584363=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 骨傳導耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4580 TWD</g:price>
-          <g:sale_price>2999 TWD</g:sale_price>
+          <g:sale_price>2899 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>676272498fb187000c750970</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Kaibo</g:brand>
@@ -15177,7 +15257,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6880 TWD</g:price>
-          <g:sale_price>2799 TWD</g:sale_price>
+          <g:sale_price>2711 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67652f841fdfaf000b89ef8f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -15194,7 +15275,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6280 TWD</g:price>
-          <g:sale_price>4680 TWD</g:sale_price>
+          <g:sale_price>4120 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>676e25e26d827b000ec4ed9f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -15955,7 +16037,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66c5a1a7bb9fd10013dd3827/original.jpg?1724228007</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1512 TWD</g:sale_price>
           <g:item_group_id>67aab030e1f8f2000b07537e</g:item_group_id>
@@ -17056,7 +17138,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66c5a1a7bb9fd10013dd3827/original.jpg?1724228007</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1344 TWD</g:sale_price>
           <g:item_group_id>67ecfcee97fe2d000b2cd2ea</g:item_group_id>
@@ -19490,12 +19572,13 @@
           <g:title>Creative Zen Air 2 降噪真無線藍牙耳機</g:title>
           <g:description>SXFI READY 認證輕量入耳式主動降噪，絕佳音效 Super X-Fi 技術，主動降噪，即時消除噪音，沉靜不受擾，環境模式，保持與外界連結，輕鬆感知周圍，IPX4認證防汗防水，單次電量6小時，搭充電盒23小時，支援無線充電且相容 Qi 標準任意兩個設備無縫自由切換，羽量級輕巧，單耳僅3.9g，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
           <g:link>https://store.igogosport.com/products/681d6ad584003e000d1122f3</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/681d68ae507447000cbae618/original.jpg?1746757806</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7ec15703cbb0014dd4a09/original.jpg?1793584149=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找功能 / 按預算 &gt; 功能選選 &gt; 主動降噪</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1290 TWD</g:price>
-          <g:sale_price>990 TWD</g:sale_price>
+          <g:sale_price>799 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>681d6ad584003e000d1122f3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Creative</g:brand>
@@ -20554,7 +20637,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>22800 TWD</g:price>
-          <g:sale_price>14999 TWD</g:sale_price>
+          <g:sale_price>11111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6851438bc837c2000fb78b0d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OXS</g:brand>
@@ -20854,7 +20938,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3980 TWD</g:price>
-          <g:sale_price>2399 TWD</g:sale_price>
+          <g:sale_price>2099 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6858f654ee8316000ecb3970</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20871,7 +20956,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3980 TWD</g:price>
-          <g:sale_price>2399 TWD</g:sale_price>
+          <g:sale_price>2099 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6858f654ee8316000ecb3970</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20939,7 +21025,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
-          <g:sale_price>2299 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68592a2640423d0011a05198</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20956,7 +21043,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
-          <g:sale_price>2299 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68592a2640423d0011a05198</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20973,7 +21061,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
-          <g:sale_price>2299 TWD</g:sale_price>
+          <g:sale_price>2111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68592a2640423d0011a05198</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -20990,7 +21079,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>685a4eeb921623000c880e11</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21007,7 +21097,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>685a4eeb921623000c880e11</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21222,7 +21313,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price>2211 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>686cdbb14cab59000e330333</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -21240,6 +21332,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2680 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>686cdbb14cab59000e330333</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -21810,7 +21903,7 @@
           <g:title>Creative Aurvana Ace Mimi 降噪真無線藍牙耳機</g:title>
           <g:description>搭載 xMEMS 固態矽單體與 10mm 動圈，呈現高保真震撼音質與 Super X-Fi 空間音訊。支援 LE Audio、LC3 與 Auracast 多設備播放，智慧 ANC 主動降噪與 AI 通話降噪讓音樂、通話同樣清晰。IPX5 防水、舒適貼合設計適合日常與運動，續航最長 28 小時並支援 Qi 無線充電。專屬 APP 可依喜好自訂功能，搭配語音助理輕鬆操控。</g:description>
           <g:link>https://store.igogosport.com/products/6889bbc1e2be1a000cfaf49b?variation=6895a9d8a5a80d0008a77455</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6889baed6b68e600182e35da/original.jpg?1753856749</g:image_link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae7ec98f6aaefe1f83e57ea/original.jpg?1793584279=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
@@ -22293,7 +22386,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
-          <g:sale_price>780 TWD</g:sale_price>
+          <g:sale_price>685 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6895687cbe5c660016aa9328</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -23467,7 +23561,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>5280 TWD</g:sale_price>
+          <g:sale_price>4511 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68ca891c1501e10016307bdc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>BUTTONS</g:brand>
@@ -23484,7 +23579,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>5280 TWD</g:sale_price>
+          <g:sale_price>4511 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68ca891c1501e10016307bdc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>BUTTONS</g:brand>
@@ -24538,6 +24634,22 @@
           <g:gender>unisex</g:gender>
           <g:color>深藍色</g:color>
         <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>691a9b6c22c59f001289320f</g:id>
+          <g:title>【 11/12 爆品 - 12:00開搶】Marley Get Together 2 Mini 藍牙喇叭</g:title>
+          <g:description>全球藍牙耳機專業媒體 - 評價報導 Matzka 大力推薦 — 雷鬼精神，無所畏懼！ 部落客 - Sarah Hsiao — 讓音樂充斥在生活各種場景 igo生活-雪編開箱 — 雪編私藏推薦的第一名藍牙喇叭 耳機人開箱 — 輕巧便攜且提供三種EQ模式 科技生活teXch開箱 — 高解析好音質、潮流外型設計   ▌商品規格產品型號：Marley Get Together 2 Mini 藍牙喇叭藍牙規格：藍牙 5.0無線範圍：30m喇叭功率：10W </g:description>
+          <g:link>https://store.igogosport.com/products/691a9b6c22c59f001289320f</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad82fe08178e61b3795f08b/original.jpg?1792552928=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>5280 TWD</g:price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:item_group_id>691a9b6c22c59f001289320f</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Marley</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>691ab7074c6cec00143fd269</g:id>
           <g:title>Cleer Clip 開放式頭戴AI真無線藍牙耳機(時尚版Pro)</g:title>
           <g:description>支援 Dolby Atmos 杜比全景、THX 與 Hi-Res Wireless 認證，搭載高通 Snapdragon 晶片與 aptX Lossless，16.2mm 大單體震撼音質。AI 恆聽、頭部追蹤、UV 消毒充電盒、觸控螢幕與化妝鏡設計，IPX7 防水、28 小時續航，兼顧音質、舒適與時尚，一次到位的旗艦級開放式耳機。</g:description>
@@ -25723,6 +25835,22 @@
           <g:gender>unisex</g:gender>
           <g:color>粉紅色</g:color>
         <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>69783347879cad4cbf71b28d</g:id>
+          <g:title>【 11/11 爆品 - 12:00開搶】EarFun Air Pro 4+ 降噪真無線藍牙耳機 黑色</g:title>
+          <g:description>榮獲日本VGP金賞與德國紅點設計獎，集高通QCC3091晶片、aptX Lossless無損音質、LDAC高清傳輸與QuietSmart 3.0降噪於一身。支援Auracast廣播音訊、LE Audio、藍牙6.0與多點連線，享受Hi-Res Wireless白金音質與54小時長效續航，開啟無線音頻新世代。</g:description>
+          <g:link>https://store.igogosport.com/products/69783347879cad4cbf71b28d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ae83dab4f3846000c7a5546/original.jpg?1793605035=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>4280 TWD</g:price>
+          <g:sale_price>1 TWD</g:sale_price>
+          <g:item_group_id>69783347879cad4cbf71b28d</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>EarFun</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>69802c84ed1f4a995a134cc2</g:id>
           <g:title>【福利品】Creative Zen Air 2 降噪真無線藍牙耳機</g:title>
           <g:description>SXFI READY 認證輕量入耳式主動降噪，絕佳音效 Super X-Fi 技術，主動降噪，即時消除噪音，沉靜不受擾，環境模式，保持與外界連結，輕鬆感知周圍，IPX4認證防汗防水，單次電量6小時，搭充電盒23小時，支援無線充電且相容 Qi 標準任意兩個設備無縫自由切換，羽量級輕巧，單耳僅3.9g，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
@@ -28047,6 +28175,39 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>6a0e7f1b3a7e61f401338c7c</g:id>
+          <g:title>【 11/7 爆品 - 12:00開搶】JLab Epic Lab Edition 降噪真無線藍牙耳機</g:title>
+          <g:description>探索 JLab Epic Lab Edition 旗艦真無線耳機，搭載混合雙驅動單體設計，提供 Hi-Res 音質體驗。支援智能主動降噪、USB-C 發射器、LDAC 編碼與 LE Audio 技術，實現超低延遲與高解析音效。具備IP55防護等級、56小時續航、多點連線與 Google Fast Pair 快速配對功能，適合音樂愛好者、遊戲玩家與影音愛好者。立即於 igogosport 購物網選購，體驗頂級音質與先進科技！</g:description>
+          <g:link>https://store.igogosport.com/products/6a0e7f1b3a7e61f401338c7c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad822646547670013b343e9/original.jpg?1792549475=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:item_group_id>6a0e7f1b3a7e61f401338c7c</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>JLab</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6a0eac83c42ebe6abd076d8d:6a0eac83e6c054000ae59ba5</g:id>
+          <g:title>【 11/9 爆品 - 12:00開搶】JLab J1 Pods 真無線藍牙耳機</g:title>
+          <g:description>千元級高音質藍牙耳機，搭載10mm大動圈與藍牙6.0多點連線，支援DNC通話降噪與環境音模式。最高35小時續航，IP55防水設計，搭配醫療級矽膠耳塞與App自訂控制，日常通勤與運動使用都合適。</g:description>
+          <g:link>https://store.igogosport.com/products/6a0eac83c42ebe6abd076d8d?variation=6a0eac83e6c054000ae59ba5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69aa35f4ad0cef2c27bf9e43/original.jpg?1772762612=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1580 TWD</g:price>
+          <g:sale_price>111 TWD</g:sale_price>
+          <g:item_group_id>6a0eac83c42ebe6abd076d8d</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>JLab</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a150262b37f473b7deab13a:6a1568f9bf2458000a200a36</g:id>
           <g:title>Tech21 iPad Air 11 FlexFolio 支架防摔保護殼</g:title>
           <g:description>Tech21 FlexFolio 支架防摔保護殼，採用 FlexShock 高效防護技術，提供科學驗證多重防摔。支援多角度支架、自動休眠喚醒、Apple Pencil 收納與磁吸開闔設計，兼具防護、便利與環保。</g:description>
@@ -29675,7 +29836,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1559e34fd52bc53d21c142/original.jpg?1779784163=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>18980 TWD</g:price>
           <g:sale_price>12780 TWD</g:sale_price>
           <g:item_group_id>6a50a9271916467c684d6650</g:item_group_id>
@@ -29707,7 +29868,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1559e34fd52bc53d21c142/original.jpg?1779784163=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>18980 TWD</g:price>
           <g:sale_price>11360 TWD</g:sale_price>
           <g:item_group_id>6a50aa328b01af72ff18f2d5</g:item_group_id>
@@ -30243,7 +30404,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-01T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-03T04:00+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -30261,7 +30422,7 @@
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-01T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-03T04:00+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>6a6815ecc03a196c52a18795</g:item_group_id>
@@ -31105,7 +31266,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜耳罩式藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-01T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-03T04:00+0800</g:availability_date>
           <g:price>2880 TWD</g:price>
           <g:sale_price>2080 TWD</g:sale_price>
           <g:item_group_id>6a82c6f1250b92c07816ec5a</g:item_group_id>
@@ -31172,7 +31333,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4efea8543f4d17e17ce36f/original.jpg?1783561896=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1184 TWD</g:sale_price>
           <g:item_group_id>6a83dbe979ed701ac8ad41b9</g:item_group_id>
@@ -32975,6 +33136,40 @@
           <g:gender>unisex</g:gender>
           <g:color>黑色</g:color>
         <g:custom_label_0>case</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>6ad82ce947aea900141d53e2:6ad82ce80b434f00098a0890</g:id>
+          <g:title>【 11/10 爆品 - 12:00開搶】DECODED MagSafe 皮革磁吸支架卡夾</g:title>
+          <g:description>Apple Store 銷售品牌，推出 MagSafe 皮革卡夾支架。ECCO 全粒面皮革、三卡收納、多角度支架、RFID 防護與穩固磁吸，兼具質感與實用。</g:description>
+          <g:link>https://store.igogosport.com/products/6ad82ce947aea900141d53e2?variation=6ad82ce80b434f00098a0890</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a476b78d35b89ce217b5e19/original.jpg?1783065463=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>11.11 最殺 GO！物節 &gt; 11.11 精選爆品</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1680 TWD</g:price>
+          <g:sale_price>1 TWD</g:sale_price>
+          <g:item_group_id>6ad82ce947aea900141d53e2</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Decoded</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>accessory</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6ad830aeeaff31000d6d9353:6ad830ae357a58000d7f2fa6</g:id>
+          <g:title>【 11/13 爆品 - 12:00開搶】Creative Aurvana Ace Mimi 降噪真無線藍牙耳機</g:title>
+          <g:description>搭載 xMEMS 固態矽單體與 10mm 動圈，呈現高保真震撼音質與 Super X-Fi 空間音訊。支援 LE Audio、LC3 與 Auracast 多設備播放，智慧 ANC 主動降噪與 AI 通話降噪讓音樂、通話同樣清晰。IPX5 防水、舒適貼合設計適合日常與運動，續航最長 28 小時並支援 Qi 無線充電。專屬 APP 可依喜好自訂功能，搭配語音助理輕鬆操控。</g:description>
+          <g:link>https://store.igogosport.com/products/6ad830aeeaff31000d6d9353?variation=6ad830ae357a58000d7f2fa6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ad830578805ad000b0e45f2/original.jpg?1792553046=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找商品 &gt; 藍牙耳機 &gt; 真無線藍牙耳機</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>5680 TWD</g:price>
+          <g:sale_price>1111 TWD</g:sale_price>
+          <g:item_group_id>6ad830aeeaff31000d6d9353</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Creative</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>午夜藍</g:color>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6add86aa2844e5657f2da607</g:id>
           <g:title>【盒損品】JLab Epic Work ANC 無線降噪辦公耳罩藍牙耳機</g:title>
           <g:description>具備最高 30dB 混合降噪效果，支援通透模式、自適應降噪麥克風、多點藍牙連線與翻轉靜音功能，兼顧專注聆聽與清晰通話。附 USB-C 發射器、擴充基座及有線連接，搭配最高 90 小時續航、Google Fast Pair 快速定位與專屬 App 設定，無論辦公或娛樂都能輕鬆切換。</g:description>
