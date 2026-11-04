@@ -1,9 +1,9 @@
 {
  "label0": {
-  "marker": 58,
+  "marker": 60,
   "webcam": 28,
   "cardo_moto": 42,
-  "kids_hp": 247,
+  "kids_hp": 250,
   "cardo_acc": 32,
   "overear": 142,
   "speaker": 355,
@@ -19,7 +19,7 @@
   "open": 99,
   "cardo_outdoor": 15,
   "turntable": 3,
-  "travel": 63,
+  "travel": 64,
   "watchband": 71,
   "soundbar": 12,
   "(none)": 5,
@@ -28,18 +28,18 @@
   "accessory": 47,
   "case": 73,
   "cricut_machine": 62,
-  "cricut_acc": 117,
+  "cricut_acc": 118,
   "guitar": 13,
-  "cleaner": 9,
-  "camera": 6,
+  "cleaner": 12,
+  "camera": 12,
   "cardo_bike": 2
  },
  "label1": {
   "(none)": 1109,
-  "outlet": 883
+  "outlet": 899
  },
  "brand": {
-  "Ohuhu": 58,
+  "Ohuhu": 60,
   "Coolpo": 9,
   "Cardo": 94,
   "iClever": 91,
@@ -49,7 +49,7 @@
   "Scosche": 19,
   "Marley": 34,
   "Tribit": 59,
-  "myFirst": 198,
+  "myFirst": 201,
   "Puro": 55,
   "JLab": 291,
   "Marshall": 59,
@@ -61,7 +61,7 @@
   "Nuheara": 1,
   "JBL": 58,
   "OneOdio": 59,
-  "Skross": 60,
+  "Skross": 61,
   "Ampere": 2,
   "Apple": 34,
   "Philips": 26,
@@ -73,18 +73,18 @@
   "Creative": 25,
   "Motorola": 13,
   "Harman Kardon": 8,
-  "Cricut": 179,
+  "Cricut": 180,
   "Enya": 13,
   "LEXON": 12,
   "BUTTONS": 6,
   "DOSHISHA": 14,
-  "Whoosh": 9,
+  "Whoosh": 12,
   "Tech21": 57,
   "Decoded": 17,
-  "Looki": 6
+  "Looki": 12
  },
  "label0_source": {
-  "title": 1975,
+  "title": 1991,
   "ptype": 12,
   "(none)": 5
  },
@@ -92,6 +92,6 @@
   "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-11-04T02:32:06+08:00",
- "items": 1992
+ "generated_at": "2026-11-05T02:44:43+08:00",
+ "items": 2008
 }
