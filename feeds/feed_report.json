@@ -5,7 +5,7 @@
   "cardo_moto": 42,
   "kids_hp": 250,
   "cardo_acc": 32,
-  "overear": 142,
+  "overear": 143,
   "speaker": 355,
   "tws": 255,
   "hrm": 7,
@@ -35,7 +35,7 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1109,
+  "(none)": 1110,
   "outlet": 899
  },
  "brand": {
@@ -52,7 +52,7 @@
   "myFirst": 201,
   "Puro": 55,
   "JLab": 291,
-  "Marshall": 59,
+  "Marshall": 60,
   "EarFun": 102,
   "Audio-Technica": 46,
   "Kaibo": 12,
@@ -84,7 +84,7 @@
   "Looki": 12
  },
  "label0_source": {
-  "title": 1991,
+  "title": 1992,
   "ptype": 12,
   "(none)": 5
  },
@@ -92,6 +92,6 @@
   "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-11-05T02:44:43+08:00",
- "items": 2008
+ "generated_at": "2026-11-06T02:53:10+08:00",
+ "items": 2009
 }
