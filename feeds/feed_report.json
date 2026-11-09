@@ -1,13 +1,13 @@
 {
  "label0": {
-  "marker": 60,
+  "marker": 61,
   "webcam": 28,
   "cardo_moto": 42,
   "kids_hp": 250,
   "cardo_acc": 32,
   "overear": 143,
   "speaker": 355,
-  "tws": 258,
+  "tws": 261,
   "hrm": 7,
   "kids_watch": 61,
   "kids_cam": 51,
@@ -35,11 +35,11 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1113,
-  "outlet": 899
+  "(none)": 1116,
+  "outlet": 900
  },
  "brand": {
-  "Ohuhu": 60,
+  "Ohuhu": 61,
   "Coolpo": 9,
   "Cardo": 94,
   "iClever": 91,
@@ -51,7 +51,7 @@
   "Tribit": 59,
   "myFirst": 201,
   "Puro": 55,
-  "JLab": 294,
+  "JLab": 297,
   "Marshall": 60,
   "EarFun": 102,
   "Audio-Technica": 46,
@@ -84,7 +84,7 @@
   "Looki": 12
  },
  "label0_source": {
-  "title": 1995,
+  "title": 1999,
   "ptype": 12,
   "(none)": 5
  },
@@ -92,6 +92,6 @@
   "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
   "KeySmart SmartCard Gen 3 定位防丟追蹤器"
  ],
- "generated_at": "2026-11-09T01:09:34+08:00",
- "items": 2012
+ "generated_at": "2026-11-10T05:31:51+08:00",
+ "items": 2016
 }
