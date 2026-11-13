@@ -1,6 +1,6 @@
 {
  "label0": {
-  "marker": 73,
+  "marker": 72,
   "webcam": 28,
   "cardo_moto": 38,
   "kids_hp": 252,
@@ -17,7 +17,7 @@
   "3dpen": 39,
   "hearing": 7,
   "open": 109,
-  "cardo_outdoor": 15,
+  "cardo_outdoor": 14,
   "turntable": 3,
   "travel": 76,
   "watchband": 71,
@@ -27,7 +27,7 @@
   "charger": 10,
   "accessory": 56,
   "case": 73,
-  "cricut_machine": 63,
+  "cricut_machine": 62,
   "cricut_acc": 120,
   "guitar": 19,
   "cleaner": 13,
@@ -35,13 +35,13 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1126,
-  "outlet": 980
+  "(none)": 1125,
+  "outlet": 978
  },
  "brand": {
-  "Ohuhu": 73,
+  "Ohuhu": 72,
   "Coolpo": 9,
-  "Cardo": 94,
+  "Cardo": 93,
   "iClever": 91,
   "(none)": 74,
   "Cleer": 81,
@@ -73,7 +73,7 @@
   "Creative": 25,
   "Motorola": 14,
   "Harman Kardon": 8,
-  "Cricut": 183,
+  "Cricut": 182,
   "Enya": 19,
   "LEXON": 12,
   "BUTTONS": 6,
@@ -84,14 +84,16 @@
   "Looki": 12
  },
  "label0_source": {
-  "title": 2086,
+  "title": 2083,
   "ptype": 12,
   "(none)": 8
  },
  "unlabeled_instock": [
   "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
-  "KeySmart SmartCard Gen 3 定位防丟追蹤器"
+  "KeySmart SmartCard Gen 3 定位防丟追蹤器",
+  "myFirst Sketch Clear 16吋 透明繪圖板",
+  "myFirst Sketch Clear 16吋 透明繪圖板"
  ],
- "generated_at": "2026-11-13T03:00:12+08:00",
- "items": 2106
+ "generated_at": "2026-11-14T02:38:11+08:00",
+ "items": 2103
 }
