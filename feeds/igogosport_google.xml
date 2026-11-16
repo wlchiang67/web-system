@@ -59,8 +59,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
-          <g:sale_price>2885 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>63171789287f6862613d43d2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -76,8 +75,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>5260 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>5980 TWD</g:sale_price>
           <g:item_group_id>63171789287f6862613d43d2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -91,10 +89,9 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63171a22a8935f00137ff3c7/original.jpg?1662458402</g:image_link>
           <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜安全帽藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>5280 TWD</g:price>
-          <g:sale_price>4120 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>4680 TWD</g:sale_price>
           <g:item_group_id>63171b064548e10013d8a460</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -110,8 +107,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>9280 TWD</g:price>
-          <g:sale_price>7815 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>8880 TWD</g:sale_price>
           <g:item_group_id>63171b064548e10013d8a460</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -127,8 +123,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>5525 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>6280 TWD</g:sale_price>
           <g:item_group_id>63171d675c030f2a64f7eadf</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -144,8 +139,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13800 TWD</g:price>
-          <g:sale_price>10385 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>11800 TWD</g:sale_price>
           <g:item_group_id>63171d675c030f2a64f7eadf</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -382,8 +376,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>8999 TWD</g:price>
-          <g:sale_price>7020 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>7980 TWD</g:sale_price>
           <g:item_group_id>631810ebabd4ed001fc729f3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -399,8 +392,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>16800 TWD</g:price>
-          <g:sale_price>13180 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>14980 TWD</g:sale_price>
           <g:item_group_id>631810ebabd4ed001fc729f3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -416,8 +408,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>16800 TWD</g:price>
-          <g:sale_price>11265 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>12800 TWD</g:sale_price>
           <g:item_group_id>6318163374f1c8002b566fb4</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -433,8 +424,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>28800 TWD</g:price>
-          <g:sale_price>20945 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>23800 TWD</g:sale_price>
           <g:item_group_id>6318163374f1c8002b566fb4</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -450,8 +440,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>18800 TWD</g:price>
-          <g:sale_price>11265 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>12800 TWD</g:sale_price>
           <g:item_group_id>631840d1f883a50028502831</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -467,8 +456,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>3500 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>3980 TWD</g:sale_price>
           <g:item_group_id>6318470b324d0d001915dfb8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -484,8 +472,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4980 TWD</g:price>
-          <g:sale_price>3500 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>3980 TWD</g:sale_price>
           <g:item_group_id>631848163d297f0022ebea74</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -517,8 +504,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4280 TWD</g:price>
-          <g:sale_price>2885 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>3280 TWD</g:sale_price>
           <g:item_group_id>631849d774f1c8001f568842</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -534,8 +520,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2535 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2880 TWD</g:sale_price>
           <g:item_group_id>63184c003bb2360031418a9d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -551,8 +536,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>3765 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>4280 TWD</g:sale_price>
           <g:item_group_id>63184debc65dfe00100f290f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -3021,7 +3005,7 @@
           <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6360de1af924860022448fb5</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Kaibo</g:brand>
@@ -3183,7 +3167,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6319a1914d56f800196c9d5c/original.jpg?1662624145</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>4280 TWD</g:price>
           <g:sale_price>1999 TWD</g:sale_price>
           <g:item_group_id>63b63768827e0e00147e096d</g:item_group_id>
@@ -3739,8 +3723,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13800 TWD</g:price>
-          <g:sale_price>8625 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>9800 TWD</g:sale_price>
           <g:item_group_id>6406f0fc619130001a783c5a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -3757,8 +3740,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>26800 TWD</g:price>
-          <g:sale_price>15840 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>18000 TWD</g:sale_price>
           <g:item_group_id>6406f0fc619130001a783c5a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4073,8 +4055,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
-          <g:sale_price>3500 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>3980 TWD</g:sale_price>
           <g:item_group_id>644231b538f81e00174aa580</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4090,8 +4071,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1655 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1880 TWD</g:sale_price>
           <g:item_group_id>64474cd27e8d760014f9b33c</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -4598,7 +4578,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -4616,7 +4596,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -4634,7 +4614,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -4652,7 +4632,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6482a435d1ee980023ef2338</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -5502,8 +5482,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3580 TWD</g:price>
-          <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>64d20f42974691000dfdf182</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -6045,8 +6024,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -6063,8 +6041,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -6081,8 +6058,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -6099,8 +6075,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -6117,8 +6092,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1280 TWD</g:sale_price>
           <g:item_group_id>651e210f29c96c0023017b52</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -6215,10 +6189,10 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/652919dd92d9fdd062c01c2f/original.jpg?1697192413</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 耳罩式耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65291a1c2406a20011275003</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OneOdio</g:brand>
@@ -6236,7 +6210,7 @@
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65291a1c2406a20011275003</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OneOdio</g:brand>
@@ -6251,10 +6225,10 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6620daa2fc8711001adcb36a/original.jpg?1713429153</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 耳罩式耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65291a1c2406a20011275003</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OneOdio</g:brand>
@@ -6624,22 +6598,6 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
-          <g:id>656d3e1e5206b600201ef2fe</g:id>
-          <g:title>【福利品】Ohuhu Honolulu B 120色雙頭酒精性麥克筆套組</g:title>
-          <g:description>創立靈感來自美國夏威夷的高CP值繪畫用具品牌，多種顏色、多種款式任君挑選，雙筆頭、圓形筆桿設計，且安全無毒通過檢驗，一起發揮創意靈感，描繪屬於自己的色彩吧，點擊查看更多&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/656d3e1e5206b600201ef2fe</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/64f70051bdefdf0011bc4a86/original.jpg?1693909072</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>3680 TWD</g:price>
-          <g:sale_price>1699 TWD</g:sale_price>
-          <g:item_group_id>656d3e1e5206b600201ef2fe</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Ohuhu</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>65703f3fdaa615001db1ad72:65768653c497c0000f8152e5</g:id>
           <g:title>【Steve Madden】Apple watch 品牌格紋蘋果錶帶</g:title>
           <g:description>適用於Apple Watch全系列。我們的Apple Watch 錶帶以多種優良材質製成，包括樹脂、液態矽膠、不鏽鋼、人工皮革等，此外提供多種款式，讓您能根據自己的喜好和需求進行選擇。這些錶帶設計舒適時尚，同時具有透氣性、堅固耐用等特性，同時提升日常穿搭的時尚感。</g:description>
@@ -8128,7 +8086,7 @@
           <g:availability>in stock</g:availability>
           <g:price>9980 TWD</g:price>
           <g:sale_price>7499 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>65c076ce02e5e700171a6643</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OXS</g:brand>
@@ -8996,7 +8954,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6620daa2fc8711001adcb36a/original.jpg?1713429153</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>944 TWD</g:sale_price>
           <g:item_group_id>662b53801e93a70017b6ce0d</g:item_group_id>
@@ -10393,7 +10351,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
           <g:sale_price>2911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>667e58a47a056b0010ffd2ff</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10411,7 +10369,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
           <g:sale_price>2911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>667e58a47a056b0010ffd2ff</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10463,7 +10421,7 @@
           <g:availability>in stock</g:availability>
           <g:price>4780 TWD</g:price>
           <g:sale_price>1999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6684c506f88d25001c3f0336</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -10480,7 +10438,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6280 TWD</g:price>
           <g:sale_price>2911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66860c81100d420013e1b596</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10498,7 +10456,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6280 TWD</g:price>
           <g:sale_price>2911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66860c81100d420013e1b596</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -10743,8 +10701,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>18980 TWD</g:price>
-          <g:sale_price>12495 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>14200 TWD</g:sale_price>
           <g:item_group_id>66986ec6d545e300133d4e60</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -10760,8 +10717,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>33800 TWD</g:price>
-          <g:sale_price>24465 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>27800 TWD</g:sale_price>
           <g:item_group_id>66986ec6d545e300133d4e60</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -10912,8 +10868,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2280 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2480 TWD</g:sale_price>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10930,8 +10885,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2280 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2480 TWD</g:sale_price>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10948,8 +10902,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2280 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2480 TWD</g:sale_price>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -10966,8 +10919,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2280 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2480 TWD</g:sale_price>
           <g:item_group_id>66a8930c5bed5b001961f084</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -11217,7 +11169,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/64eda89ceb537b001d32aeab/original.jpg?1693296795</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>1619 TWD</g:sale_price>
           <g:item_group_id>66b2da3cb762e9556df0d993</g:item_group_id>
@@ -12688,7 +12640,7 @@
           <g:availability>in stock</g:availability>
           <g:price>7580 TWD</g:price>
           <g:sale_price>4211 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>66e16c37ddfa180016e0462a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -12942,7 +12894,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
-          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12959,7 +12910,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
-          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12976,7 +12926,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
-          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -12993,7 +12942,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>4990 TWD</g:price>
-          <g:sale_price>3690 TWD</g:sale_price>
           <g:item_group_id>66e7aa78444e1a001028546a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13010,7 +12958,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
-          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13027,7 +12974,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
-          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13044,7 +12990,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
-          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13061,7 +13006,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2790 TWD</g:price>
-          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13078,7 +13022,6 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>2790 TWD</g:price>
-          <g:sale_price>2490 TWD</g:sale_price>
           <g:item_group_id>66e7ad05b54d620022b3525d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13179,8 +13122,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -13197,8 +13139,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -13215,8 +13156,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -13233,8 +13173,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
-          <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>66f0e4d5f2f72a000c43b6a8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -13903,7 +13842,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
-          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13920,7 +13858,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
-          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13937,7 +13874,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
-          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -13954,7 +13890,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2190 TWD</g:price>
-          <g:sale_price>1890 TWD</g:sale_price>
           <g:item_group_id>671a09f55d5fe5000db416bb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ultimate Ears</g:brand>
@@ -14091,7 +14026,7 @@
           <g:availability>in stock</g:availability>
           <g:price>12800 TWD</g:price>
           <g:sale_price>3911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>671f5e6f60ccc8000af39db9</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -14798,7 +14733,7 @@
           <g:availability>in stock</g:availability>
           <g:price>8380 TWD</g:price>
           <g:sale_price>3911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>673c43326d4caa0010a27ee4</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -14832,7 +14767,7 @@
           <g:availability>in stock</g:availability>
           <g:price>8380 TWD</g:price>
           <g:sale_price>3911 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>673d4fd41e3ed90010d701e2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -15270,7 +15205,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>10780 TWD</g:price>
-          <g:sale_price>7980 TWD</g:sale_price>
+          <g:sale_price>6980 TWD</g:sale_price>
           <g:item_group_id>67569c1e78f1b6000ab78aa0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -15489,7 +15424,7 @@
           <g:availability>in stock</g:availability>
           <g:price>4580 TWD</g:price>
           <g:sale_price>2899 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>676272498fb187000c750970</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Kaibo</g:brand>
@@ -15682,7 +15617,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6880 TWD</g:price>
           <g:sale_price>2711 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>67652f841fdfaf000b89ef8f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -15699,8 +15634,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6280 TWD</g:price>
-          <g:sale_price>4120 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>4680 TWD</g:sale_price>
           <g:item_group_id>676e25e26d827b000ec4ed9f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -16043,40 +15977,6 @@
           <g:gender>unisex</g:gender>
           <g:color>白色</g:color>
         <g:custom_label_0>case</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
-          <g:id>67847b2c234582000b341e5a:67847b2cfed1cc0008cd90aa</g:id>
-          <g:title>【福利品】Cleer ARC II 開放式真無線藍牙耳機 (音樂版)</g:title>
-          <g:description>igogosprot 思博特  -台灣總代理 原廠公司貨，品質 / 來源有保障。ARC二代全新升級，最新LE Audio低功耗，高通驍龍暢聽技術，aptX Lossless無損音質如臨現場。3D動態空間音效搭配動態低音增強技術，沉浸式的影廳級效果。黑科技高精度6軸傳感器能提供雙向提醒，智能防丟失、頭部指令操控耳機、久坐提醒，養成健康好習慣。透過APP調整創造更多ARC的可能性。</g:description>
-          <g:link>https://store.igogosport.com/products/67847b2c234582000b341e5a?variation=67847b2cfed1cc0008cd90aa</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6459ffcff7afa8001d86ffad/original.jpg?1683619790</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>4680 TWD</g:price>
-          <g:sale_price>1299 TWD</g:sale_price>
-          <g:item_group_id>67847b2c234582000b341e5a</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cleer</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>燕尾藍</g:color>
-        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67847b2c234582000b341e5a:67d2397a633152000e19dfac</g:id>
-          <g:title>【福利品】Cleer ARC II 開放式真無線藍牙耳機 (音樂版)</g:title>
-          <g:description>igogosprot 思博特  -台灣總代理 原廠公司貨，品質 / 來源有保障。ARC二代全新升級，最新LE Audio低功耗，高通驍龍暢聽技術，aptX Lossless無損音質如臨現場。3D動態空間音效搭配動態低音增強技術，沉浸式的影廳級效果。黑科技高精度6軸傳感器能提供雙向提醒，智能防丟失、頭部指令操控耳機、久坐提醒，養成健康好習慣。透過APP調整創造更多ARC的可能性。</g:description>
-          <g:link>https://store.igogosport.com/products/67847b2c234582000b341e5a?variation=67d2397a633152000e19dfac</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67d23934ed5d68001114b5f5/original.jpg?1741830452</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>4680 TWD</g:price>
-          <g:sale_price>1299 TWD</g:sale_price>
-          <g:item_group_id>67847b2c234582000b341e5a</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cleer</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>天鵝白</g:color>
-        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>678e0444e887f0000d9d350e:678e044420e3f0000f513f0d</g:id>
           <g:title>【盒損品】OneOdio A71 DJ監聽耳機</g:title>
           <g:description>OneOdio 擁有10年創新發明經驗，以卓越音質、創新技術及時尚的設計和高度舒適聞名，創造頂級的音訊設備，A71擁有Hi-Res認證、40mm大單體已級雙規插孔，提供您錄音室等級的功能，點擊查看更多&gt;&gt;&gt;</g:description>
@@ -16373,8 +16273,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1099 TWD</g:sale_price>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -16391,8 +16290,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1099 TWD</g:sale_price>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -16409,8 +16307,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1099 TWD</g:sale_price>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -16427,8 +16324,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1099 TWD</g:sale_price>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -16445,8 +16341,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1099 TWD</g:sale_price>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -16463,8 +16358,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1099 TWD</g:sale_price>
           <g:item_group_id>67a47ff0f4d26c0010509a40</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -17132,40 +17026,6 @@
           <g:gender>unisex</g:gender>
           <g:color>藕荷紫</g:color>
         <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d236d5e0aa9b000a2b11b5:67d236d566ccf400094d40de</g:id>
-          <g:title>【盒損品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/67d236d5e0aa9b000a2b11b5?variation=67d236d566ccf400094d40de</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce7173e9b0010dfa681/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1512 TWD</g:sale_price>
-          <g:item_group_id>67d236d5e0aa9b000a2b11b5</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>67d236d5e0aa9b000a2b11b5:67d236d566ccf400094d40df</g:id>
-          <g:title>【盒損品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/67d236d5e0aa9b000a2b11b5?variation=67d236d566ccf400094d40df</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce725f616000b010e13/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1512 TWD</g:sale_price>
-          <g:item_group_id>67d236d5e0aa9b000a2b11b5</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>白色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>67d23f339c684d000cd0228c:67d23f334d8904000d0c8efa</g:id>
           <g:title>【盒損品】Cleer ARC II 開放式真無線藍牙耳機 (電競版)</g:title>
           <g:description>【igogosprot 思博特】 - 台灣總代理 原廠公司貨，品質 / 來源有保障。ARC二代全新升級，內附Dongle，超低延遲讓您在遊戲世界一夫當關！最新LE Audio低功耗，高通驍龍暢聽技術，aptX Lossless無損音質如臨現場。3D動態空間音效搭配動態低音增強技術，沉浸式的影廳級效果。黑科技高精度6軸傳感器能提供雙向提醒，智能防丟失、頭部指令操控耳機、久坐提醒，養成健康好習慣。透過APP調整創造更多ARC的可能性。</g:description>
@@ -17445,7 +17305,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6620daa2fc8711001adcb36a/original.jpg?1713429153</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>1062 TWD</g:sale_price>
           <g:item_group_id>67e36ac07caba100107cd3f5</g:item_group_id>
@@ -17512,7 +17372,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/64eda89ceb537b001d32aeab/original.jpg?1693296795</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>1439 TWD</g:sale_price>
           <g:item_group_id>67e4e8c3f3032d000e6c8698</g:item_group_id>
@@ -19983,7 +19843,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/681c2a8063a53100101934d0/original.jpeg?1746676351</g:image_link>
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜卡片與貼紙</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>450 TWD</g:price>
           <g:sale_price>405 TWD</g:sale_price>
           <g:item_group_id>681c107dd370bc0001520153</g:item_group_id>
@@ -20020,7 +19880,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1290 TWD</g:price>
           <g:sale_price>799 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>681d6ad584003e000d1122f3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Creative</g:brand>
@@ -21045,7 +20905,7 @@
           <g:availability>in stock</g:availability>
           <g:price>22800 TWD</g:price>
           <g:sale_price>11111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6851438bc837c2000fb78b0d</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>OXS</g:brand>
@@ -21346,7 +21206,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3980 TWD</g:price>
           <g:sale_price>2099 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6858f654ee8316000ecb3970</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21364,7 +21224,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3980 TWD</g:price>
           <g:sale_price>2099 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6858f654ee8316000ecb3970</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21433,7 +21293,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
           <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68592a2640423d0011a05198</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21451,7 +21311,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
           <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68592a2640423d0011a05198</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21469,7 +21329,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
           <g:sale_price>2111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68592a2640423d0011a05198</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21487,7 +21347,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>685a4eeb921623000c880e11</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21505,7 +21365,7 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>685a4eeb921623000c880e11</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Marley</g:brand>
@@ -21650,8 +21510,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
-          <g:sale_price>1799 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1980 TWD</g:sale_price>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -21668,8 +21527,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
-          <g:sale_price>1799 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1980 TWD</g:sale_price>
           <g:item_group_id>68639b242f8747000cd0cdbe</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -21721,7 +21579,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2211 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>686cdbb14cab59000e330333</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -21739,7 +21597,7 @@
           <g:availability>in stock</g:availability>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2680 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>686cdbb14cab59000e330333</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -22399,7 +22257,6 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -22417,7 +22274,6 @@
           <g:availability>out of stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -22435,7 +22291,6 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -22453,7 +22308,6 @@
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1299 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -22470,8 +22324,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1299 TWD</g:sale_price>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -22488,8 +22341,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1111 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1299 TWD</g:sale_price>
           <g:item_group_id>688b11a90baeb8000afa2cb0</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -22793,8 +22645,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
-          <g:sale_price>685 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>780 TWD</g:sale_price>
           <g:item_group_id>6895687cbe5c660016aa9328</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cardo</g:brand>
@@ -22927,7 +22778,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/689c3aa9856ebe000e4dcb1c/original.jpg?1755069097</g:image_link>
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3580 TWD</g:price>
           <g:sale_price>2280 TWD</g:sale_price>
           <g:item_group_id>689c3af62f3e34000c05c701</g:item_group_id>
@@ -24054,7 +23905,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
           <g:sale_price>4511 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68ca891c1501e10016307bdc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>BUTTONS</g:brand>
@@ -24072,7 +23923,7 @@
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
           <g:sale_price>4511 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-02T00:00+0800/2026-11-16T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>68ca891c1501e10016307bdc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>BUTTONS</g:brand>
@@ -24111,40 +23962,6 @@
           <g:brand>Motorola</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>68d4ddf911e802000e5a6c14:68d4ddf921d490000cbcb635</g:id>
-          <g:title>【福利品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/68d4ddf911e802000e5a6c14?variation=68d4ddf921d490000cbcb635</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce7173e9b0010dfa681/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1344 TWD</g:sale_price>
-          <g:item_group_id>68d4ddf911e802000e5a6c14</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑色</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>68d4ddf911e802000e5a6c14:68d4ddf921d490000cbcb636</g:id>
-          <g:title>【福利品】EarFun Air 2 NC 降噪真無線藍牙耳機</g:title>
-          <g:description>榮獲 2024日本VGP金賞肯定，通過Hi-Res認證及 LDAC 高解析編碼傳輸，藍牙5.3，超低功耗穩定連接，3D環繞立體空間音效，快充10分鐘可使用2小時支援無線充電，IPX5防水，採用 SweatShield 技術，&lt;55ms超低延遲， 點我查看更多&gt;&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/68d4ddf911e802000e5a6c14?variation=68d4ddf921d490000cbcb636</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/67502ce725f616000b010e13/original.jpg?1733307622</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>2580 TWD</g:price>
-          <g:sale_price>1344 TWD</g:sale_price>
-          <g:item_group_id>68d4ddf911e802000e5a6c14</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>EarFun</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>白色</g:color>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>68e4de6086488f00146fec56:68e4de60f7717900123d04d5</g:id>
           <g:title>【盒損品】Cleer ALPHA 智能降噪耳罩無線耳機</g:title>
@@ -25185,7 +25002,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>7680 TWD</g:price>
-          <g:sale_price>4999 TWD</g:sale_price>
+          <g:sale_price>3999 TWD</g:sale_price>
           <g:item_group_id>691ab7074c6cec00143fd269</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -25518,7 +25335,7 @@
           <g:product_type></g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>8980 TWD</g:price>
           <g:sale_price>7980 TWD</g:sale_price>
           <g:item_group_id>6926759a80864200162ee18c</g:item_group_id>
@@ -29061,7 +28878,7 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>11280 TWD</g:price>
           <g:sale_price>8009 TWD</g:sale_price>
           <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
@@ -29096,7 +28913,7 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>5695 TWD</g:sale_price>
           <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
@@ -31995,7 +31812,7 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>14680 TWD</g:price>
           <g:sale_price>11925 TWD</g:sale_price>
           <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
@@ -33357,7 +33174,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67f49ddec840de000ccb5463/original.jpg?1744084446</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>10800 TWD</g:price>
           <g:sale_price>8082 TWD</g:sale_price>
           <g:item_group_id>6ab2389cfcababb58e82f7e1</g:item_group_id>
@@ -34490,8 +34307,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1411 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6aeaa5ad0a6b8b97895799dc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -34508,8 +34324,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1411 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6aeaa5ad0a6b8b97895799dc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -34526,8 +34341,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1411 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-15T00:00+0800/2026-11-17T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6aeaa5ad0a6b8b97895799dc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>JLab</g:brand>
@@ -34543,7 +34357,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34561,7 +34375,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34579,7 +34393,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
+          <g:availability_date>2026-12-17T04:00+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34901,7 +34715,7 @@
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>10780 TWD</g:price>
-          <g:sale_price>6384 TWD</g:sale_price>
+          <g:sale_price>5584 TWD</g:sale_price>
           <g:item_group_id>6af4366d10c97d176764b6c7</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -34918,7 +34732,7 @@
           <g:condition>refurbished</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>10780 TWD</g:price>
-          <g:sale_price>7182 TWD</g:sale_price>
+          <g:sale_price>6282 TWD</g:sale_price>
           <g:item_group_id>6af43677e77ac5c88c424543</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -35159,40 +34973,4 @@
           <g:brand>OXS</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
-          <g:id>6af6da2cad4012f104d0d319:6af6da2a5ec7b000110f3491</g:id>
-          <g:title>【預購】myFirst Insta magiBox 語音繪圖列印機</g:title>
-          <g:description>天馬行空的點子，只要開口說，AI 就能聽懂並立刻畫出來。將口述故事自動轉化為連續四格漫畫，孩子可自行著色、裝訂成冊，打造專屬睡前故事書。內建動漫、卡通、鉛筆、線稿、墨水、塗鴉六種風格，同一句話換個風格再說一次，就是另一幅畫。告別墨水髒污，採用熱感應技術，創作時手不沾墨，桌面也乾乾淨淨。</g:description>
-          <g:link>https://store.igogosport.com/products/6af6da2cad4012f104d0d319?variation=6af6da2a5ec7b000110f3491</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6af6da2bb02352a046fdc54c/original.jpg?1794562603=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
-          <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
-          <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
-          <g:price>3280 TWD</g:price>
-          <g:sale_price>2249 TWD</g:sale_price>
-          <g:item_group_id>6af6da2cad4012f104d0d319</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>myFirst</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>水藍色</g:color>
-        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
-          <g:id>6af6da2cad4012f104d0d319:6af6da2a5ec7b000110f3492</g:id>
-          <g:title>【預購】myFirst Insta magiBox 語音繪圖列印機</g:title>
-          <g:description>天馬行空的點子，只要開口說，AI 就能聽懂並立刻畫出來。將口述故事自動轉化為連續四格漫畫，孩子可自行著色、裝訂成冊，打造專屬睡前故事書。內建動漫、卡通、鉛筆、線稿、墨水、塗鴉六種風格，同一句話換個風格再說一次，就是另一幅畫。告別墨水髒污，採用熱感應技術，創作時手不沾墨，桌面也乾乾淨淨。</g:description>
-          <g:link>https://store.igogosport.com/products/6af6da2cad4012f104d0d319?variation=6af6da2a5ec7b000110f3492</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/6af6da2bb02352a046fdc54c/original.jpg?1794562603=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
-          <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
-          <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-15T04:00+0800</g:availability_date>
-          <g:price>3280 TWD</g:price>
-          <g:sale_price>2249 TWD</g:sale_price>
-          <g:item_group_id>6af6da2cad4012f104d0d319</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>myFirst</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>櫻花粉</g:color>
-        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>    </channel></rss>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>    </channel></rss>
