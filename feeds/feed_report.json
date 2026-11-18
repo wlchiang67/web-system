@@ -7,21 +7,21 @@
   "cardo_acc": 35,
   "overear": 152,
   "speaker": 362,
-  "tws": 266,
+  "tws": 260,
   "hrm": 7,
   "kids_watch": 71,
   "kids_cam": 51,
-  "wired": 16,
   "mic": 16,
   "bone": 11,
   "3dpen": 39,
   "hearing": 7,
-  "open": 107,
+  "open": 109,
+  "wired": 8,
   "turntable": 3,
   "travel": 76,
   "watchband": 71,
   "soundbar": 12,
-  "(none)": 8,
+  "(none)": 10,
   "transmitter": 20,
   "charger": 10,
   "accessory": 56,
@@ -35,8 +35,8 @@
   "cardo_bike": 2
  },
  "label1": {
-  "(none)": 1122,
-  "outlet": 966
+  "(none)": 1110,
+  "outlet": 968
  },
  "brand": {
   "Ohuhu": 71,
@@ -44,17 +44,17 @@
   "Cardo": 80,
   "iClever": 91,
   "(none)": 74,
-  "Cleer": 79,
+  "Cleer": 81,
   "Urbanista": 16,
   "Scosche": 19,
   "Marley": 36,
   "Tribit": 59,
-  "myFirst": 218,
+  "myFirst": 220,
   "Puro": 55,
   "JLab": 305,
-  "Marshall": 60,
+  "Marshall": 59,
   "EarFun": 100,
-  "Audio-Technica": 46,
+  "Audio-Technica": 33,
   "Kaibo": 12,
   "BeHear": 3,
   "Audio Pro": 58,
@@ -84,9 +84,9 @@
   "Looki": 12
  },
  "label0_source": {
-  "title": 2068,
-  "ptype": 12,
-  "(none)": 8
+  "title": 2063,
+  "ptype": 5,
+  "(none)": 10
  },
  "unlabeled_instock": [
   "KeySmart SmartLock 智慧定位 TSA 密碼海關鎖",
@@ -94,6 +94,6 @@
   "myFirst Sketch Clear 16吋 透明繪圖板",
   "myFirst Sketch Clear 16吋 透明繪圖板"
  ],
- "generated_at": "2026-11-18T03:57:15+08:00",
- "items": 2088
+ "generated_at": "2026-11-19T03:27:56+08:00",
+ "items": 2078
 }
