@@ -147,7 +147,7 @@ const S={months:new Set(), plats:new Set(), brands:new Set(), type:"all", platQ:
 const isEC=code=>(TEAM[code]||"").includes("電商");
 const typeOK=code=>S.type==="all"||(S.type==="ec"?isEC(code):!isEC(code));
 
-fetch("data/profit.json").then(r=>r.json()).then(d=>{
+fetch("data/profit.json?v="+Date.now(),{cache:"no-store"}).then(r=>r.json()).then(d=>{
   DATA=d;
   // 費用未登完的月份不列入儀表板
   CH=d.channel_rows.map(r=>({ym:r[0],code:r[1],plat:r[2],team:r[3],rev:r[4],cogs:r[5],fee:r[6]+r[7]}))
