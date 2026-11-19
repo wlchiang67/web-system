@@ -89,7 +89,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63171a22a8935f00137ff3c7/original.jpg?1662458402</g:image_link>
           <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜安全帽藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>5280 TWD</g:price>
           <g:sale_price>4680 TWD</g:sale_price>
           <g:item_group_id>63171b064548e10013d8a460</g:item_group_id>
@@ -454,7 +454,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63184667de3c96001fac1757/original.jpg?1662535271</g:image_link>
           <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜安全帽耳機 - 套裝配件</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>4680 TWD</g:price>
           <g:sale_price>3980 TWD</g:sale_price>
           <g:item_group_id>6318470b324d0d001915dfb8</g:item_group_id>
@@ -1083,57 +1083,6 @@
           <g:gender>unisex</g:gender>
           <g:color>黑色</g:color>
         <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>63196858bf9b0e0001040a76:6319685e822727000152d35d</g:id>
-          <g:title>【福利品】myFirst Fone R1 4G智慧兒童手錶</g:title>
-          <g:description>【福利品】myFirst Fone R1 4G智慧兒童手錶</g:description>
-          <g:link>https://store.igogosport.com/products/63196858bf9b0e0001040a76?variation=6319685e822727000152d35d</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631ef1ab2eaad40019e2de3f/original.jpg?1662972331</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>5980 TWD</g:price>
-          <g:sale_price>2599 TWD</g:sale_price>
-          <g:item_group_id>63196858bf9b0e0001040a76</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>myFirst</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑色</g:color>
-        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>63196858bf9b0e0001040a76:6319685e822727000152d367</g:id>
-          <g:title>【福利品】myFirst Fone R1 4G智慧兒童手錶</g:title>
-          <g:description>【福利品】myFirst Fone R1 4G智慧兒童手錶</g:description>
-          <g:link>https://store.igogosport.com/products/63196858bf9b0e0001040a76?variation=6319685e822727000152d367</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631ef1b1d1e9bf0019cb9f10/original.jpg?1662972337</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>5980 TWD</g:price>
-          <g:sale_price>2599 TWD</g:sale_price>
-          <g:item_group_id>63196858bf9b0e0001040a76</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>myFirst</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>藍色</g:color>
-        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>63196858bf9b0e0001040a76:6319685e822727000152d36b</g:id>
-          <g:title>【福利品】myFirst Fone R1 4G智慧兒童手錶</g:title>
-          <g:description>【福利品】myFirst Fone R1 4G智慧兒童手錶</g:description>
-          <g:link>https://store.igogosport.com/products/63196858bf9b0e0001040a76?variation=6319685e822727000152d36b</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631ef1b3c66cac002ba8d4ff/original.jpg?1662972339</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>5980 TWD</g:price>
-          <g:sale_price>2599 TWD</g:sale_price>
-          <g:item_group_id>63196858bf9b0e0001040a76</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>myFirst</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>紫色</g:color>
-        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>63196858bf9b0e0001040a88:6319685b822727000152d285</g:id>
           <g:title>【福利品】Tribit XSound Go 藍牙喇叭</g:title>
           <g:description>【福利品】Tribit XSound Go 藍牙喇叭</g:description>
@@ -1464,7 +1413,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/631987f0ebd4c20025684ac9/original.jpg?1662617584</g:image_link>
           <g:product_type>找商品 &gt; 藍牙喇叭 &gt; 攜帶式藍牙喇叭</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>4280 TWD</g:price>
           <g:sale_price>2999 TWD</g:sale_price>
           <g:item_group_id>63198a298c9ce9001c814b35</g:item_group_id>
@@ -2427,125 +2376,38 @@
           <g:gender>unisex</g:gender>
           <g:color>藍色</g:color>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:633a547d6aa175037e7ff897</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=633a547d6aa175037e7ff897</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebe1811af001f4a3fec/original.jpg?1662951102</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>濃醇摩卡</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:633a547d6aa175037e7ff898</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=633a547d6aa175037e7ff898</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebe1811af00134a4027/original.jpg?1662951102</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>榛果可可</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:66b2e452032d9f00184853cc</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=66b2e452032d9f00184853cc</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebeacfd4b00229c5169/original.jpg?1662951102</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>黑巧克力</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:66cea04e62be1a00181ca70a</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=66cea04e62be1a00181ca70a</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebed1e9bf001ccb7ab6/original.jpg?1662951102</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>焦糖瑪奇朵</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:66cea04e62be1a00181ca70b</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=66cea04e62be1a00181ca70b</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebe8d8b6900106fa769/original.jpg?1662951102</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-          <g:color>蜂蜜奶茶</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:66cea04e62be1a00181ca70c</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=66cea04e62be1a00181ca70c</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebe7c7bd6003102f7dd/original.jpg?1662951102</g:image_link>
+          <g:id>633a539d7c9e200016dcfc15:633a539d2b2afe000dc364f0</g:id>
+          <g:title>【福利品】Cardo FREECOM 2X 安全帽通訊藍牙耳機</g:title>
+          <g:description>   ▌商品規格產品型號：Cardo FREECOM 2X 安全帽通訊藍牙耳機藍牙版本：藍牙 5.2揚聲器直徑：40mm JBL喇叭最遠機與機對講距離：0.8km廣播響應頻率： 76-108MHz使用時間：13 小時充電時間：2 小時快速充電：快充 20 分鐘後通話時間為 2 小時待機時間：10天充電接口：USB-C韌體更新：透過APP更新用戶介面：多國語言選擇耳機尺寸：48mm x 78mm x 20mm耳機重量：37gNCC：CCAH22LP0650T</g:description>
+          <g:link>https://store.igogosport.com/products/633a539d7c9e200016dcfc15?variation=633a539d2b2afe000dc364f0</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63171c2f287f6800313d553b/original.jpg?1662458927</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>4599 TWD</g:sale_price>
+          <g:item_group_id>633a539d7c9e200016dcfc15</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
+          <g:brand>Cardo</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-          <g:color>草莓牛奶</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
-          <g:id>633a547d7b8d6b0019725dd4:66cea04e62be1a00181ca70d</g:id>
-          <g:title>【福利品】JLab Go Air TONES 真無線藍牙耳機(Type-A版)</g:title>
-          <g:description>全球藍牙耳機專業媒體 - 評價報導 耳機人 — 耳機大廠JLab聯手美妝品牌ORLY    ▌商品規格產品型號：JLab Go Air TONES 真無線藍牙耳機藍牙版本：5.1防水係數：IPX4音頻解碼：SBC、AAC響應範圍：20Hz - 20KHz耳機重量：3.7g (單耳) / 34.5g (耳機+充電盒)耳機電量：單耳8小時 / 充電盒24小時 (總共32小時)充電時間：2小時充電接頭：Type-A待機時間：60+小時支援協議：HSP / HF</g:description>
-          <g:link>https://store.igogosport.com/products/633a547d7b8d6b0019725dd4?variation=66cea04e62be1a00181ca70d</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631e9ebead03fb001379a27c/original.jpg?1662951102</g:image_link>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>633a539d7c9e200016dcfc15:64a4cf8a9ee4c4001b781816</g:id>
+          <g:title>【福利品】Cardo FREECOM 2X 安全帽通訊藍牙耳機</g:title>
+          <g:description>   ▌商品規格產品型號：Cardo FREECOM 2X 安全帽通訊藍牙耳機藍牙版本：藍牙 5.2揚聲器直徑：40mm JBL喇叭最遠機與機對講距離：0.8km廣播響應頻率： 76-108MHz使用時間：13 小時充電時間：2 小時快速充電：快充 20 分鐘後通話時間為 2 小時待機時間：10天充電接口：USB-C韌體更新：透過APP更新用戶介面：多國語言選擇耳機尺寸：48mm x 78mm x 20mm耳機重量：37gNCC：CCAH22LP0650T</g:description>
+          <g:link>https://store.igogosport.com/products/633a539d7c9e200016dcfc15?variation=64a4cf8a9ee4c4001b781816</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63171c2f50a15a002ea254b1/original.jpg?1662458927</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
-          <g:price>1180 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
-          <g:item_group_id>633a547d7b8d6b0019725dd4</g:item_group_id>
+          <g:price>13800 TWD</g:price>
+          <g:sale_price>7999 TWD</g:sale_price>
+          <g:item_group_id>633a539d7c9e200016dcfc15</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>JLab</g:brand>
+          <g:brand>Cardo</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-          <g:color>香草拿鐵</g:color>
-        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>633d0d7f2daea80025c47565</g:id>
           <g:title>Ohuhu 24色雙頭酒精性麥克筆套組 - 鮮明色系</g:title>
           <g:description>• 繽紛色系 | 24色標準色可以選擇 • 軟硬雙頭 | 雙頭可選擇，360度筆劃任你發揮 • 筆頭可換 | 軟筆頭可雙邊替換延長使用 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢• 圓形筆桿 | 人體工學圓形筆桿好握舒適• 安全無毒 |  通過美國、歐盟、中國環保檢測• 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢• 優質墨水 | 顏色飽和均勻易上色，簡單漸層疊色• 查詢快速 | 標準色系，筆帽與色卡對應查詢快速• 防水筆袋 | 內附防水筆袋收納簡單安心</g:description>
@@ -2601,7 +2463,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63171a22a8935f00137ff3c7/original.jpg?1662458402</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>5280 TWD</g:price>
           <g:sale_price>3399 TWD</g:sale_price>
           <g:item_group_id>633e9376fab94d002b49d2c5</g:item_group_id>
@@ -2649,7 +2511,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/631716406aa0dc784fe3c06e/original.jpg?1662457408</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
           <g:sale_price>2199 TWD</g:sale_price>
           <g:item_group_id>634e66f71328ee0028c9d128</g:item_group_id>
@@ -3041,6 +2903,38 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>63b636c2827e0e00117e0832:63b636c2a6ee670008c924a5</g:id>
+          <g:title>【福利品】Cardo FREECOM 4X 安全帽通訊藍牙耳機</g:title>
+          <g:description>JBL極致音效、自然語音操作  • 40mm JBL音響絕佳音效 • 升級藍牙5.2，快速穩定 • &quot;Hey Cardo&quot;自然語音操控 • Live Intercom對講連接技術 • 回到範圍內即可自動連接 • 支援1 - 4位騎士對講</g:description>
+          <g:link>https://store.igogosport.com/products/63b636c2827e0e00117e0832?variation=63b636c2a6ee670008c924a5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63180ecb057500001c4b7f88/original.jpg?1662521035</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>8999 TWD</g:price>
+          <g:sale_price>5799 TWD</g:sale_price>
+          <g:item_group_id>63b636c2827e0e00117e0832</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>63b636c2827e0e00117e0832:63b636c2a6ee670008c924a6</g:id>
+          <g:title>【福利品】Cardo FREECOM 4X 安全帽通訊藍牙耳機</g:title>
+          <g:description>JBL極致音效、自然語音操作  • 40mm JBL音響絕佳音效 • 升級藍牙5.2，快速穩定 • &quot;Hey Cardo&quot;自然語音操控 • Live Intercom對講連接技術 • 回到範圍內即可自動連接 • 支援1 - 4位騎士對講</g:description>
+          <g:link>https://store.igogosport.com/products/63b636c2827e0e00117e0832?variation=63b636c2a6ee670008c924a6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63180ecbe165eb00131ef86e/original.jpg?1662521035</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>16800 TWD</g:price>
+          <g:sale_price>11799 TWD</g:sale_price>
+          <g:item_group_id>63b636c2827e0e00117e0832</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>63b63768827e0e00147e096d:63b6376848e0e4000f8c4b3a</g:id>
           <g:title>【福利品】myFirst Insta Wi 多功能兒童拍立得</g:title>
           <g:description>隨拍即印！與孩子的拍貼生活 打印標籤｜創作與打印出各尺寸專屬黏貼標籤 APP整合｜可連接手機，用App印出想要的照片 編輯創作｜專屬App隨意塗鴉，激發創意思考 高清畫質｜1200萬畫素，高清影像品質 隨拍即印｜免墨水高清熱感應技術，10秒印出照片 多款濾鏡｜預設多種濾鏡與相框，建立自我風格 前後鏡頭｜一鍵切換，內建超廣角與多種濾鏡 內置電池｜內建 1500mAh 電池，創意不間斷 迷你尺寸｜232g 輕巧體積跟著孩子到哪都行</g:description>
@@ -3134,7 +3028,7 @@
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
-          <g:sale_price>499 TWD</g:sale_price>
+          <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>63bf6d3f1d5add4560c959f7</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ohuhu</g:brand>
@@ -3445,22 +3339,6 @@
           <g:gender>unisex</g:gender>
           <g:color>粉紅色</g:color>
         <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
-          <g:id>63e202fc889fdb0020673c76</g:id>
-          <g:title>【福利品】Cardo FREECOM / SPIRIT 系列 JBL 音響套裝</g:title>
-          <g:description>官網獨家販售  • 全球重機騎乘通訊領導品牌 • 40mm 高清音質 JBL 喇叭 • 相容 FREECOM / SPIRIT 系列耳機 • 支援軟線或支架麥克風 • 3.5mm連接孔與市面設備相容 • 適合大部分安全帽 (半罩式不適用)</g:description>
-          <g:link>https://store.igogosport.com/products/63e202fc889fdb0020673c76</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/631847a82d1a720025eca5e8/original.jpg?1662535592</g:image_link>
-          <g:product_type></g:product_type>
-          <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>4980 TWD</g:price>
-          <g:sale_price>2799 TWD</g:sale_price>
-          <g:item_group_id>63e202fc889fdb0020673c76</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Cardo</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0>cardo_acc</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>63ec4379a5710f00176c2fdb</g:id>
           <g:title>【福利品】EarFun UBOOM L 無線藍牙喇叭</g:title>
           <g:description>奧地利音樂大師調音 日本VGP金賞獎  • 日本金獎｜榮獲日本VGP藍牙喇叭金賞獎冠軍 • 大師調音｜奧地利音樂大師Oluv，親自調音 • 聽覺饗宴｜55 mm大動態單體，聲音清晰解析 • 防塵防水｜創新 Sweatshield 技術,IP67 防塵防水 • 支援串聯｜可連接兩台UBOOM L，打造立體音效 • 長效續航｜電力長達 16 小時，高效 USB-C 充電</g:description>
@@ -4246,6 +4124,91 @@
           <g:gender>unisex</g:gender>
           <g:color>雲彩粉</g:color>
         <g:custom_label_0>open</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>64619f5fc50059000e50c9f8:6461fa4c56ba0b001e97e0f4</g:id>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
+          <g:link>https://store.igogosport.com/products/64619f5fc50059000e50c9f8?variation=6461fa4c56ba0b001e97e0f4</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64619f209c76cb00110c07c0/original.jpg?1684119328</g:image_link>
+          <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜戶外運動藍牙耳機</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>8980 TWD</g:price>
+          <g:sale_price>7980 TWD</g:sale_price>
+          <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>單入組 黑色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>64619f5fc50059000e50c9f8:6461fa4c56ba0b001e97e0f5</g:id>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
+          <g:link>https://store.igogosport.com/products/64619f5fc50059000e50c9f8?variation=6461fa4c56ba0b001e97e0f5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64619f205bb8f800177b9fcd/original.jpg?1684119328</g:image_link>
+          <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜戶外運動藍牙耳機</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>8980 TWD</g:price>
+          <g:sale_price>7980 TWD</g:sale_price>
+          <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>單入組 白色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>64619f5fc50059000e50c9f8:677219188ac24b000ed04196</g:id>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
+          <g:link>https://store.igogosport.com/products/64619f5fc50059000e50c9f8?variation=677219188ac24b000ed04196</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6772186924c393000a70bb3d/original.jpg?1735530601</g:image_link>
+          <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜戶外運動藍牙耳機</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>18800 TWD</g:price>
+          <g:sale_price>15280 TWD</g:sale_price>
+          <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>雙入組 黑色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>64619f5fc50059000e50c9f8:677219188ac24b000ed04197</g:id>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
+          <g:link>https://store.igogosport.com/products/64619f5fc50059000e50c9f8?variation=677219188ac24b000ed04197</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6772186d8bc58100104bf2ae/original.jpg?1735530605</g:image_link>
+          <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜戶外運動藍牙耳機</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>18800 TWD</g:price>
+          <g:sale_price>15280 TWD</g:sale_price>
+          <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>雙入組 白色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>64619f5fc50059000e50c9f8:6acc8857a13ce3000afe4e8c</g:id>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
+          <g:link>https://store.igogosport.com/products/64619f5fc50059000e50c9f8?variation=6acc8857a13ce3000afe4e8c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6acc871aae0619ee0d950af8/original.jpg?1791788826=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找品牌 &gt; Cardo｜戶外/安全帽藍牙耳機 &gt; Cardo｜戶外運動藍牙耳機</g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>33800 TWD</g:price>
+          <g:sale_price>29980 TWD</g:sale_price>
+          <g:item_group_id>64619f5fc50059000e50c9f8</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>四入組 黑色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>6462f3da5e5075002354a348</g:id>
           <g:title>Ohuhu 320色雙頭酒精性麥克筆套組</g:title>
           <g:description>• 繽紛色系 | 320種繽紛色系可以選擇 • 軟硬雙頭 | 雙頭可選擇，360度筆劃任你發揮 • 筆頭可換 | 軟筆頭可雙邊替換延長使用 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢 • 圓形筆桿 | 人體工學圓形筆桿好握舒適 • 安全無毒 | 通過美國、歐盟、中國環保檢測 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢 • 優質墨水 | 顏色飽和均勻易上色，簡單漸層疊色 • 查詢快速 | 標準色系，筆帽與色卡對應查詢快速 • 防水筆袋 | 內附防水筆</g:description>
@@ -5988,7 +5951,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6620daa2fc8711001adcb36a/original.jpg?1713429153</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 耳罩式耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>999 TWD</g:sale_price>
           <g:sale_price_effective_date>2026-11-16T00:00+0800/2026-11-26T00:00+0800</g:sale_price_effective_date>
@@ -7609,6 +7572,22 @@
           <g:gender>unisex</g:gender>
           <g:color>紫色</g:color>
         <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6597da916e1cc1002053811f</g:id>
+          <g:title>【福利品】Cardo PACKTALK EDGE/PRO JBL 音響套裝</g:title>
+          <g:description>• 全球重機騎乘通訊領導品牌 • 40mm 高清音質 JBL 喇叭 • 相容 PACKTALK EDGE 耳機 • 支援軟線或支架麥克風 • 3.5mm連接孔與市面設備相容 • 適合大部分安全帽 (半罩式不適用)</g:description>
+          <g:link>https://store.igogosport.com/products/6597da916e1cc1002053811f</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63184667de3c96001fac1757/original.jpg?1662535271</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>4680 TWD</g:price>
+          <g:sale_price>3184 TWD</g:sale_price>
+          <g:item_group_id>6597da916e1cc1002053811f</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_acc</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>659b59cfd773d20023c3fee4</g:id>
           <g:title>Philips PSE0540 智能會議麥克風揚聲器</g:title>
           <g:description>極致音質體驗！立體、長距、全向收音，智能降噪、強勁揚聲，讓通話清晰順暢。自動記錄、隨插即用，Sembly支援，操作簡單方便，點擊查看更多&gt;&gt;&gt;</g:description>
@@ -8717,7 +8696,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6620daa2fc8711001adcb36a/original.jpg?1713429153</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>944 TWD</g:sale_price>
           <g:item_group_id>662b53801e93a70017b6ce0d</g:item_group_id>
@@ -9876,7 +9855,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/631716406aa0dc784fe3c06e/original.jpg?1662457408</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3680 TWD</g:price>
           <g:sale_price>2799 TWD</g:sale_price>
           <g:item_group_id>6670e50c66db5c00131706ea</g:item_group_id>
@@ -10236,7 +10215,7 @@
           <g:condition>refurbished</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2580 TWD</g:price>
-          <g:sale_price>1099 TWD</g:sale_price>
+          <g:sale_price>1199 TWD</g:sale_price>
           <g:item_group_id>668de68e0b4e4d000d06c178</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>EarFun</g:brand>
@@ -11131,7 +11110,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63171a22a8935f00137ff3c7/original.jpg?1662458402</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>5280 TWD</g:price>
           <g:sale_price>4099 TWD</g:sale_price>
           <g:item_group_id>66bf1bc7d07264000d80f6ed</g:item_group_id>
@@ -11222,6 +11201,74 @@
           <g:gender>unisex</g:gender>
           <g:color>雙入組</g:color>
         <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>66c2a475ed247a0023429a5e:66c2a4753928c80008bd5874</g:id>
+          <g:title>【盒損品】Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>PACKTALK OUTDOOR 是一款專為戶外運動設計的頂尖通訊藍牙耳機。它結合了強大的通訊功能和耐用的設計，讓您在滑雪、攀岩、騎車、越野中保持連絡。透過先進的技術，獨家第二代DMC 動態網狀通訊技術，同時具備IP67防塵防水。搭載10小時續航力和40mm JBL音響絕佳音效，PACKTALK OUTDOOR 是您在戶外冒險中最佳的夥伴。</g:description>
+          <g:link>https://store.igogosport.com/products/66c2a475ed247a0023429a5e?variation=66c2a4753928c80008bd5874</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64619f209c76cb00110c07c0/original.jpg?1684119328</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>8980 TWD</g:price>
+          <g:sale_price>7199 TWD</g:sale_price>
+          <g:item_group_id>66c2a475ed247a0023429a5e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>單入組 黑色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>66c2a475ed247a0023429a5e:66c2a4753928c80008bd5875</g:id>
+          <g:title>【盒損品】Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>PACKTALK OUTDOOR 是一款專為戶外運動設計的頂尖通訊藍牙耳機。它結合了強大的通訊功能和耐用的設計，讓您在滑雪、攀岩、騎車、越野中保持連絡。透過先進的技術，獨家第二代DMC 動態網狀通訊技術，同時具備IP67防塵防水。搭載10小時續航力和40mm JBL音響絕佳音效，PACKTALK OUTDOOR 是您在戶外冒險中最佳的夥伴。</g:description>
+          <g:link>https://store.igogosport.com/products/66c2a475ed247a0023429a5e?variation=66c2a4753928c80008bd5875</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64619f205bb8f800177b9fcd/original.jpg?1684119328</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>8980 TWD</g:price>
+          <g:sale_price>7199 TWD</g:sale_price>
+          <g:item_group_id>66c2a475ed247a0023429a5e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>單入組 白色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>66c2a475ed247a0023429a5e:67be76342c4424000d89aaf5</g:id>
+          <g:title>【盒損品】Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>PACKTALK OUTDOOR 是一款專為戶外運動設計的頂尖通訊藍牙耳機。它結合了強大的通訊功能和耐用的設計，讓您在滑雪、攀岩、騎車、越野中保持連絡。透過先進的技術，獨家第二代DMC 動態網狀通訊技術，同時具備IP67防塵防水。搭載10小時續航力和40mm JBL音響絕佳音效，PACKTALK OUTDOOR 是您在戶外冒險中最佳的夥伴。</g:description>
+          <g:link>https://store.igogosport.com/products/66c2a475ed247a0023429a5e?variation=67be76342c4424000d89aaf5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67be752841a588000e304b78/original.jpg?1740535080</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>18800 TWD</g:price>
+          <g:sale_price>13399 TWD</g:sale_price>
+          <g:item_group_id>66c2a475ed247a0023429a5e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>雙入組 黑色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>66c2a475ed247a0023429a5e:67be76342c4424000d89aaf6</g:id>
+          <g:title>【盒損品】Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>PACKTALK OUTDOOR 是一款專為戶外運動設計的頂尖通訊藍牙耳機。它結合了強大的通訊功能和耐用的設計，讓您在滑雪、攀岩、騎車、越野中保持連絡。透過先進的技術，獨家第二代DMC 動態網狀通訊技術，同時具備IP67防塵防水。搭載10小時續航力和40mm JBL音響絕佳音效，PACKTALK OUTDOOR 是您在戶外冒險中最佳的夥伴。</g:description>
+          <g:link>https://store.igogosport.com/products/66c2a475ed247a0023429a5e?variation=67be76342c4424000d89aaf6</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67be752a15a13c000af84caf/original.jpg?1740535082</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>18800 TWD</g:price>
+          <g:sale_price>13399 TWD</g:sale_price>
+          <g:item_group_id>66c2a475ed247a0023429a5e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>雙入組 白色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>66c303338c2c530022a1be48:66c30333e0eb790018eef443</g:id>
           <g:title>【盒損品】myFirst Insta Wi 多功能兒童拍立得</g:title>
           <g:description>隨拍即印！與孩子的拍貼生活 打印標籤｜創作與打印出各尺寸專屬黏貼標籤 APP整合｜可連接手機，用App印出想要的照片 編輯創作｜專屬App隨意塗鴉，激發創意思考 高清畫質｜1200萬畫素，高清影像品質 隨拍即印｜免墨水高清熱感應技術，10秒印出照片 多款濾鏡｜預設多種濾鏡與相框，建立自我風格 前後鏡頭｜一鍵切換，內建超廣角與多種濾鏡 內置電池｜內建 1500mAh 電池，創意不間斷 迷你尺寸｜232g 輕巧體積跟著孩子到哪都行</g:description>
@@ -11565,7 +11612,7 @@
           <g:condition>refurbished</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>980 TWD</g:price>
-          <g:sale_price>599 TWD</g:sale_price>
+          <g:sale_price>680 TWD</g:sale_price>
           <g:item_group_id>66cd8aec98c8727d7110f993</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Skross</g:brand>
@@ -11925,6 +11972,38 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>66d944a78a2ea0001734fb2f:66d944a7595436001e1587f0</g:id>
+          <g:title>【盒損品】Cardo FREECOM 2X 安全帽通訊藍牙耳機</g:title>
+          <g:description>全球重機騎乘通訊領導品牌 ，搭配的是 40mm JBL音響給您絕佳音效體驗，同時全新升級藍牙5.2 快速穩定連線，聊天對話不斷斷續續， Live Intercom對講連接技術，回到範圍內即可自動連接 •，支援 2 位騎士對講，讓你騎乘時不孤單，點擊查看更多資訊。</g:description>
+          <g:link>https://store.igogosport.com/products/66d944a78a2ea0001734fb2f?variation=66d944a7595436001e1587f0</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63171c2f287f6800313d553b/original.jpg?1662458927</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>5699 TWD</g:sale_price>
+          <g:item_group_id>66d944a78a2ea0001734fb2f</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>66d944a78a2ea0001734fb2f:66d944a7595436001e1587f1</g:id>
+          <g:title>【盒損品】Cardo FREECOM 2X 安全帽通訊藍牙耳機</g:title>
+          <g:description>全球重機騎乘通訊領導品牌 ，搭配的是 40mm JBL音響給您絕佳音效體驗，同時全新升級藍牙5.2 快速穩定連線，聊天對話不斷斷續續， Live Intercom對講連接技術，回到範圍內即可自動連接 •，支援 2 位騎士對講，讓你騎乘時不孤單，點擊查看更多資訊。</g:description>
+          <g:link>https://store.igogosport.com/products/66d944a78a2ea0001734fb2f?variation=66d944a7595436001e1587f1</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63171c2f50a15a002ea254b1/original.jpg?1662458927</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>13800 TWD</g:price>
+          <g:sale_price>9999 TWD</g:sale_price>
+          <g:item_group_id>66d944a78a2ea0001734fb2f</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_moto</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>66d94585f22be1000db3c1a1:66d945859b08f9001876b3ba</g:id>
           <g:title>【盒損品】Cardo FREECOM 4X 安全帽通訊藍牙耳機</g:title>
           <g:description>配備頂級 40mm JBL音響擁有絕佳音效體驗，以及升級藍牙5.2，快速穩定連線，通話不卡死， 最特別的是獨家&quot;Hey Cardo&quot;自然語音操控 ，您專屬的騎乘小助手，同時配備 Live Intercom對講連接技術 ，回到範圍內即可自動連接，也可支援1 - 4位騎士對講，群聊樂趣多更多。</g:description>
@@ -11932,7 +12011,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/63180ecb057500001c4b7f88/original.jpg?1662521035</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>8999 TWD</g:price>
           <g:sale_price>6999 TWD</g:sale_price>
           <g:item_group_id>66d94585f22be1000db3c1a1</g:item_group_id>
@@ -17019,7 +17098,7 @@
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>499 TWD</g:price>
-          <g:sale_price>299 TWD</g:sale_price>
+          <g:sale_price>319 TWD</g:sale_price>
           <g:item_group_id>67e27c6a26f469b0fdb8601b</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Motorola</g:brand>
@@ -17102,7 +17181,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6620daa2fc8711001adcb36a/original.jpg?1713429153</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
           <g:sale_price>1062 TWD</g:sale_price>
           <g:item_group_id>67e36ac07caba100107cd3f5</g:item_group_id>
@@ -19975,7 +20054,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6ab24cc5c3a69024b3e6b145/original.jpg?1790069957=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找商品 &gt; 藍牙喇叭 &gt; 家用藍牙喇叭</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>23800 TWD</g:price>
           <g:sale_price>19800 TWD</g:sale_price>
           <g:item_group_id>682bf7802eed86000be89646</g:item_group_id>
@@ -23420,7 +23499,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67b57db499ad79000d426670/original.jpg?1739947443</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>7980 TWD</g:price>
           <g:sale_price>4799 TWD</g:sale_price>
           <g:item_group_id>68b179c24e76cffdd509ba32</g:item_group_id>
@@ -23728,6 +23807,22 @@
           <g:gender>unisex</g:gender>
           <g:color>金色</g:color>
         <g:custom_label_0>open</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>68d26214e908e9000c4e75d4</g:id>
+          <g:title>【盒損品】Cardo PACKTALK EDGE/PRO JBL 音響套裝</g:title>
+          <g:description>• 全球重機騎乘通訊領導品牌 • 40mm 高清音質 JBL 喇叭 • 相容 PACKTALK EDGE 耳機 • 支援軟線或支架麥克風 • 3.5mm連接孔與市面設備相容 • 適合大部分安全帽 (半罩式不適用)</g:description>
+          <g:link>https://store.igogosport.com/products/68d26214e908e9000c4e75d4</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63184667de3c96001fac1757/original.jpg?1662535271</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>4680 TWD</g:price>
+          <g:sale_price>3852 TWD</g:sale_price>
+          <g:item_group_id>68d26214e908e9000c4e75d4</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cardo_acc</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>68d263c9a4be400010728815</g:id>
           <g:title>【盒損品】瑞士Skross 澳規/中國八字旅行萬國轉接頭</g:title>
           <g:description>來自瑞士的精品旅行配件品牌，所有產品皆於享譽全球的創新地—瑞士開發，並符合全球最高的品質標準。擁有多項萬國插頭獨家專利，及自己的ISO認證生產工廠，從設計到製造，完整體系高品質生產。Skross擁有多項功能及設計專利，產品系列包括萬國插座、USB充電器、USB充電線、行動電源以及行李吊牌、束帶...等，多樣化且現今旅行者不可或缺的實用配件。</g:description>
@@ -24685,7 +24780,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13990 TWD</g:price>
-          <g:sale_price>11111 TWD</g:sale_price>
           <g:item_group_id>691429ec5e0adf000c462ba9</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Harman Kardon</g:brand>
@@ -24702,7 +24796,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>13990 TWD</g:price>
-          <g:sale_price>11111 TWD</g:sale_price>
           <g:item_group_id>691429ec5e0adf000c462ba9</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Harman Kardon</g:brand>
@@ -24815,7 +24908,7 @@
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>580 TWD</g:price>
-          <g:sale_price>399 TWD</g:sale_price>
+          <g:sale_price>380 TWD</g:sale_price>
           <g:item_group_id>69241b567015e5000a123c29</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ohuhu</g:brand>
@@ -25125,14 +25218,13 @@
           <g:gender>unisex</g:gender>
         <g:custom_label_0>cardo_acc</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6926759a80864200162ee18c:6926759a0cd43b000b75719d</g:id>
-          <g:title>【全品預購中】Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
           <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
           <g:link>https://store.igogosport.com/products/6926759a80864200162ee18c?variation=6926759a0cd43b000b75719d</g:link>
           <g:image_link>https://img.shoplineapp.com/media/image_clips/64619f205bb8f800177b9fcd/original.jpg?1684119328</g:image_link>
           <g:product_type></g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability>in stock</g:availability>
           <g:price>8980 TWD</g:price>
           <g:sale_price>7980 TWD</g:sale_price>
           <g:item_group_id>6926759a80864200162ee18c</g:item_group_id>
@@ -25140,7 +25232,24 @@
           <g:brand>Cardo</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-          <g:color>單入組 預購白色</g:color>
+          <g:color>單入組白色</g:color>
+        <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>6926759a80864200162ee18c:6afd787a1e32b2000ca9b089</g:id>
+          <g:title>Cardo PACKTALK OUTDOOR 戶外運動通訊藍牙耳機</g:title>
+          <g:description>探索 Cardo PACKTALK Outdoor 戶外運動通訊藍牙耳機，專為滑雪、登山、越野等戶外活動設計，提供高品質音效、IP67 防水等級、最多 15 人同時連線通話功能，並支援 JBL 40mm 喇叭與語音控制。立即於 igogosport 購物網選購，提升您的戶外體驗！</g:description>
+          <g:link>https://store.igogosport.com/products/6926759a80864200162ee18c?variation=6afd787a1e32b2000ca9b089</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64619f209c76cb00110c07c0/original.jpg?1684119328</g:image_link>
+          <g:product_type></g:product_type>
+          <g:condition>new</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>8980 TWD</g:price>
+          <g:sale_price>7980 TWD</g:sale_price>
+          <g:item_group_id>6926759a80864200162ee18c</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cardo</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>單入組黑色</g:color>
         <g:custom_label_0>cardo_outdoor</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
           <g:id>693671085cef900010c9bf54:6936710853e8c2000a3745a7</g:id>
           <g:title>【盒損品】JLab Pop Party 無線藍牙喇叭</g:title>
@@ -26606,7 +26715,6 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>11990 TWD</g:price>
-          <g:sale_price>10990 TWD</g:sale_price>
           <g:item_group_id>69bba9b9652fefac9d7e060f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Harman Kardon</g:brand>
@@ -27915,22 +28023,6 @@
           <g:gender>unisex</g:gender>
           <g:color>透明/黑</g:color>
         <g:custom_label_0>case</g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
-          <g:id>6a0448edcad04140b1edd6ab</g:id>
-          <g:title>【盒損品】Creative BT-W5 音訊藍牙發射器</g:title>
-          <g:description>動態適應，依設備自動調整最佳位元速率，aptX HD 支援 Hi-Res 24 bit/ 96 kHz ，藍牙 5.3，連線更穩定、高品質連接，低延遲模式達成影音同步，aptX Adaptive高解析度音訊編碼，相容 PC、Mac、平板、PS5、Switch，切換裝置無需執行麻煩重複的步驟，外觀時尚超小設計功能完善，點擊查看更多&gt;&gt;&gt;</g:description>
-          <g:link>https://store.igogosport.com/products/6a0448edcad04140b1edd6ab</g:link>
-          <g:image_link>https://img.shoplineapp.com/media/image_clips/66ea7fd91f80e8001f200edf/original.jpg?1726644185</g:image_link>
-          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
-          <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
-          <g:price>2080 TWD</g:price>
-          <g:sale_price>999 TWD</g:sale_price>
-          <g:item_group_id>6a0448edcad04140b1edd6ab</g:item_group_id>
-          <g:identifier_exists>false</g:identifier_exists>
-          <g:brand>Creative</g:brand>
-          <g:age_group>adult</g:age_group>
-          <g:gender>unisex</g:gender>
-        <g:custom_label_0>transmitter</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a0449ce84f6a82f632cad0e</g:id>
           <g:title>【盒損品】Philips PSE0530 智慧視訊會議攝影機</g:title>
           <g:description>Philips PSE0530 擁有 2K 高清影像與雙麥克風降噪功能，這款智慧會議鏡頭提供精準收音與即時語音轉文字，輕鬆應對各種會議環境。USB 即插即用、智慧調光自動校正，完美呈現每個細節。時尚設計，專業質感，讓您的會議更高效、順暢。</g:description>
@@ -28643,8 +28735,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>6980 TWD</g:price>
-          <g:sale_price>4983 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>5599 TWD</g:sale_price>
           <g:item_group_id>6a27bbf2474407cd0d8af737</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cricut</g:brand>
@@ -28675,10 +28766,9 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>11280 TWD</g:price>
-          <g:sale_price>8009 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>9399 TWD</g:sale_price>
           <g:item_group_id>6a27e534adedab51afce9498</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cricut</g:brand>
@@ -28694,8 +28784,8 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>14380 TWD</g:price>
-          <g:sale_price>10679 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>11999 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-19T00:00+0800/2026-11-23T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a27e6f8a769315d234fbc11</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cricut</g:brand>
@@ -28710,10 +28800,10 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
-          <g:sale_price>5695 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>6399 TWD</g:sale_price>
+          <g:sale_price_effective_date>2026-11-19T00:00+0800/2026-11-23T00:00+0800</g:sale_price_effective_date>
           <g:item_group_id>6a2a840ab3f7333708da9279</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cricut</g:brand>
@@ -28929,8 +29019,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1103 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>1299 TWD</g:sale_price>
           <g:item_group_id>6a33a24641e16010475fc081</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cricut</g:brand>
@@ -30049,7 +30138,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1559e34fd52bc53d21c142/original.jpg?1779784163=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>18980 TWD</g:price>
           <g:sale_price>12780 TWD</g:sale_price>
           <g:item_group_id>6a50a9271916467c684d6650</g:item_group_id>
@@ -30081,7 +30170,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a1559e34fd52bc53d21c142/original.jpg?1779784163=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>18980 TWD</g:price>
           <g:sale_price>11360 TWD</g:sale_price>
           <g:item_group_id>6a50aa328b01af72ff18f2d5</g:item_group_id>
@@ -31313,7 +31402,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a798eada0827d7af25239cc/original.jpg?1786351276=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>找商品 &gt; 藍牙耳機 &gt; 開放式耳機</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>3380 TWD</g:price>
           <g:sale_price>2580 TWD</g:sale_price>
           <g:item_group_id>6a7597d61c33a497c5d2fbcf</g:item_group_id>
@@ -31461,7 +31550,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜耳罩式藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>2880 TWD</g:price>
           <g:sale_price>2080 TWD</g:sale_price>
           <g:item_group_id>6a82c6f1250b92c07816ec5a</g:item_group_id>
@@ -31610,10 +31699,9 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>14680 TWD</g:price>
-          <g:sale_price>11925 TWD</g:sale_price>
-          <g:sale_price_effective_date>2026-11-11T00:00+0800/2026-11-19T00:00+0800</g:sale_price_effective_date>
+          <g:sale_price>13399 TWD</g:sale_price>
           <g:item_group_id>6a857938c9f5410f9f1b9fe2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cricut</g:brand>
@@ -32887,7 +32975,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/67f38f2483c9b300119c747f/original.jpg?1744015140</g:image_link>
           <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>2480 TWD</g:price>
           <g:sale_price>1590 TWD</g:sale_price>
           <g:item_group_id>6ab1ec071d7a63077c9dd5c0</g:item_group_id>
@@ -34155,7 +34243,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34173,7 +34261,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34191,7 +34279,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34780,7 +34868,7 @@
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2249 TWD</g:sale_price>
           <g:item_group_id>6af6da2cad4012f104d0d319</g:item_group_id>
@@ -34798,7 +34886,7 @@
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-18T04:02+0800</g:availability_date>
+          <g:availability_date>2026-12-19T04:01+0800</g:availability_date>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2249 TWD</g:sale_price>
           <g:item_group_id>6af6da2cad4012f104d0d319</g:item_group_id>
@@ -34807,4 +34895,535 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
           <g:color>櫻花粉</g:color>
-        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>    </channel></rss>
+        <g:custom_label_0></g:custom_label_0><g:custom_label_1></g:custom_label_1></item>        <item>
+          <g:id>6afd239dce46a1000b864ee9</g:id>
+          <g:title>【福利品】Cricut Maker 5 終極智慧裁切機 + 基礎配件大禮包</g:title>
+          <g:description>從細緻的布料、紙張，到木材等較厚的材質都能輕鬆裁切；還可進行金屬雕刻、皮革壓凹等多種加工。¹ 無論是全彩貼紙、個人化服飾、標示牌、獨特布料貼飾等，都能完成更多元的創作專案。² 搭配直覺易用的設計應用程式，將獨一無二的創意化為實際作品，變得前所未有地簡單。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd239dce46a1000b864ee9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a86add4d6b9fe7a95ca2b30/original.jpg?1787211220=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>14680 TWD</g:price>
+          <g:sale_price>10719 TWD</g:sale_price>
+          <g:item_group_id>6afd239dce46a1000b864ee9</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cricut</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cricut_machine</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd23a7631ba334028ff49a</g:id>
+          <g:title>【盒損品】Creative Zen Air 2 降噪真無線藍牙耳機</g:title>
+          <g:description>SXFI READY 認證輕量入耳式主動降噪，絕佳音效 Super X-Fi 技術，主動降噪，即時消除噪音，沉靜不受擾，環境模式，保持與外界連結，輕鬆感知周圍，IPX4認證防汗防水，單次電量6小時，搭充電盒23小時，支援無線充電且相容 Qi 標準任意兩個設備無縫自由切換，羽量級輕巧，單耳僅3.9g，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd23a7631ba334028ff49a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/681d68ae507447000cbae618/original.jpg?1746757806</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1290 TWD</g:price>
+          <g:sale_price>891 TWD</g:sale_price>
+          <g:item_group_id>6afd23a7631ba334028ff49a</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Creative</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd4463eba28d9d1f8763ac:6afd44633ecb69000b30fb7c</g:id>
+          <g:title>【盒損品】myFirst CareBuds Max 耳罩式藍牙兒童耳機</g:title>
+          <g:description>myFirst CareBuds Max 專為孩子日常聆聽打造，支援85/94dB安全音量雙模式、智慧通透、ENC降噪收音與最長52小時續航。搭配四季替換耳墊、146g輕量折疊設計，久戴舒適又方便收納；藍牙6.0、15m遠距連線與USB-C有線模式，無線有線都能穩定使用。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd4463eba28d9d1f8763ac?variation=6afd44633ecb69000b30fb7c</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4efea86e20e00d679bc6ec/original.jpg?1783561896=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1332 TWD</g:sale_price>
+          <g:item_group_id>6afd4463eba28d9d1f8763ac</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>霧灰白</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd4463eba28d9d1f8763ac:6afd44633ecb69000b30fb7d</g:id>
+          <g:title>【盒損品】myFirst CareBuds Max 耳罩式藍牙兒童耳機</g:title>
+          <g:description>myFirst CareBuds Max 專為孩子日常聆聽打造，支援85/94dB安全音量雙模式、智慧通透、ENC降噪收音與最長52小時續航。搭配四季替換耳墊、146g輕量折疊設計，久戴舒適又方便收納；藍牙6.0、15m遠距連線與USB-C有線模式，無線有線都能穩定使用。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd4463eba28d9d1f8763ac?variation=6afd44633ecb69000b30fb7d</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4efea8543f4d17e17ce36f/original.jpg?1783561896=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1332 TWD</g:sale_price>
+          <g:item_group_id>6afd4463eba28d9d1f8763ac</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>棉花糖</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd4463eba28d9d1f8763ac:6afd44633ecb69000b30fb7e</g:id>
+          <g:title>【盒損品】myFirst CareBuds Max 耳罩式藍牙兒童耳機</g:title>
+          <g:description>myFirst CareBuds Max 專為孩子日常聆聽打造，支援85/94dB安全音量雙模式、智慧通透、ENC降噪收音與最長52小時續航。搭配四季替換耳墊、146g輕量折疊設計，久戴舒適又方便收納；藍牙6.0、15m遠距連線與USB-C有線模式，無線有線都能穩定使用。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd4463eba28d9d1f8763ac?variation=6afd44633ecb69000b30fb7e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4efea8e9c75a77358956bb/original.jpg?1783561896=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1332 TWD</g:sale_price>
+          <g:item_group_id>6afd4463eba28d9d1f8763ac</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>藍莓橘</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd449450af229c2516bb3e</g:id>
+          <g:title>【盒損品】Cricut Joy 2 多功能迷你裁切機 (附基礎配件大禮包)</g:title>
+          <g:description>用 Cricut Joy 2 為生活增添一點個性！ Cricut Joy 2 寬度僅 23公分，是新一代超輕巧智慧裁切機，非常適合快速完成日常創作，例如客製化卡片、簡單貼紙與標籤。更棒的是，它現在也能搭配家用噴墨印表機使用，輕鬆製作全彩貼紙。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd449450af229c2516bb3e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a27bed5ed0fd814441f4cf3/original.jpeg?1780989653=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>5039 TWD</g:sale_price>
+          <g:item_group_id>6afd449450af229c2516bb3e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cricut</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cricut_machine</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44a8690ec706d22d2b20:6afd44a8f904d6000a9df6c7</g:id>
+          <g:title>【盒損品】myFirst Fone R2 智慧兒童手錶</g:title>
+          <g:description>精確定位，即時掌握孩子所在位置及動向，即時通話，一鍵求救，內建eSIM，訂閱首月免費，網路吃到飽無上限，網路訂閱年繳8折平均只要NT$160/月，出國免設定免費漫遊支援日韓等國家，AMOLED螢幕畫面更清晰亮度自動調節更省電，myFirst自行開發通訊社群整合系統，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44a8690ec706d22d2b20?variation=6afd44a8f904d6000a9df6c7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b574a80a733d000e3a425f/original.jpg?1739945127</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>7980 TWD</g:price>
+          <g:sale_price>5399 TWD</g:sale_price>
+          <g:item_group_id>6afd44a8690ec706d22d2b20</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>棉花糖</g:color>
+        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44a8690ec706d22d2b20:6afd44a8f904d6000a9df6c8</g:id>
+          <g:title>【盒損品】myFirst Fone R2 智慧兒童手錶</g:title>
+          <g:description>精確定位，即時掌握孩子所在位置及動向，即時通話，一鍵求救，內建eSIM，訂閱首月免費，網路吃到飽無上限，網路訂閱年繳8折平均只要NT$160/月，出國免設定免費漫遊支援日韓等國家，AMOLED螢幕畫面更清晰亮度自動調節更省電，myFirst自行開發通訊社群整合系統，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44a8690ec706d22d2b20?variation=6afd44a8f904d6000a9df6c8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b574a8c1da73000dd8c133/original.jpg?1739945127</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>7980 TWD</g:price>
+          <g:sale_price>5399 TWD</g:sale_price>
+          <g:item_group_id>6afd44a8690ec706d22d2b20</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>馬卡龍粉</g:color>
+        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44a8690ec706d22d2b20:6afd44a8f904d6000a9df6c9</g:id>
+          <g:title>【盒損品】myFirst Fone R2 智慧兒童手錶</g:title>
+          <g:description>精確定位，即時掌握孩子所在位置及動向，即時通話，一鍵求救，內建eSIM，訂閱首月免費，網路吃到飽無上限，網路訂閱年繳8折平均只要NT$160/月，出國免設定免費漫遊支援日韓等國家，AMOLED螢幕畫面更清晰亮度自動調節更省電，myFirst自行開發通訊社群整合系統，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44a8690ec706d22d2b20?variation=6afd44a8f904d6000a9df6c9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b574a847350b0011dbc153/original.jpg?1739945127</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>7980 TWD</g:price>
+          <g:sale_price>5399 TWD</g:sale_price>
+          <g:item_group_id>6afd44a8690ec706d22d2b20</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>牛奶白</g:color>
+        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44a8690ec706d22d2b20:6afd44a8f904d6000a9df6ca</g:id>
+          <g:title>【盒損品】myFirst Fone R2 智慧兒童手錶</g:title>
+          <g:description>精確定位，即時掌握孩子所在位置及動向，即時通話，一鍵求救，內建eSIM，訂閱首月免費，網路吃到飽無上限，網路訂閱年繳8折平均只要NT$160/月，出國免設定免費漫遊支援日韓等國家，AMOLED螢幕畫面更清晰亮度自動調節更省電，myFirst自行開發通訊社群整合系統，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44a8690ec706d22d2b20?variation=6afd44a8f904d6000a9df6ca</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b574a856f8bc000e097852/original.jpg?1739945127</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>7980 TWD</g:price>
+          <g:sale_price>5399 TWD</g:sale_price>
+          <g:item_group_id>6afd44a8690ec706d22d2b20</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>綜合莓藍</g:color>
+        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44a8690ec706d22d2b20:6afd44a8f904d6000a9df6cb</g:id>
+          <g:title>【盒損品】myFirst Fone R2 智慧兒童手錶</g:title>
+          <g:description>精確定位，即時掌握孩子所在位置及動向，即時通話，一鍵求救，內建eSIM，訂閱首月免費，網路吃到飽無上限，網路訂閱年繳8折平均只要NT$160/月，出國免設定免費漫遊支援日韓等國家，AMOLED螢幕畫面更清晰亮度自動調節更省電，myFirst自行開發通訊社群整合系統，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44a8690ec706d22d2b20?variation=6afd44a8f904d6000a9df6cb</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b57db499ad79000d426670/original.jpg?1739947443</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>7980 TWD</g:price>
+          <g:sale_price>5399 TWD</g:sale_price>
+          <g:item_group_id>6afd44a8690ec706d22d2b20</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>myFirst</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>巴西莓紫</g:color>
+        <g:custom_label_0>kids_watch</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44bb2ec1dd7a6c409021:6afd44bb703a83000d27d560</g:id>
+          <g:title>【盒損品】Creative Zen Hybrid SXFI 耳罩式降噪藍牙耳機</g:title>
+          <g:description>空間音訊，Super X-Fi 技術，還原細節，40mm大動圈單體，精準捕捉，ANC 主動混和降噪自適應調整，低延遲模式，享受流暢播放,藍牙5.3無線連接，同時支援有線，高達70小時續航(降噪關閉)，通話清晰，配備環境雜訊消除麥克風，多點連線，任意兩個設備無縫自由切換，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44bb2ec1dd7a6c409021?variation=6afd44bb703a83000d27d560</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/681b104c4885c0000c927a7d/original.jpg?1746604107</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>3290 TWD</g:price>
+          <g:sale_price>2691 TWD</g:sale_price>
+          <g:item_group_id>6afd44bb2ec1dd7a6c409021</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Creative</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44bb2ec1dd7a6c409021:6afd44bb703a83000d27d561</g:id>
+          <g:title>【盒損品】Creative Zen Hybrid SXFI 耳罩式降噪藍牙耳機</g:title>
+          <g:description>空間音訊，Super X-Fi 技術，還原細節，40mm大動圈單體，精準捕捉，ANC 主動混和降噪自適應調整，低延遲模式，享受流暢播放,藍牙5.3無線連接，同時支援有線，高達70小時續航(降噪關閉)，通話清晰，配備環境雜訊消除麥克風，多點連線，任意兩個設備無縫自由切換，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44bb2ec1dd7a6c409021?variation=6afd44bb703a83000d27d561</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/681b104b2f75ff000f1ddfda/original.jpg?1746604107</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>3290 TWD</g:price>
+          <g:sale_price>2691 TWD</g:sale_price>
+          <g:item_group_id>6afd44bb2ec1dd7a6c409021</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Creative</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>灰色</g:color>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd44f5a8a2c00016818979</g:id>
+          <g:title>【盒損品】Ohuhu Honolulu B 48色雙頭酒精性麥克筆套組 - 中調色系</g:title>
+          <g:description>創立靈感來自美國夏威夷的高CP值繪畫用具品牌，多種顏色、多種款式任君挑選，雙筆頭、圓形筆桿設計，且安全無毒通過檢驗，一起發揮創意靈感，描繪屬於自己的色彩吧，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd44f5a8a2c00016818979</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64f5a864a6d4d200116a1313/original.jpg?1693821027</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1152 TWD</g:sale_price>
+          <g:item_group_id>6afd44f5a8a2c00016818979</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd45093596ec80f9bc90dc:6afd4509917056000b6f5236</g:id>
+          <g:title>【盒損品】OneOdio A5 耳罩式降噪藍牙耳機</g:title>
+          <g:description>雙重HI-Res認證，高保真還原，AI降噪，高達43dB，自適應混合主動降噪，LDAC技術，超快速清晰音效，遊戲模式&lt;80ms低延遲，畫音同步，最高可達75H續航，能量滿滿，充電5分鐘能使用5小時，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd45093596ec80f9bc90dc?variation=6afd4509917056000b6f5236</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b6902a4db7d0000cdb16f9/original.jpg?1740017706</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2680 TWD</g:price>
+          <g:sale_price>1349 TWD</g:sale_price>
+          <g:item_group_id>6afd45093596ec80f9bc90dc</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>OneOdio</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd45093596ec80f9bc90dc:6afd4509917056000b6f5237</g:id>
+          <g:title>【盒損品】OneOdio A5 耳罩式降噪藍牙耳機</g:title>
+          <g:description>雙重HI-Res認證，高保真還原，AI降噪，高達43dB，自適應混合主動降噪，LDAC技術，超快速清晰音效，遊戲模式&lt;80ms低延遲，畫音同步，最高可達75H續航，能量滿滿，充電5分鐘能使用5小時，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd45093596ec80f9bc90dc?variation=6afd4509917056000b6f5237</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67b6902a1d951d000b57e83a/original.jpg?1740017706</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2680 TWD</g:price>
+          <g:sale_price>1349 TWD</g:sale_price>
+          <g:item_group_id>6afd45093596ec80f9bc90dc</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>OneOdio</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>白色</g:color>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd451c1dc08f953744d430:6afd451c494316000a8e7292</g:id>
+          <g:title>【盒損品】JLab Jbuddies POP耳罩式兒童耳機</g:title>
+          <g:description>獲得 2024 EdTech 教育科技創新獎，可調節85/95dB安全音量限制，播放時間達65小時，學習不間斷可雙耳機無線連接一裝置共享音樂，有線無線皆可，連接於各項設備，可 80°旋轉耳罩，附高清收音麥克風，線上上課必備，點我查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd451c1dc08f953744d430?variation=6afd451c494316000a8e7292</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67511b4e48bc7a000d837824/original.jpg?1733368653</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:sale_price>566 TWD</g:sale_price>
+          <g:item_group_id>6afd451c1dc08f953744d430</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>JLab</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>藍色</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd451c1dc08f953744d430:6afd451c494316000a8e7293</g:id>
+          <g:title>【盒損品】JLab Jbuddies POP耳罩式兒童耳機</g:title>
+          <g:description>獲得 2024 EdTech 教育科技創新獎，可調節85/95dB安全音量限制，播放時間達65小時，學習不間斷可雙耳機無線連接一裝置共享音樂，有線無線皆可，連接於各項設備，可 80°旋轉耳罩，附高清收音麥克風，線上上課必備，點我查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd451c1dc08f953744d430?variation=6afd451c494316000a8e7293</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67511b504305340011290a60/original.jpg?1733368656</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:sale_price>566 TWD</g:sale_price>
+          <g:item_group_id>6afd451c1dc08f953744d430</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>JLab</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>粉紅色</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd452f207807431ba608c9</g:id>
+          <g:title>【盒損品】OneOdio Monitor 80 專業型監聽耳機</g:title>
+          <g:description>OneOdio 擁有10年創新發明經驗，以卓越音質、創新技術及時尚的設計和高度舒適聞名，創造頂級的音訊設備，A71D 擁有Hi-Res認證、40mm驅動單體，提供您錄音室等級的功能，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd452f207807431ba608c9</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/660380475c9b250014deb71b/original.jpg?1711505479</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>3580 TWD</g:price>
+          <g:sale_price>2052 TWD</g:sale_price>
+          <g:item_group_id>6afd452f207807431ba608c9</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>OneOdio</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd455a5506455b5ca10a44</g:id>
+          <g:title>【盒損品】JLab Nightfall 有線電競耳機</g:title>
+          <g:description>美國銷售第一 JLab 電競耳機，擁有50mm驅動體，為您帶來高保真音質的極致聽覺體驗，Cloud Foam記憶襯墊提供絕佳的舒適度，讓您長時間佩戴也感到輕鬆自在，且電競中最重要的團戰通話，流暢不間斷。另外，可翻轉式的雙色頭帶可自由搭配，讓您沉浸在震撼音質中。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd455a5506455b5ca10a44</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64df398aa314e3001f21e19e/original.jpg?1692350858</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1332 TWD</g:sale_price>
+          <g:item_group_id>6afd455a5506455b5ca10a44</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>JLab</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0></g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd459475f403000fa81f53</g:id>
+          <g:title>【盒損品】Ohuhu Kaala 60色雙頭酒精性麥克筆套組-風景色系</g:title>
+          <g:description>• 繽紛色系 | 60種風景色系可以選擇 • 粗細雙頭 | 雙頭可選擇，360度筆劃任你發揮 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢 • 圓形筆桿 | 人體工學圓形筆桿好握舒適</g:description>
+          <g:link>https://store.igogosport.com/products/6afd459475f403000fa81f53</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64f05382897bbc0023bebd41/original.jpg?1693471618</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1680 TWD</g:price>
+          <g:sale_price>1152 TWD</g:sale_price>
+          <g:item_group_id>6afd459475f403000fa81f53</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd45a7488188fb8495cc90</g:id>
+          <g:title>【盒損品】Ohuhu 24色雙頭酒精性麥克筆套組 - 鮮明色系</g:title>
+          <g:description>• 繽紛色系 | 24色標準色可以選擇 • 軟硬雙頭 | 雙頭可選擇，360度筆劃任你發揮 • 筆頭可換 | 軟筆頭可雙邊替換延長使用 • 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢• 圓形筆桿 | 人體工學圓形筆桿好握舒適• 安全無毒 |  通過美國、歐盟、中國環保檢測• 精緻纖維 | 精緻纖維筆頭不起毛，滑順流暢• 優質墨水 | 顏色飽和均勻易上色，簡單漸層疊色• 查詢快速 | 標準色系，筆帽與色卡對應查詢快速• 防水筆袋 | 內附防水筆袋收納簡單安心</g:description>
+          <g:link>https://store.igogosport.com/products/6afd45a7488188fb8495cc90</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/64f03a9863a620001d43471d/original.jpg?1693465240</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1280 TWD</g:price>
+          <g:sale_price>799 TWD</g:sale_price>
+          <g:item_group_id>6afd45a7488188fb8495cc90</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd45bb39268cca6eff11d4:6afd45bbaa6be1000e6cc4f7</g:id>
+          <g:title>【盒損品】Cleer Ally Plus II 降噪真無線藍牙耳機</g:title>
+          <g:description>旗艦款殺手真無線襲來！10mm石墨烯動圈體單體，享受CD級無損音質，aptX adaptive 自適應主動降噪，降噪深度高達-35dB。藍牙5.2、6麥克風通話降噪、APP個性化調整，單次10小時電力續航、支援快速充電與無線充電、升級款斜角耳套配戴更舒適，旗艦規格一機滿足。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd45bb39268cca6eff11d4?variation=6afd45bbaa6be1000e6cc4f7</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63185b233d297f001febf3dc/original.jpg?1662540578</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>1799 TWD</g:sale_price>
+          <g:item_group_id>6afd45bb39268cca6eff11d4</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cleer</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>灰色</g:color>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd45bb39268cca6eff11d4:6afd45bbaa6be1000e6cc4f8</g:id>
+          <g:title>【盒損品】Cleer Ally Plus II 降噪真無線藍牙耳機</g:title>
+          <g:description>旗艦款殺手真無線襲來！10mm石墨烯動圈體單體，享受CD級無損音質，aptX adaptive 自適應主動降噪，降噪深度高達-35dB。藍牙5.2、6麥克風通話降噪、APP個性化調整，單次10小時電力續航、支援快速充電與無線充電、升級款斜角耳套配戴更舒適，旗艦規格一機滿足。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd45bb39268cca6eff11d4?variation=6afd45bbaa6be1000e6cc4f8</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/63185b23007d7b0025a605eb/original.jpg?1662540578</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>1799 TWD</g:sale_price>
+          <g:item_group_id>6afd45bb39268cca6eff11d4</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cleer</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>藍色</g:color>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd4884f6a8f05d9e02165e</g:id>
+          <g:title>【盒損品】Ohuhu Kohala 黑色代針筆組9入</g:title>
+          <g:description>【盒損品】Ohuhu Kohala 黑色代針筆組9入</g:description>
+          <g:link>https://store.igogosport.com/products/6afd4884f6a8f05d9e02165e</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/66b197432af4c3001300364e/original.jpg?1722914626</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>580 TWD</g:price>
+          <g:sale_price>430 TWD</g:sale_price>
+          <g:item_group_id>6afd4884f6a8f05d9e02165e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd48972078074f80a6086e:6afd4897f006d50012529c95</g:id>
+          <g:title>【盒損品】Motorola Earbuds 3-S 入耳式有線耳機</g:title>
+          <g:description>9.4mm大驅動單體，超強重低音，柔軟扁平電纜，有效防止耳機纏繞，隨附電纜夾，有利防止噪音及中斷,135°音訊插頭提供額外的保護，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd48972078074f80a6086e?variation=6afd4897f006d50012529c95</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67246a01afa9730010c61ffe/original.jpg?1730439681</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 盒損品</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>499 TWD</g:price>
+          <g:sale_price>359 TWD</g:sale_price>
+          <g:item_group_id>6afd48972078074f80a6086e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Motorola</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>wired</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd62fbb5e09e00293ceffb:6afd62fbd20c0a0012a09524</g:id>
+          <g:title>【福利品】Marley Zion 真無線藍牙耳機</g:title>
+          <g:description>Marley Zion 真無線藍牙耳機，承襲品牌一貫的環保理念，採用100%再生塑料打造，外型自然簡約，展現綠色時尚風格。音質表現優異，呈現溫潤而富有層次的聲場，無論聆聽音樂或通話都清晰自然。搭載藍牙 5.3，連線穩定不卡頓，並支援快充與長效電力，滿足日常與運動所需。具備防汗防水功能，戶外使用也無後顧之憂。每一次選擇 Marley，不只是為了聲音，更是對永續未來的支持。立即體驗自然與科技的完美結合，為你的日常注入純淨好聲音。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd62fbb5e09e00293ceffb?variation=6afd62fbd20c0a0012a09524</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6854d15858b757000c387e2d/original.jpg?1750389079</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1580 TWD</g:price>
+          <g:sale_price>799 TWD</g:sale_price>
+          <g:item_group_id>6afd62fbb5e09e00293ceffb</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Marley</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd62fbb5e09e00293ceffb:6afd62fbd20c0a0012a09525</g:id>
+          <g:title>【福利品】Marley Zion 真無線藍牙耳機</g:title>
+          <g:description>Marley Zion 真無線藍牙耳機，承襲品牌一貫的環保理念，採用100%再生塑料打造，外型自然簡約，展現綠色時尚風格。音質表現優異，呈現溫潤而富有層次的聲場，無論聆聽音樂或通話都清晰自然。搭載藍牙 5.3，連線穩定不卡頓，並支援快充與長效電力，滿足日常與運動所需。具備防汗防水功能，戶外使用也無後顧之憂。每一次選擇 Marley，不只是為了聲音，更是對永續未來的支持。立即體驗自然與科技的完美結合，為你的日常注入純淨好聲音。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd62fbb5e09e00293ceffb?variation=6afd62fbd20c0a0012a09525</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6854d1577bee19001013f2d9/original.jpg?1750389079</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1580 TWD</g:price>
+          <g:sale_price>799 TWD</g:sale_price>
+          <g:item_group_id>6afd62fbb5e09e00293ceffb</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Marley</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>白色</g:color>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd63f553e0b8000c332682</g:id>
+          <g:title>【福利品】Ohuhu Oahu 40色雙頭酒精性麥克筆套組</g:title>
+          <g:description>創立靈感來自美國夏威夷的高CP值繪畫用具品牌，多種顏色、多種款式任君挑選，雙筆頭、圓形筆桿設計，且安全無毒通過檢驗，一起發揮創意靈感，描繪屬於自己的色彩吧，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/6afd63f553e0b8000c332682</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65001c2e9ebfb34ef0082cc9/original.jpg?1694506029</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1580 TWD</g:price>
+          <g:sale_price>719 TWD</g:sale_price>
+          <g:item_group_id>6afd63f553e0b8000c332682</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd6409a664920b4c41f8e0</g:id>
+          <g:title>【福利品】Ampere Shower Power 淋浴智能藍牙喇叭</g:title>
+          <g:description>來自美國，娛樂與實用兼備的科技品牌，榮獲CES創新獎殊榮，透過水力來發電，讓您不需充電可無限盡情享受音樂，360°環繞音效讓您在洗澡的同時有聲音相伴，不管是音樂、PODCAST皆透過藍牙即時連線，給您最佳的洗澡體驗!</g:description>
+          <g:link>https://store.igogosport.com/products/6afd6409a664920b4c41f8e0</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/65659d1f3a080f001d2db41e/original.jpg?1701158175</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>3980 TWD</g:price>
+          <g:sale_price>559 TWD</g:sale_price>
+          <g:item_group_id>6afd6409a664920b4c41f8e0</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ampere</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd6701b5e09e00263cf2d1</g:id>
+          <g:title>【福利品】瑞士Skross 歐規旅行萬國轉接頭附USB孔</g:title>
+          <g:description>來自瑞士的精品旅行配件品牌，所有產品皆於享譽全球的創新地—瑞士開發，並符合全球最高的品質標準。擁有多項萬國插頭獨家專利，及自己的ISO認證生產工廠，從設計到製造，完整體系高品質生產。Skross擁有多項功能及設計專利，產品系列包括萬國插座、USB充電器、USB充電線、行動電源以及行李吊牌、束帶...等，多樣化且現今旅行者不可或缺的實用配件。</g:description>
+          <g:link>https://store.igogosport.com/products/6afd6701b5e09e00263cf2d1</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/655b243eea15450017e2588e/original.jpg?1700471869</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>980 TWD</g:price>
+          <g:sale_price>580 TWD</g:sale_price>
+          <g:item_group_id>6afd6701b5e09e00263cf2d1</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Skross</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>travel</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6afd6715ac08ae2a16356a41</g:id>
+          <g:title>【福利品】EarFun Air 2 真無線藍牙耳機</g:title>
+          <g:description>EarFun Air 2 真無線藍牙耳機，搭載10mm複合單體與藍牙5.3，支援ANC主動降噪與低延遲遊戲模式，電力最長可達40小時，通話清晰、音質出眾，是高CP值的降噪耳機首選。立即選購，享受音樂自由！</g:description>
+          <g:link>https://store.igogosport.com/products/6afd6715ac08ae2a16356a41</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/66681511ecc80e00100a9c0a/original.jpg?1718097168</g:image_link>
+          <g:product_type>找好康 &gt; 省錢專區 &gt; 福利品</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2580 TWD</g:price>
+          <g:sale_price>1099 TWD</g:sale_price>
+          <g:item_group_id>6afd6715ac08ae2a16356a41</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>EarFun</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>tws</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>    </channel></rss>
