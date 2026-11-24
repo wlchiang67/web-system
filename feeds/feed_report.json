@@ -1,6 +1,6 @@
 {
  "label0": {
-  "marker": 74,
+  "marker": 73,
   "webcam": 30,
   "cardo_moto": 43,
   "kids_hp": 257,
@@ -26,7 +26,7 @@
   "transmitter": 19,
   "accessory": 57,
   "case": 73,
-  "cricut_machine": 65,
+  "cricut_machine": 63,
   "cricut_acc": 118,
   "guitar": 19,
   "cleaner": 13,
@@ -35,10 +35,10 @@
  },
  "label1": {
   "(none)": 1112,
-  "outlet": 1018
+  "outlet": 1015
  },
  "brand": {
-  "Ohuhu": 74,
+  "Ohuhu": 73,
   "Coolpo": 9,
   "Cardo": 93,
   "iClever": 91,
@@ -71,7 +71,7 @@
   "Creative": 28,
   "Motorola": 15,
   "Harman Kardon": 8,
-  "Cricut": 183,
+  "Cricut": 181,
   "Enya": 19,
   "LEXON": 12,
   "BUTTONS": 6,
@@ -82,7 +82,7 @@
   "Looki": 15
  },
  "label0_source": {
-  "title": 2114,
+  "title": 2111,
   "ptype": 5,
   "(none)": 11
  },
@@ -92,6 +92,6 @@
   "myFirst Sketch Clear 16吋 透明繪圖板",
   "myFirst Sketch Clear 16吋 透明繪圖板"
  ],
- "generated_at": "2026-11-24T06:47:23+08:00",
- "items": 2130
+ "generated_at": "2026-11-25T05:24:46+08:00",
+ "items": 2127
 }
