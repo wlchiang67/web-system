@@ -1,12 +1,12 @@
 {
  "label0": {
-  "marker": 73,
+  "marker": 75,
   "webcam": 30,
   "cardo_moto": 43,
-  "kids_hp": 257,
+  "kids_hp": 260,
   "cardo_acc": 30,
-  "overear": 158,
-  "speaker": 382,
+  "overear": 160,
+  "speaker": 390,
   "tws": 263,
   "hrm": 9,
   "kids_watch": 73,
@@ -15,7 +15,7 @@
   "bone": 11,
   "3dpen": 39,
   "hearing": 7,
-  "open": 107,
+  "open": 111,
   "cardo_outdoor": 15,
   "wired": 9,
   "turntable": 3,
@@ -25,8 +25,8 @@
   "(none)": 11,
   "transmitter": 19,
   "accessory": 57,
-  "case": 73,
-  "cricut_machine": 63,
+  "case": 75,
+  "cricut_machine": 65,
   "cricut_acc": 118,
   "guitar": 19,
   "cleaner": 13,
@@ -35,15 +35,15 @@
  },
  "label1": {
   "(none)": 1112,
-  "outlet": 1015
+  "outlet": 1038
  },
  "brand": {
-  "Ohuhu": 73,
+  "Ohuhu": 75,
   "Coolpo": 9,
   "Cardo": 93,
-  "iClever": 91,
+  "iClever": 94,
   "(none)": 74,
-  "Cleer": 81,
+  "Cleer": 85,
   "Urbanista": 16,
   "Scosche": 21,
   "Marley": 38,
@@ -52,11 +52,11 @@
   "Puro": 55,
   "JLab": 306,
   "Marshall": 73,
-  "EarFun": 100,
+  "EarFun": 102,
   "Audio-Technica": 33,
   "Kaibo": 12,
   "BeHear": 3,
-  "Audio Pro": 58,
+  "Audio Pro": 66,
   "Nuheara": 1,
   "JBL": 67,
   "OneOdio": 66,
@@ -71,18 +71,18 @@
   "Creative": 28,
   "Motorola": 15,
   "Harman Kardon": 8,
-  "Cricut": 181,
+  "Cricut": 183,
   "Enya": 19,
   "LEXON": 12,
   "BUTTONS": 6,
   "DOSHISHA": 14,
   "Whoosh": 13,
-  "Tech21": 57,
+  "Tech21": 59,
   "Decoded": 24,
   "Looki": 15
  },
  "label0_source": {
-  "title": 2111,
+  "title": 2134,
   "ptype": 5,
   "(none)": 11
  },
@@ -92,6 +92,6 @@
   "myFirst Sketch Clear 16吋 透明繪圖板",
   "myFirst Sketch Clear 16吋 透明繪圖板"
  ],
- "generated_at": "2026-11-25T05:24:46+08:00",
- "items": 2127
+ "generated_at": "2026-11-26T04:32:48+08:00",
+ "items": 2150
 }

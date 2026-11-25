@@ -568,7 +568,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>7280 TWD</g:price>
-          <g:sale_price>5680 TWD</g:sale_price>
+          <g:sale_price>4980 TWD</g:sale_price>
           <g:item_group_id>63185433f82fcf00164932d8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -585,7 +585,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>7280 TWD</g:price>
-          <g:sale_price>5680 TWD</g:sale_price>
+          <g:sale_price>4980 TWD</g:sale_price>
           <g:item_group_id>63185433f82fcf00164932d8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -602,7 +602,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>7280 TWD</g:price>
-          <g:sale_price>5680 TWD</g:sale_price>
+          <g:sale_price>4980 TWD</g:sale_price>
           <g:item_group_id>63185433f82fcf00164932d8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Cleer</g:brand>
@@ -1633,7 +1633,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/632a6a5bf5af4500109432b3/original.jpg?1663724123</g:image_link>
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>499 TWD</g:price>
           <g:item_group_id>6319bdeb74441c00252130e6</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
@@ -5438,7 +5438,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>999 TWD</g:sale_price>
           <g:item_group_id>64f194e28a39790020f63228</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Ohuhu</g:brand>
@@ -6990,7 +6990,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>680 TWD</g:price>
-          <g:sale_price>540 TWD</g:sale_price>
+          <g:sale_price>499 TWD</g:sale_price>
           <g:item_group_id>6577da3c4b25a600178fd4fc</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Skross</g:brand>
@@ -8692,7 +8692,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2780 TWD</g:price>
-          <g:sale_price>2280 TWD</g:sale_price>
+          <g:sale_price>1999 TWD</g:sale_price>
           <g:item_group_id>662f48af8e4fcf0014c54dac</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Philips</g:brand>
@@ -10084,7 +10084,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66978ef7e5dd9e0013b74c7d/original.jpg?1721208567</g:image_link>
           <g:product_type>找品牌 &gt; myFirst｜兒童手錶/耳機/相機 &gt; myFirst｜兒童手錶</g:product_type>
           <g:condition>new</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>599 TWD</g:price>
           <g:item_group_id>66978f323ef32100227f826b</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
@@ -13367,7 +13367,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b07edfa99a7b0022e09bfc/original.jpg?1722842847</g:image_link>
           <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙耳機</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>749 TWD</g:sale_price>
           <g:item_group_id>6716fd6d0eff7d001161053f</g:item_group_id>
@@ -14477,7 +14477,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2980 TWD</g:price>
-          <g:sale_price>1699 TWD</g:sale_price>
+          <g:sale_price>1599 TWD</g:sale_price>
           <g:item_group_id>67459e16b375bf000d3d890e</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Scosche</g:brand>
@@ -16471,7 +16471,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/66b07edfa99a7b0022e09bfc/original.jpg?1722842847</g:image_link>
           <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙耳機</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>1180 TWD</g:price>
           <g:sale_price>699 TWD</g:sale_price>
           <g:item_group_id>67bc2f6a028e3f0011fa0869</g:item_group_id>
@@ -18705,7 +18705,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3290 TWD</g:price>
-          <g:sale_price>2990 TWD</g:sale_price>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>681b10a02cf253000dec852f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Creative</g:brand>
@@ -18722,7 +18722,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>3290 TWD</g:price>
-          <g:sale_price>2990 TWD</g:sale_price>
+          <g:sale_price>2680 TWD</g:sale_price>
           <g:item_group_id>681b10a02cf253000dec852f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Creative</g:brand>
@@ -19712,6 +19712,57 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>travel</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>68254f837fb5660010504e0d:68254f83c5327e000ea5c5cc</g:id>
+          <g:title>【福利品】iClever BTH20 無線降噪兒童耳機</g:title>
+          <g:description>卓越降噪，40dB主動/被動降噪，安全聆聽，80dB音量限制保護聽力，降低有害高頻聲音健康成長，符合國際 BPA-free 安全標準，溫和/增強降噪自由調整，堅固耐用，採用兩倍強度設計抗衝擊，可調節頭帶設計舒適貼合，藍牙 5.4 ，超穩定連接，享受不卡關，有線無線皆可，最高長達60小時播放時間，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/68254f837fb5660010504e0d?variation=68254f83c5327e000ea5c5cc</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67f38f2483c9b300119c747f/original.jpg?1744015140</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 兒童專區</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2480 TWD</g:price>
+          <g:sale_price>1490 TWD</g:sale_price>
+          <g:item_group_id>68254f837fb5660010504e0d</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>iClever</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>藍色</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>68254f837fb5660010504e0d:68254f83c5327e000ea5c5cd</g:id>
+          <g:title>【福利品】iClever BTH20 無線降噪兒童耳機</g:title>
+          <g:description>卓越降噪，40dB主動/被動降噪，安全聆聽，80dB音量限制保護聽力，降低有害高頻聲音健康成長，符合國際 BPA-free 安全標準，溫和/增強降噪自由調整，堅固耐用，採用兩倍強度設計抗衝擊，可調節頭帶設計舒適貼合，藍牙 5.4 ，超穩定連接，享受不卡關，有線無線皆可，最高長達60小時播放時間，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/68254f837fb5660010504e0d?variation=68254f83c5327e000ea5c5cd</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/67f38f2304f56c000db05fe8/original.jpg?1744015139</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 兒童專區</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2480 TWD</g:price>
+          <g:sale_price>1490 TWD</g:sale_price>
+          <g:item_group_id>68254f837fb5660010504e0d</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>iClever</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>粉紅色</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>68254f837fb5660010504e0d:6ab1ed2f376c45000ee1c218</g:id>
+          <g:title>【福利品】iClever BTH20 無線降噪兒童耳機</g:title>
+          <g:description>卓越降噪，40dB主動/被動降噪，安全聆聽，80dB音量限制保護聽力，降低有害高頻聲音健康成長，符合國際 BPA-free 安全標準，溫和/增強降噪自由調整，堅固耐用，採用兩倍強度設計抗衝擊，可調節頭帶設計舒適貼合，藍牙 5.4 ，超穩定連接，享受不卡關，有線無線皆可，最高長達60小時播放時間，點擊查看更多&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/68254f837fb5660010504e0d?variation=6ab1ed2f376c45000ee1c218</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ab1ece023ca99000f018699/original.jpg?1790045408=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 兒童專區</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>2480 TWD</g:price>
+          <g:sale_price>1490 TWD</g:sale_price>
+          <g:item_group_id>68254f837fb5660010504e0d</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>iClever</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>粉紫色</g:color>
+        <g:custom_label_0>kids_hp</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>682aa2d1029ef2000dc50e4b</g:id>
           <g:title>myFirst Fone R2 智慧兒童手錶充電線</g:title>
           <g:description>myFirst Fone R2 智慧兒童手錶充電線</g:description>
@@ -19903,7 +19954,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6682178ce4c64187b2c7eb90/original.jpg?1719801739</g:image_link>
           <g:product_type>省錢專區 &gt; 福利品 &gt; 兒童專區</g:product_type>
           <g:condition>used</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
           <g:sale_price>639 TWD</g:sale_price>
           <g:item_group_id>682eedfde5f10c000f44ea0d</g:item_group_id>
@@ -21307,6 +21358,74 @@
           <g:gender>unisex</g:gender>
           <g:color>胡桃木色</g:color>
         <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca19</g:id>
+          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=686ce99962d555000d81ca19</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719520c45000bb29914/original.jpg?1747711769</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>15840 TWD</g:sale_price>
+          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca1a</g:id>
+          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=686ce99962d555000d81ca1a</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf719717eee000c75fb95/original.jpg?1747711769</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>15840 TWD</g:sale_price>
+          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>白色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce999acbaba00109d5877:686ce99962d555000d81ca1b</g:id>
+          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=686ce99962d555000d81ca1b</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/682bf7191528cc000f8fc9f4/original.jpg?1747711769</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>15840 TWD</g:sale_price>
+          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>686ce999acbaba00109d5877:6a470a182172b7000eb89f43</g:id>
+          <g:title>【福利品】Audio Pro C20 WiFi 無線藍牙喇叭</g:title>
+          <g:description>音樂與電影，一機搞定的全方位音響190W總輸出功率，讓整個空間充滿音樂，連接電視升級電影音效，享受絕佳音質內建RIAA擴大機可以直接連接黑膠唱盤，北歐簡約的現代設計，精品外觀，時尚有型HDMI ARC / Optical / RCA / Bluetooth 5 / Sub Out，支援 AirPlay 2、Chomecast，可多房間音樂撥放，一線升級電視音效(可電視遙控音量)，秒變頂級SoundBar，點擊查看更多&gt;&gt;&gt;&gt;&gt;</g:description>
+          <g:link>https://store.igogosport.com/products/686ce999acbaba00109d5877?variation=6a470a182172b7000eb89f43</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a4709cf3c5ce51cd9477379/original.jpg?1783040462=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>out of stock</g:availability>
+          <g:price>23800 TWD</g:price>
+          <g:sale_price>15840 TWD</g:sale_price>
+          <g:item_group_id>686ce999acbaba00109d5877</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>胡桃木色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>686ceb8d9ada630010b67bcc</g:id>
           <g:title>【盒損品】瑞士Skross 英規旅行萬國轉接頭</g:title>
           <g:description>來自瑞士的精品旅行配件品牌，所有產品皆於享譽全球的創新地—瑞士開發，並符合全球最高的品質標準。擁有多項萬國插頭獨家專利，及自己的ISO認證生產工廠，從設計到製造，完整體系高品質生產。Skross擁有多項功能及設計專利，產品系列包括萬國插座、USB充電器、USB充電線、行動電源以及行李吊牌、束帶...等，多樣化且現今旅行者不可或缺的實用配件。</g:description>
@@ -22545,7 +22664,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6682178ce4c64187b2c7eb90/original.jpg?1719801739</g:image_link>
           <g:product_type>省錢專區 &gt; 盒損品 &gt; 兒童專區</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
           <g:sale_price>719 TWD</g:sale_price>
           <g:item_group_id>68a684d942d6ee000a106e89</g:item_group_id>
@@ -25050,7 +25169,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>980 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
+          <g:sale_price>599 TWD</g:sale_price>
           <g:item_group_id>693f758f7c3f4064a543c061</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -25066,7 +25185,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>980 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
+          <g:sale_price>599 TWD</g:sale_price>
           <g:item_group_id>693f758f7c3f4064a543c061</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -25082,7 +25201,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>980 TWD</g:price>
-          <g:sale_price>699 TWD</g:sale_price>
+          <g:sale_price>599 TWD</g:sale_price>
           <g:item_group_id>693f758f7c3f4064a543c061</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>myFirst</g:brand>
@@ -27179,7 +27298,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/681c1f8963437b000f9acdf8/original.jpeg?1746673544</g:image_link>
           <g:product_type>省錢專區 &gt; 盒損品 &gt; 手作系列</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>in stock</g:availability>
+          <g:availability>out of stock</g:availability>
           <g:price>360 TWD</g:price>
           <g:sale_price>299 TWD</g:sale_price>
           <g:item_group_id>69ddca79876b03af8869335b</g:item_group_id>
@@ -27215,7 +27334,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>69e5c70bc54b9806d0874feb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27232,7 +27351,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>69e5c70bc54b9806d0874feb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27436,7 +27555,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>69f1a383d8d225adc7ce2c0f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27453,7 +27572,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>69f1a383d8d225adc7ce2c0f</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27555,7 +27674,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1180 TWD</g:sale_price>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>6a029d947849f02c5b4210c3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27572,7 +27691,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1180 TWD</g:sale_price>
+          <g:sale_price>780 TWD</g:sale_price>
           <g:item_group_id>6a029d947849f02c5b4210c3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27589,7 +27708,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1580 TWD</g:price>
-          <g:sale_price>1180 TWD</g:sale_price>
+          <g:sale_price>799 TWD</g:sale_price>
           <g:item_group_id>6a029d947849f02c5b4210c3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27638,7 +27757,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>880 TWD</g:sale_price>
           <g:item_group_id>6a043bcf4b0e1a1683927010</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27655,7 +27774,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>880 TWD</g:sale_price>
           <g:item_group_id>6a043bcf4b0e1a1683927010</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27820,7 +27939,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1580 TWD</g:sale_price>
+          <g:sale_price>980 TWD</g:sale_price>
           <g:item_group_id>6a06d183960bbe04082c2ac8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27837,7 +27956,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1580 TWD</g:sale_price>
+          <g:sale_price>980 TWD</g:sale_price>
           <g:item_group_id>6a06d183960bbe04082c2ac8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27854,7 +27973,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1580 TWD</g:sale_price>
+          <g:sale_price>980 TWD</g:sale_price>
           <g:item_group_id>6a06d183960bbe04082c2ac8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27871,7 +27990,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1980 TWD</g:price>
-          <g:sale_price>1580 TWD</g:sale_price>
+          <g:sale_price>980 TWD</g:sale_price>
           <g:item_group_id>6a06d183960bbe04082c2ac8</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27888,7 +28007,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a06d405f82a27c643681544</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27905,7 +28024,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1980 TWD</g:sale_price>
+          <g:sale_price>1480 TWD</g:sale_price>
           <g:item_group_id>6a06d405f82a27c643681544</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -27922,7 +28041,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1280 TWD</g:price>
-          <g:sale_price>980 TWD</g:sale_price>
+          <g:sale_price>780 TWD</g:sale_price>
           <g:item_group_id>6a0ab962317c9ee810bf93df</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28056,7 +28175,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a150262b37f473b7deab13a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28073,7 +28192,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a150262b37f473b7deab13a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28090,7 +28209,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a156a9d5a21a873334a5718</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28107,7 +28226,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a156a9d5a21a873334a5718</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28124,7 +28243,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a156e1fae8a491e96be9c0a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28141,7 +28260,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a156e1fae8a491e96be9c0a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28158,7 +28277,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a156ff444d0a717b4315f7b</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28175,7 +28294,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a156ff444d0a717b4315f7b</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28192,7 +28311,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a15710ec0ad6c4e2b09fae3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28209,7 +28328,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2280 TWD</g:price>
-          <g:sale_price>1880 TWD</g:sale_price>
+          <g:sale_price>1580 TWD</g:sale_price>
           <g:item_group_id>6a15710ec0ad6c4e2b09fae3</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -28357,7 +28476,7 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>11280 TWD</g:price>
           <g:sale_price>9399 TWD</g:sale_price>
           <g:item_group_id>6a27e534adedab51afce9498</g:item_group_id>
@@ -28390,7 +28509,7 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>7980 TWD</g:price>
           <g:sale_price>7199 TWD</g:sale_price>
           <g:item_group_id>6a2a840ab3f7333708da9279</g:item_group_id>
@@ -28675,7 +28794,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28692,7 +28811,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28709,7 +28828,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28726,7 +28845,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a3e4cf95ae822073f75e4fd</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28924,7 +29043,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28941,7 +29060,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28958,7 +29077,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28975,7 +29094,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -28992,7 +29111,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29009,7 +29128,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29026,7 +29145,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29043,7 +29162,7 @@
           <g:condition>new</g:condition>
           <g:availability>out of stock</g:availability>
           <g:price>1880 TWD</g:price>
-          <g:sale_price>1480 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a448bf8a2cb320dda4ad9c2</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29228,7 +29347,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a476bcdf430929d3347b96a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -29245,7 +29364,7 @@
           <g:condition>new</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>1680 TWD</g:price>
-          <g:sale_price>1280 TWD</g:sale_price>
+          <g:sale_price>1080 TWD</g:sale_price>
           <g:item_group_id>6a476bcdf430929d3347b96a</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Decoded</g:brand>
@@ -30468,6 +30587,38 @@
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
         <g:custom_label_0>cricut_machine</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6a6af1cadcc629f74f9e01d5</g:id>
+          <g:title>【福利品】Cricut Explore 5 智慧裁切機 (附基礎配件大禮包)</g:title>
+          <g:description>使用 Cricut Explore 5，讓每一次創作都獨一無二！ Cricut Explore 5 帶來更俐落、更簡化的手作體驗，是你一直期待的新一代智慧裁切機。 Cricut Explore 5 盒內隨附必備手作工具與多款熱門材料，開箱後即可完成多達 65 種創作專案。</g:description>
+          <g:link>https://store.igogosport.com/products/6a6af1cadcc629f74f9e01d5</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a27e522deccaefd050c0b6b/original.jpeg?1780999457=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 手作系列</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>11280 TWD</g:price>
+          <g:sale_price>7519 TWD</g:sale_price>
+          <g:item_group_id>6a6af1cadcc629f74f9e01d5</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cricut</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cricut_machine</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6a6af25db4458546b1e89239</g:id>
+          <g:title>【福利品】Cricut Joy 2 多功能迷你裁切機 (附基礎配件大禮包)</g:title>
+          <g:description>用 Cricut Joy 2 為生活增添一點個性！ Cricut Joy 2 寬度僅 23公分，是新一代超輕巧智慧裁切機，非常適合快速完成日常創作，例如客製化卡片、簡單貼紙與標籤。更棒的是，它現在也能搭配家用噴墨印表機使用，輕鬆製作全彩貼紙。</g:description>
+          <g:link>https://store.igogosport.com/products/6a6af25db4458546b1e89239</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a27bed5ed0fd814441f4cf3/original.jpeg?1780989653=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 手作系列</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>6980 TWD</g:price>
+          <g:sale_price>4479 TWD</g:sale_price>
+          <g:item_group_id>6a6af25db4458546b1e89239</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cricut</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>cricut_machine</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
           <g:id>6a705150c65a60e2e0ab8c79:6a72b24cd3c8b1001022fe30</g:id>
           <g:title>Looki L1 AI 智能穿戴式生活相機</g:title>
           <g:description>Looki L1 是一款結合影像、聲音與 AI 分析的智慧穿戴式相機。輕巧機身可透過磁吸掛繩或配件固定於衣物、背包上，在不打斷當下體驗的情況下，協助記錄旅行、親子互動、寵物日常與生活片段。</g:description>
@@ -31271,7 +31422,7 @@
           <g:product_type>找品牌 &gt; Cricut｜裁切機 &gt; Cricut｜裁切機/燙印機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>14680 TWD</g:price>
           <g:sale_price>13399 TWD</g:sale_price>
           <g:item_group_id>6a857938c9f5410f9f1b9fe2</g:item_group_id>
@@ -32515,7 +32666,7 @@
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1184 TWD</g:sale_price>
+          <g:sale_price>1584 TWD</g:sale_price>
           <g:item_group_id>6ab1e9f4ff59ea049c15f2cb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -32532,7 +32683,7 @@
           <g:condition>used</g:condition>
           <g:availability>in stock</g:availability>
           <g:price>2680 TWD</g:price>
-          <g:sale_price>1184 TWD</g:sale_price>
+          <g:sale_price>1584 TWD</g:sale_price>
           <g:item_group_id>6ab1e9f4ff59ea049c15f2cb</g:item_group_id>
           <g:identifier_exists>false</g:identifier_exists>
           <g:brand>Tech21</g:brand>
@@ -33349,7 +33500,7 @@
           <g:image_link>https://img.shoplineapp.com/media/image_clips/6a798eb3ec5e2b6720694dcc/original.jpg?1786351282=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
           <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙耳機</g:product_type>
           <g:condition>refurbished</g:condition>
-          <g:availability>out of stock</g:availability>
+          <g:availability>in stock</g:availability>
           <g:price>3380 TWD</g:price>
           <g:sale_price>2322 TWD</g:sale_price>
           <g:item_group_id>6add8eb35d8b5a82f91f63c0</g:item_group_id>
@@ -33781,7 +33932,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -33799,7 +33950,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -33817,7 +33968,7 @@
           <g:product_type>找品牌 &gt; JLab｜耳機/麥克風/攝影機 &gt; JLab｜真無線藍牙耳機</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>1980 TWD</g:price>
           <g:sale_price>1380 TWD</g:sale_price>
           <g:item_group_id>6aec2955ec83a6a654d98ab6</g:item_group_id>
@@ -34406,7 +34557,7 @@
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2249 TWD</g:sale_price>
           <g:item_group_id>6af6da2cad4012f104d0d319</g:item_group_id>
@@ -34424,7 +34575,7 @@
           <g:product_type>找功能 / 按預算 &gt; 價格選選 &gt; $2000 ~ $2999</g:product_type>
           <g:condition>new</g:condition>
           <g:availability>preorder</g:availability>
-          <g:availability_date>2026-12-25T04:01+0800</g:availability_date>
+          <g:availability_date>2026-12-26T04:00+0800</g:availability_date>
           <g:price>3280 TWD</g:price>
           <g:sale_price>2249 TWD</g:sale_price>
           <g:item_group_id>6af6da2cad4012f104d0d319</g:item_group_id>
@@ -35587,4 +35738,240 @@
           <g:brand>Marley</g:brand>
           <g:age_group>adult</g:age_group>
           <g:gender>unisex</g:gender>
-        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>    </channel></rss>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069d6615ab972aeec9a126:6b069d668d78ec000c586645</g:id>
+          <g:title>【盒損品】Tech21 MacBook Pro 14 EvoShell 輕薄防摔保護殼</g:title>
+          <g:description>採用高效吸震材料，提供抗衝防護，可承受多次跌落，有效守護裝置安全。具備抗UV防黃、抗刮耐磨與自我修復材質，減少日常使用造成的泛黃、老化與刮痕磨損。超薄設計貼合機身不厚重，搭配底部防滑與精準開孔，打字穩定、連接埠與散熱空間完整保留。包裝採用100%再生材料，兼顧保護與環境友善。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069d6615ab972aeec9a126?variation=6b069d668d78ec000c586645</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69e5c69ce4f6380014f2f3b7/original.jpg?1776666268=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 周邊配件</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2680 TWD</g:price>
+          <g:sale_price>1782 TWD</g:sale_price>
+          <g:item_group_id>6b069d6615ab972aeec9a126</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Tech21</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>透明</g:color>
+        <g:custom_label_0>case</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069d6615ab972aeec9a126:6b069d668d78ec000c586646</g:id>
+          <g:title>【盒損品】Tech21 MacBook Pro 14 EvoShell 輕薄防摔保護殼</g:title>
+          <g:description>採用高效吸震材料，提供抗衝防護，可承受多次跌落，有效守護裝置安全。具備抗UV防黃、抗刮耐磨與自我修復材質，減少日常使用造成的泛黃、老化與刮痕磨損。超薄設計貼合機身不厚重，搭配底部防滑與精準開孔，打字穩定、連接埠與散熱空間完整保留。包裝採用100%再生材料，兼顧保護與環境友善。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069d6615ab972aeec9a126?variation=6b069d668d78ec000c586646</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/69e5c69c7955c4001622036e/original.jpg?1776666268=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 周邊配件</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>2680 TWD</g:price>
+          <g:sale_price>1782 TWD</g:sale_price>
+          <g:item_group_id>6b069d6615ab972aeec9a126</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Tech21</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>case</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069d79a7d6d65eedcc77a3</g:id>
+          <g:title>【福利品】Ohuhu Hilo 72 色軟筆頭壓克力麥克筆</g:title>
+          <g:description>直注式墨水流暢不卡，疊色混色自然不混濁、不傷紙面；1–6 mm 彈性尼龍刷頭，細線描邊、大面積填色都好控制。色彩飽滿、遮蓋力強，深色底也顯色，防水耐光不易褪。紙張、石頭、木頭、雞蛋都能畫，72 色豐富色系附仿皮革收納盒，繪畫、手作與手帳創作隨身帶著走。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069d79a7d6d65eedcc77a3</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a8be9c377c392db67e2e29c/original.jpg?1787554243=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 手作系列</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1504 TWD</g:sale_price>
+          <g:item_group_id>6b069d79a7d6d65eedcc77a3</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069d8e8916cfb226f33512</g:id>
+          <g:title>【盒損品】Ohuhu Hilo 72 色軟筆頭壓克力麥克筆</g:title>
+          <g:description>直注式墨水流暢不卡，疊色混色自然不混濁、不傷紙面；1–6 mm 彈性尼龍刷頭，細線描邊、大面積填色都好控制。色彩飽滿、遮蓋力強，深色底也顯色，防水耐光不易褪。紙張、石頭、木頭、雞蛋都能畫，72 色豐富色系附仿皮革收納盒，繪畫、手作與手帳創作隨身帶著走。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069d8e8916cfb226f33512</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a8be9c377c392db67e2e29c/original.jpg?1787554243=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 手作系列</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>1980 TWD</g:price>
+          <g:sale_price>1692 TWD</g:sale_price>
+          <g:item_group_id>6b069d8e8916cfb226f33512</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Ohuhu</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+        <g:custom_label_0>marker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069effc93066a5ceade0f6:6b069eff31176d000e80973f</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII W WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069effc93066a5ceade0f6?variation=6b069eff31176d000e80973f</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a978b2c934a7c0010d9c72b/original.jpg?1788316460=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>9720 TWD</g:sale_price>
+          <g:item_group_id>6b069effc93066a5ceade0f6</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069effc93066a5ceade0f6:6b069eff31176d000e809740</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII W WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069effc93066a5ceade0f6?variation=6b069eff31176d000e809740</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a978b2cd3a38f0016054e65/original.jpg?1788316460=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>9720 TWD</g:sale_price>
+          <g:item_group_id>6b069effc93066a5ceade0f6</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>白色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069effc93066a5ceade0f6:6b069eff31176d000e809741</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII W WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069effc93066a5ceade0f6?variation=6b069eff31176d000e809741</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a978b2cc4f7ea001484c4fc/original.jpg?1788316460=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>9720 TWD</g:sale_price>
+          <g:item_group_id>6b069effc93066a5ceade0f6</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>灰色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b069effc93066a5ceade0f6:6b069eff31176d000e809742</g:id>
+          <g:title>【盒損品】Audio Pro C5 MKII W WiFi無線藍牙喇叭</g:title>
+          <g:description>多樣連接方式，WiFi、藍牙、RCA端口應有盡有。支援AirPlay 2、Chromecast、Audio Pro Multiroom，多房間串流音樂。還能串流Spotify Connect、Tidal Connect等流行音樂平台。App內有預設六種快速模式，隨時選擇聆聽內容。40W輸出功率，小身材大聲音，每個空間都充滿音樂。拋光鋁製操作面板和皮革提把，為你的音樂體驗增添奢華感。Audio Pro C5 MKII，音質與風格的極致結合。</g:description>
+          <g:link>https://store.igogosport.com/products/6b069effc93066a5ceade0f6?variation=6b069eff31176d000e809742</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6a978b2c8a38b7001855403b/original.jpg?1788316460=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙喇叭</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>15800 TWD</g:price>
+          <g:sale_price>9720 TWD</g:sale_price>
+          <g:item_group_id>6b069effc93066a5ceade0f6</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Audio Pro</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>胡桃木色</g:color>
+        <g:custom_label_0>speaker</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b06a78ea9ebdc08ad0f3883:6b06a78e6147e400084449a2</g:id>
+          <g:title>【福利品】Cleer Bridge 耳夾式  AI 真無線藍牙耳機</g:title>
+          <g:description>Cleer AI 智慧開放式耳機，內建「聽道」AI 語音助理，支援 AI 聲境恆聽 3.0 與雙向高清通話，並通過 Dolby Atmos、Hi-Res Audio Wireless 認證，搭載 Snapdragon Sound 與 Bluetooth 6.0。12mm 鈦金屬單體帶來飽滿低音，結合定向傳音、雙重通話降噪、IPX5 防水、23 小時續航與輕量舒適設計，無論通勤、運動或日常使用都能輕鬆享受高音質。</g:description>
+          <g:link>https://store.igogosport.com/products/6b06a78ea9ebdc08ad0f3883?variation=6b06a78e6147e400084449a2</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ab39c5a84268b64cecaa138/original.jpg?1790155866=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙耳機</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>5980 TWD</g:price>
+          <g:sale_price>3664 TWD</g:sale_price>
+          <g:item_group_id>6b06a78ea9ebdc08ad0f3883</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cleer</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>曜石黑</g:color>
+        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b06a78ea9ebdc08ad0f3883:6b06a78e6147e400084449a3</g:id>
+          <g:title>【福利品】Cleer Bridge 耳夾式  AI 真無線藍牙耳機</g:title>
+          <g:description>Cleer AI 智慧開放式耳機，內建「聽道」AI 語音助理，支援 AI 聲境恆聽 3.0 與雙向高清通話，並通過 Dolby Atmos、Hi-Res Audio Wireless 認證，搭載 Snapdragon Sound 與 Bluetooth 6.0。12mm 鈦金屬單體帶來飽滿低音，結合定向傳音、雙重通話降噪、IPX5 防水、23 小時續航與輕量舒適設計，無論通勤、運動或日常使用都能輕鬆享受高音質。</g:description>
+          <g:link>https://store.igogosport.com/products/6b06a78ea9ebdc08ad0f3883?variation=6b06a78e6147e400084449a3</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ab39c5a84268b64cecaa138/original.jpg?1790155866=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙耳機</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>5980 TWD</g:price>
+          <g:sale_price>3664 TWD</g:sale_price>
+          <g:item_group_id>6b06a78ea9ebdc08ad0f3883</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cleer</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>香檳金</g:color>
+        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b06a7a2c86cf8b04f05c26e:6b06a7a2dddeb7000bb32731</g:id>
+          <g:title>【盒損品】Cleer Bridge 耳夾式  AI 真無線藍牙耳機</g:title>
+          <g:description>Cleer AI 智慧開放式耳機，內建「聽道」AI 語音助理，支援 AI 聲境恆聽 3.0 與雙向高清通話，並通過 Dolby Atmos、Hi-Res Audio Wireless 認證，搭載 Snapdragon Sound 與 Bluetooth 6.0。12mm 鈦金屬單體帶來飽滿低音，結合定向傳音、雙重通話降噪、IPX5 防水、23 小時續航與輕量舒適設計，無論通勤、運動或日常使用都能輕鬆享受高音質。</g:description>
+          <g:link>https://store.igogosport.com/products/6b06a7a2c86cf8b04f05c26e?variation=6b06a7a2dddeb7000bb32731</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ab39c5a84268b64cecaa138/original.jpg?1790155866=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙耳機</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>5980 TWD</g:price>
+          <g:sale_price>4122 TWD</g:sale_price>
+          <g:item_group_id>6b06a7a2c86cf8b04f05c26e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cleer</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>曜石黑</g:color>
+        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b06a7a2c86cf8b04f05c26e:6b06a7a2dddeb7000bb32732</g:id>
+          <g:title>【盒損品】Cleer Bridge 耳夾式  AI 真無線藍牙耳機</g:title>
+          <g:description>Cleer AI 智慧開放式耳機，內建「聽道」AI 語音助理，支援 AI 聲境恆聽 3.0 與雙向高清通話，並通過 Dolby Atmos、Hi-Res Audio Wireless 認證，搭載 Snapdragon Sound 與 Bluetooth 6.0。12mm 鈦金屬單體帶來飽滿低音，結合定向傳音、雙重通話降噪、IPX5 防水、23 小時續航與輕量舒適設計，無論通勤、運動或日常使用都能輕鬆享受高音質。</g:description>
+          <g:link>https://store.igogosport.com/products/6b06a7a2c86cf8b04f05c26e?variation=6b06a7a2dddeb7000bb32732</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ab39c5a84268b64cecaa138/original.jpg?1790155866=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙耳機</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>5980 TWD</g:price>
+          <g:sale_price>4122 TWD</g:sale_price>
+          <g:item_group_id>6b06a7a2c86cf8b04f05c26e</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>Cleer</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>香檳金</g:color>
+        <g:custom_label_0>open</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b06a7b54d07fc4f42b5cb6b:6b06a7b561a618000b5cd446</g:id>
+          <g:title>【盒損品】EarFun Wave Pro X 無線降噪耳罩耳機</g:title>
+          <g:description>EarFun 旗艦級無線降噪耳機，搭載 DCAA 雙同軸聲學架構、8 麥克風 QuietSmart 3.5 混合式 ANC，支援 aptX Lossless、LDAC、Hi-Res Audio、藍牙 6.0、多點連線與 Auracast，最長 90 小時續航，帶來高解析音質、深度降噪與全天舒適聆聽體驗。</g:description>
+          <g:link>https://store.igogosport.com/products/6b06a7b54d07fc4f42b5cb6b?variation=6b06a7b561a618000b5cd446</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ac60f38ff7eb6701ab34cb8/original.jpg?1791364920=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 盒損品 &gt; 藍牙耳機</g:product_type>
+          <g:condition>refurbished</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>4980 TWD</g:price>
+          <g:sale_price>3582 TWD</g:sale_price>
+          <g:item_group_id>6b06a7b54d07fc4f42b5cb6b</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>EarFun</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>        <item>
+          <g:id>6b06a7c87c210abcaa7fc0df:6b06a7c8d5754a000e5f0bab</g:id>
+          <g:title>【福利品】EarFun Wave Pro X 無線降噪耳罩耳機</g:title>
+          <g:description>EarFun 旗艦級無線降噪耳機，搭載 DCAA 雙同軸聲學架構、8 麥克風 QuietSmart 3.5 混合式 ANC，支援 aptX Lossless、LDAC、Hi-Res Audio、藍牙 6.0、多點連線與 Auracast，最長 90 小時續航，帶來高解析音質、深度降噪與全天舒適聆聽體驗。</g:description>
+          <g:link>https://store.igogosport.com/products/6b06a7c87c210abcaa7fc0df?variation=6b06a7c8d5754a000e5f0bab</g:link>
+          <g:image_link>https://img.shoplineapp.com/media/image_clips/6ac60f38ff7eb6701ab34cb8/original.jpg?1791364920=&amp;owner_id=6311d562c6ae0d00dcf3b07a</g:image_link>
+          <g:product_type>省錢專區 &gt; 福利品 &gt; 藍牙耳機</g:product_type>
+          <g:condition>used</g:condition>
+          <g:availability>in stock</g:availability>
+          <g:price>4980 TWD</g:price>
+          <g:sale_price>3184 TWD</g:sale_price>
+          <g:item_group_id>6b06a7c87c210abcaa7fc0df</g:item_group_id>
+          <g:identifier_exists>false</g:identifier_exists>
+          <g:brand>EarFun</g:brand>
+          <g:age_group>adult</g:age_group>
+          <g:gender>unisex</g:gender>
+          <g:color>黑色</g:color>
+        <g:custom_label_0>overear</g:custom_label_0><g:custom_label_1>outlet</g:custom_label_1></item>    </channel></rss>
