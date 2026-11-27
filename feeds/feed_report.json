@@ -1,6 +1,6 @@
 {
  "label0": {
-  "marker": 75,
+  "marker": 73,
   "webcam": 30,
   "cardo_moto": 43,
   "kids_hp": 260,
@@ -12,7 +12,7 @@
   "kids_watch": 73,
   "kids_cam": 51,
   "mic": 16,
-  "bone": 11,
+  "bone": 9,
   "3dpen": 39,
   "hearing": 7,
   "open": 111,
@@ -35,10 +35,10 @@
  },
  "label1": {
   "(none)": 1113,
-  "outlet": 1037
+  "outlet": 1033
  },
  "brand": {
-  "Ohuhu": 75,
+  "Ohuhu": 73,
   "Coolpo": 9,
   "Cardo": 94,
   "iClever": 94,
@@ -54,7 +54,7 @@
   "Marshall": 73,
   "EarFun": 102,
   "Audio-Technica": 33,
-  "Kaibo": 12,
+  "Kaibo": 10,
   "BeHear": 3,
   "Audio Pro": 66,
   "Nuheara": 1,
@@ -82,7 +82,7 @@
   "Looki": 15
  },
  "label0_source": {
-  "title": 2134,
+  "title": 2130,
   "ptype": 5,
   "(none)": 11
  },
@@ -92,6 +92,6 @@
   "myFirst Sketch Clear 16吋 透明繪圖板",
   "myFirst Sketch Clear 16吋 透明繪圖板"
  ],
- "generated_at": "2026-11-27T04:20:50+08:00",
- "items": 2150
+ "generated_at": "2026-11-28T04:07:10+08:00",
+ "items": 2146
 }
